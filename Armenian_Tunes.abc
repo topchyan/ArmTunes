@@ -1,9 +1,4 @@
 %%format format.fmt
-%%
-%%endtext
-%%leftmargin 12cm
-%%rightmargin 3cm
-%%
 
 X:1
 T: Առաքել Մուշեղ
@@ -214,15 +209,18 @@ c2          c4 Bc (B_A2G)    | (G6       _AGFE) z2              | z2  (dc)(cB) (
 Նոր արշալույսի անուշ շաղի մեջ,
 Մենակ ես հաղթել հազար-հազարին,
 Հազար երանի քո սիրած յարին։
+
 Անուշ աղբյուր ես՝ սարից ես գալիս,
 Ծարավ ճամփորդին ջուր էլ չես տալիս,
 Հեռվից կարծում են զովացնող ջուր ես,
 Խմողին այրող կրակ ես, հուր ես։
+
 Բաց արա լեզուդ, լոկ մի բառ ասա,
 Ջրով չի մարի, ի՞նչ կրակ է սա,
 Բաց արա սիրտս, թող ապրեմ էլի,
 Դարձիր Հավասուդ, անուշ նազելի։
 %%endtext
+
 
 X:6
 T:Գյոզալս խռով է
@@ -257,11 +255,50 @@ w:Ջա- վախ-քի գյո-զալ ջան, | ես քե -  զի * հեյ-րան։
 %%multicol start
 %%begintext
 %%
-%%
-1) Գյոզալս խռով է, ինձ հետ չի խոսում,
-    Գոնե չի երևա՝ պատկերը տեսնեմ,
-    Բըլբուլ լեզվից անուշ ձայնը չեմ լսում,
-    Գոնե չի երևա՝ պատկերը տեսնեմ։
+Գյոզալս խռովել է, ինձ հետ չի խոսում,
+Գոնե չի երևում, պատկերը տեսնեմ,
+Բլբուլ լեզվի անուշ ձայնը չեմ լսում,
+Գոնե չի երևում՝ պատկերը տեսնեմ։
+
+	Դուրս արի մեյդան,
+	Սարերի սեյրան,
+	Ջավախքի գյոզալ ջան,
+	Ես քեզի հեյրան։
+
+Շատ երանի նրան՝ սիրած յար չունի,
+Անխիղճ յար կա՝ երբեք ինթիզար չունի,
+Լուսնակի պես քիչ-քիչ երևալ ունի,
+Լրիվ չի երևում՝ պատկերը տեսնեմ։
+
+Ասի՝ շատ մի՛ ատի, վերջում սիրել կա,
+Ասի՝ շատ մի՛ սիրի, վերջում ատել կա,
+Աշուղ Շահենի հետ քեզ հանդիպել կա,
+Գյոզալ ջան, դուրս արի՝ պատկերդ տեսնեմ։
+%%endtext
+%%multicol new
+%%leftmargin 10cm
+%%rightmargin 5cm
+%%begintext
+Gyozals xrrovel e', indz het chi xosum,
+Gone chi erevum, patkery' tesnem,
+Blbul lezvi anush dzayny' chem lsum,
+Gone chi erevum՝ patkery' tesnem։
+
+    Durs ari meydan,
+    Sareri seyran,
+    Javaxqi gyozal jan,
+    Yes qezi heyran։
+
+Shat erani nran՝ sirac' yar chuni,
+Anxightsh yar ka՝ erbeq int'izar chuni,
+Lusnaki pes qich-qich ereval uni,
+Lriv chi erevum՝ patkery' tesnem։
+
+Asi՝ shat mi՛ ati, verjum sirel ka,
+Asi՝ shat mi՛ siri, verjum atel ka,
+Ashugh Shaheni het qez handipel ka,
+Gyozal jan, durs ari՝ patkerd tesnem։
+%%endtext
 
 
 X:7
@@ -345,37 +382,6 @@ E2->)E2!>!{/G}F2     | (FEFEDC)       | D3D3              | !>!A2>(A2GF)        
 !>!F2>(F2ED)         | !>!E2>(E2DC)   | D3D3              | ABA(!>!TG2F)        |  $
 (GAG)(!>!TF2E)       | (FGF)(!>!TE2D) | (EFE)(!>!TD2C)    | D            z D z3 |]
 
-2. Սրտիս վրայ վերկ մը կայ
-     Զայն արյունող ձեռք մը կայ։
-     Զարկեմ ձեռքին՝ զենք չգայ
-     Ալ գլխուս մեջ խելք չգայ։
-3. Սրտիս ցաւերը տուժեց
-     Անունը գլխիս կոլեց։
-     Խոշոր դեմքդ ինձ տաբալեց,
-     Դարձեալ ժպիտդ ինձ բուժեց։
-%%
-%%endtext
-%%multicol new
-%%leftmargin 10cm
-%%rightmargin 5cm
-%%begintext
-%%
-%%
-1. Srdis vra kʿar mě ga
-     Zayn nedelu char chʿka։
-     Kʿarě tʿogh deghě mna
-     Kʿaren kʿarsird yar mě ga։
-2. Srdis vray verg mě ga
-     Zayn aryunogh tseṛkʿ mě ga։
-     Zargem tseṛkʿin՝ zenkʿ chʿka
-     Al klkhus mech khelkʿ chʿka։
-3. Srdis tsʿawerě duzhetsʿ
-     Anuně klkhis goletsʿ։
-     Khoshor temkʿt ints dapaletsʿ,
-     Tartseal zhbidt ints puzhetsʿ։
-%%
-%%endtext
-%%multicol end
 
 X:10
 T: Հով սարեր, մով սարեր
@@ -422,7 +428,46 @@ w:Ծա-ղիկ-նե-րի  | ծով սա-րեր: | Ման-կու-թյու-նըս  
       Աղբյուրների սառ ջրերի կանչերը,
       Հովիվների կրակների պես անմար
       Սարի եղնիկ յարիս սև-սև աչերը:
-
+Chorus:	
+      Հով սարեր, մով սարեր,
+	Մանկությունս ետ բերեք,
+	Ծաղիկների ծով սարեր:
+2) Ես հիշում եմ մորս ձայնը սարերում,
+      Ոչխարների մակաղելը քարերում,
+      Հովիվների սրինգների ձայնն անուշ
+      Սարին նստած թուխ ամպերի հովերում:
+3) Մեր սարերի ծաղկունքն է իմ սրտի մեջ,
+      Նրանց անուշ բուրմունքն է իմ սրտի մեջ,
+      Ծաղկի բույրով, հովի շնչով հագեցած
+      Մեր երգերի ակունքն է իմ սրտի մեջ:
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 3cm
+%%begintext
+%%
+%%
+1) Es hišum em mer sareri lanǰerë,
+   Aġbyurneri saṙ ǰreri kančerë,
+   Hovivneri krakneri pes anmar
+   Sari eġnik yaris sev-sev ačerë:
+Chorus:	
+    Hov sarer, mov sarer,
+    Mankut’yuns et berek’,
+    Çaġikneri çov sarer:
+2) Es hišum em mors dzaynë sarerum,
+   Očxarneri makaġelë k’arerum,
+   Hovivneri sringneri jaynn anuš
+   Sarin nstaç t’ux amperi hoverum:
+3) Mer sareri çaġkunk’n ē im srti meǰ,
+   Nranc’ anuš burmunk’n ē im srti meǰ,
+   Çaġki buyrov, hovi šnčov hagec’aç
+   Mer ergeri akunk’n ē im srti meǰ:
+%%
+%%endtext
+%%multicol end
+%%
 
 X:11
 T:Նորից Գարուն Եկաւ (Ջէյրանի պէս)
@@ -516,11 +561,64 @@ w:Ուն ֊ քե ֊ րը կեռ * ու * կա - մար * է։
 %
 %%multicol start
 %%begintext
+
 Նուբարի բոյը չինար է,
 Աչքերը նուշ ու խումար է,
 Երեք օրվա լուսնի նման
 Ունքերը կեռ ու կամար է։
 
+Արև ցոլաց սարին, քարին,
+Նուբար կերթա հանդը վերին։
+Ով որ տեսնի իմ Նուբարին,
+Չի մոռանա ամբողջ տարին։
+
+Նուբարի բոյը չինար է,
+Աչքերը նուշ ու խումար է,
+Երեք օրվա լուսնի նման
+Ունքերը կեռ ու կամար է։
+
+Նուբար կերթա օրոր-շորոր,
+Նուբարի յար կայնե մոլոր,
+«Ա՜խ» կքաշե գիշեր ու զօր,
+Ու ման կուգա գյուղի բոլոր։
+
+Նուբարի բոյը չինար է.
+Աչքերը նուշ ու խումար է,
+Երեք օրվա լուսնի նման
+Ունքերը կեռ ու կամար է։
+%%endtext
+%%multicol new
+%%leftmargin 10cm
+%%rightmargin 5cm
+%%begintext
+
+Nubari boyy' chinar e',
+Achqery' nush u xumar e',
+Yereq orva lusni nman
+Unqery' kerr u kamar e'։
+
+Arev colac sarin, qarin,
+Nubar kert'a handy' verin։
+Vov or tesni im Nubarin,
+Chi morrana amboghj tarin։
+
+Nubari boyy' chinar e',
+Achqery' nush u xumar e',
+Yereq orva lusni nman
+Unqery' kerr u kamar e'։
+
+Nubar kert'a oror-shoror,
+Nubari yar kayne molor,
+«A՜x» kqashe gisher u zor,
+U man kuga gyughi bolor։
+
+Nubari boyy' chinar e'.
+Achqery' nush u xumar e',
+Yereq orva lusni nman
+Unqery' kerr u kamar e'։
+%%endtext
+%%multicol end
+%
 
 X:13
 T: Սեւանի ձկնորսները (Պար)
@@ -697,47 +795,38 @@ w: Քա-րեն ~ քար-սիրտ                      | յար մը կայ։
      Զայն նետելու ջար չգայ։
      Քարը թող տեղը մնայ
      Քարեն քարսիրտ յար մը կայ։
-
-Chorus:	
-      Հով սարեր, մով սարեր,
-	Մանկությունս ետ բերեք,
-	Ծաղիկների ծով սարեր:
-2) Ես հիշում եմ մորս ձայնը սարերում,
-      Ոչխարների մակաղելը քարերում,
-      Հովիվների սրինգների ձայնն անուշ
-      Սարին նստած թուխ ամպերի հովերում:
-3) Մեր սարերի ծաղկունքն է իմ սրտի մեջ,
-      Նրանց անուշ բուրմունքն է իմ սրտի մեջ,
-      Ծաղկի բույրով, հովի շնչով հագեցած
-      Մեր երգերի ակունքն է իմ սրտի մեջ:
+2. Սրտիս վրայ վերկ մը կայ
+     Զայն արյունող ձեռք մը կայ։
+     Զարկեմ ձեռքին՝ զենք չգայ
+     Ալ գլխուս մեջ խելք չգայ։
+3. Սրտիս ցաւերը տուժեց
+     Անունը գլխիս կոլեց։
+     Խոշոր դեմքդ ինձ տաբալեց,
+     Դարձեալ ժպիտդ ինձ բուժեց։
 %%
 %%endtext
 %%multicol new
-%%leftmargin 12cm
-%%rightmargin 3cm
+%%leftmargin 10cm
+%%rightmargin 5cm
 %%begintext
 %%
 %%
-1) Es hišum em mer sareri lanǰerë,
-   Aġbyurneri saṙ ǰreri kančerë,
-   Hovivneri krakneri pes anmar
-   Sari eġnik yaris sev-sev ačerë:
-Chorus:	
-    Hov sarer, mov sarer,
-    Mankut’yuns et berek’,
-    Çaġikneri çov sarer:
-2) Es hišum em mors dzaynë sarerum,
-   Očxarneri makaġelë k’arerum,
-   Hovivneri sringneri jaynn anuš
-   Sarin nstaç t’ux amperi hoverum:
-3) Mer sareri çaġkunk’n ē im srti meǰ,
-   Nranc’ anuš burmunk’n ē im srti meǰ,
-   Çaġki buyrov, hovi šnčov hagec’aç
-   Mer ergeri akunk’n ē im srti meǰ:
+1. Srdis vra kʿar mě ga
+     Zayn nedelu char chʿka։
+     Kʿarě tʿogh deghě mna
+     Kʿaren kʿarsird yar mě ga։
+2. Srdis vray verg mě ga
+     Zayn aryunogh tseṛkʿ mě ga։
+     Zargem tseṛkʿin՝ zenkʿ chʿka
+     Al klkhus mech khelkʿ chʿka։
+3. Srdis tsʿawerě duzhetsʿ
+     Anuně klkhis goletsʿ։
+     Khoshor temkʿt ints dapaletsʿ,
+     Tartseal zhbidt ints puzhetsʿ։
 %%
 %%endtext
 %%multicol end
-%%
+
 
 X:17
 T: Ֆինջան Պար
