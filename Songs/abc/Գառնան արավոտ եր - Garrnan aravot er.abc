@@ -1,0 +1,29 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:3
+T:Գառնան արավոտ եր
+T:Garnan Aravot Er
+C:Gusan Havasi
+Z:www.duduk.com
+L:1/16
+Q:1/4=80
+M:3/8
+K:F
+%%MIDI program 75
+z2 A4-  | A2GAGF   | A2>c2G2 | G2(3:(GAG)FE | z2 G2G2 | F2(FGFE) | G2>A2F2 | \
+F2(3:(FGF)ED | z2 F2F2 | E2EFED | D2 G4   | (FA)G2GE  | (DF)E2DF | E2(GE)(FD) | \ 
+[M:5/8] z2 D2- DDC=B,C | z2 (E2 D)DC=B,C !segno!|| 
+[M:3/8] z2 D2G2 | G4 FE | FA G4- | G2(FE)F2 | F2G2F2 | E2>F2D2 | D6 | z2 D2A2 | \ 
+A2>B2G2 | (Gc) A4- | A2G2F2 | F2>A2(AG) | G2>A2(FE) | F6 | z2 G2c2 |=B2c2A2 | \
+Ac =B4- | B2c2A2 | G2A2A2 | A2>c2G2 | G6 |
+z2 A2A2 | G2(GAGF) | A4 cG | G2(3:(GAG)FE | [K:F] z2 G2G2 | F2(FGED) | \ 
+D2F2E2 | (EF) D4 |1 D6 :|2 z2 A4- || 
+A2GAGF | A2>c2G2 | G2(3:(GAG)FE | z2 G2G2 | F2GEFD | (DF)E2(DF) | E2(GEFD) || 
+[M:5/8] !coda! z2 D2- D2D2(3(C=B,C) | [M:3/8] !coda!!segno! D2- DD(3(C=B,C) | D2- DD(3(C=B,C) | D4 z2 |] 
+%
+

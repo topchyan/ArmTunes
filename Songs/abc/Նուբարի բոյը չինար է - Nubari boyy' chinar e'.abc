@@ -1,0 +1,111 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:13
+T:  Նուբարի բոյը չինար է
+T: Nubari Boye Chinar e
+C: Armenian Traditional
+K: Am
+M: 10/8
+L: 1/8
+Q: 1/4=120
+%
+%%MIDI drum dzddddzdzd 50 37 37 37 50 37 54   
+%%MIDI drumon
+%%MIDI program 72
+%%MIDI bassprog 33
+%%MIDI chordprog 28
+%%MIDI gchord f2c2cf2c2c
+%
+% 
+P: Verse
+"Am"z2  (A c2    "Dm"(BA)) (B3      | "Am"A3)     (c2      "Dm"(BA) B3) | \ 
+w:Նու-բա-րի բո--յը չի-նա-ր է,
+"Am"z2   (A  c2  "Dm"(BA)) (B3      |  "E7"A3) (B2 "Am"A^G A3)          |
+w:Աչ-քե-րը * նուշ ու խու-մար է,
+"Am"z2  (A (Ac)  "Dm"(BA)) (B2A     | "Am"A2^GAc) "Dm"(BA  B3)          | \
+w:Ե -րեք * օր-վա * լուս - նի  * նը -ման
+"Am"z2   (A  c2  "Dm"(BA)) (B2 A)   |  "E7"(A2 ^G) "Am"(ABAG A3)        |
+w:Ուն ֊քե ֊րը կեռ ** ու * կա - մար * է։
+%
+%
+P: Chorus
+ "C" z2  e  e2      e2       (e2 c  | "G"d3)         (e2   "C"(cB)  c3) | \
+w:Նու-բա-րի բո--յը չի-նա-ր է,
+     z2  e  e2     (eg)      (d2c)  | "G"d3       e2       "C"(cB)  c3  |
+w:Աչ-քե-րը * նուշ * ու խու-մար  *է,
+ "Dm"z2  B  c2       d2    (d2e)    | "Am"(c3     d2)      (cB      A3) | \
+w:Ե-րեք  օր-վա * լուս-նի  նը -ման
+ "F"z2    BA2 "E7"(^GA    B3)       |          (c3 B2) "Am"(A^GA Bc     | "Dm"d2)
+w:Ուն ֊քե ֊րը կեռ * ու կա-մար է։
+                 B c2 (d^c d2e)     | "Am"(c2 B  d2)  (cB       A3)     | \ 
+w:Ե -րեք * օր-վա լուս - նի   նը -ման
+  "F"z2   (cBA"Dm"^GA) (B2A         |  "E7"c2B) (cB "Am"A^G A3)         |]
+w:Ուն ֊ քե ֊ րը կեռ * ու * կա - մար * է։
+%
+%
+%%multicol start
+%%begintext
+
+Նուբարի բոյը չինար է,
+Աչքերը նուշ ու խումար է,
+Երեք օրվա լուսնի նման
+Ունքերը կեռ ու կամար է։
+
+Արև ցոլաց սարին, քարին,
+Նուբար կերթա հանդը վերին։
+Ով որ տեսնի իմ Նուբարին,
+Չի մոռանա ամբողջ տարին։
+
+Նուբարի բոյը չինար է,
+Աչքերը նուշ ու խումար է,
+Երեք օրվա լուսնի նման
+Ունքերը կեռ ու կամար է։
+
+Նուբար կերթա օրոր-շորոր,
+Նուբարի յար կայնե մոլոր,
+«Ա՜խ» կքաշե գիշեր ու զօր,
+Ու ման կուգա գյուղի բոլոր։
+
+Նուբարի բոյը չինար է.
+Աչքերը նուշ ու խումար է,
+Երեք օրվա լուսնի նման
+Ունքերը կեռ ու կամար է։
+%%endtext
+%%multicol new
+%%leftmargin 10cm
+%%rightmargin 5cm
+%%begintext
+
+Nubari boyy' chinar e',
+Achqery' nush u xumar e',
+Yereq orva lusni nman
+Unqery' kerr u kamar e'։
+
+Arev colac sarin, qarin,
+Nubar kert'a handy' verin։
+Vov or tesni im Nubarin,
+Chi morrana amboghj tarin։
+
+Nubari boyy' chinar e',
+Achqery' nush u xumar e',
+Yereq orva lusni nman
+Unqery' kerr u kamar e'։
+
+Nubar kert'a oror-shoror,
+Nubari yar kayne molor,
+«A՜x» kqashe gisher u zor,
+U man kuga gyughi bolor։
+
+Nubari boyy' chinar e'.
+Achqery' nush u xumar e',
+Yereq orva lusni nman
+Unqery' kerr u kamar e'։
+%%endtext
+%%multicol end
+%
+

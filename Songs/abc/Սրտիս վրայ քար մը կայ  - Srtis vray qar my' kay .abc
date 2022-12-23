@@ -1,0 +1,86 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:17
+T: Սրտիս վրայ քար մը կայ 
+T: Srdis Vra Kʿar Mě Ga
+C: Udi Hrant Kenkulian
+F: https://www.youtube.com/watch?v=cuUBKrZaDVk
+K: Dm ^c
+L: 1/8
+M: 10/8
+Q: 1/4=120
+%%MIDI program 71 % Clarinet
+%%MIDI bassprog 33
+%%MIDI chordprog 28
+%%MIDI gchord f2cfcf2fcz
+%%MIDI drumon
+%%MIDI drum dzddzdzdzd 41 35 41 35 100
+P: Intro
+"A"    A2    e      f2  "Dm"fe f3 | f>ed    e2 "A7"d2 c3             | \
+z2     A     "Bb"B2 B2  B>AG      | "Gm"c2B c2 "A7"B2 A3            :|
+%
+P: Song
+z2     "A"(c d2)    (e2 e3)       | "Dm"(f3 ed)    "A7"(cd e2) z     | \
+%
+w: Սըր-տիս ~վը֊րայ                             | քար-մը  ~ կա ֊ այ
+"Dm"f3 d2    "A7"e2 c3            | "Gm"d3  B2 "A"A3  z2            :|
+w: Զայն նե-տե-լու                                | ջար չը-գայ։
+%
+"Dm"z2     c     d2     d2  (d2c) | "A7"B3      A2 "Bb"(B>A   B3)    | \
+w: Քա֊րը ~ թող տե                             ղը մը-նայ
+%
+z2     (AAG) "A7"(AB)   c2  z     | "Gm"B3      A2 "A"A5            :|
+w: Քա-րեն ~ քար-սիրտ                      | յար մը կայ։
+%
+% -----------------------------------------------------
+%
+%%multicol start
+%%begintext
+%%
+%%
+1. Սրտիս վրայ քար մը կայ
+     Զայն նետելու ջար չգայ։
+     Քարը թող տեղը մնայ
+     Քարեն քարսիրտ յար մը կայ։
+
+2. Սրտիս վրայ վերկ մը կայ
+     Զայն արյունող ձեռք մը կայ։
+     Զարկեմ ձեռքին՝ զենք չգայ
+     Ալ գլխուս մեջ խելք չգայ։
+
+3. Սրտիս ցաւերը տուժեց
+     Անունը գլխիս կոլեց։
+     Խոշոր դեմքդ ինձ տաբալեց,
+     Դարձեալ ժպիտդ ինձ բուժեց։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 10cm
+%%rightmargin 5cm
+%%begintext
+%%
+%%
+1. Srdis vra kʿar mě ga
+     Zayn nedelu char chʿka։
+     Kʿarě tʿogh deghě mna
+     Kʿaren kʿarsird yar mě ga։
+
+2. Srdis vray verg mě ga
+     Zayn aryunogh tseṛkʿ mě ga։
+     Zargem tseṛkʿin՝ zenkʿ chʿka
+     Al klkhus mech khelkʿ chʿka։
+
+3. Srdis tsʿawerě duzhetsʿ
+     Anuně klkhis goletsʿ։
+     Khoshor temkʿt ints dapaletsʿ,
+     Tartseal zhbidt ints puzhetsʿ։
+%%
+%%endtext
+%%multicol end
+
+

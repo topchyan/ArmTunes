@@ -1,0 +1,99 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:11
+T: Հով սարեր, մով սարեր
+T: Ov Sarer, Mov Sarer
+C: Gusan Ashot Գուսան Աշոտ (Աշոտ Հայրապետի Դադալյան)  
+F: Adapted from www.duduk.com
+I: linebreak $
+L: 1/8
+Q: 1/8=150
+M: 6/8
+K: C
+%%stretchstaff 1
+%%pagescale .85 
+[P:Intro]
+c>B(c/B/) (c/d/c/B/_A/G/) | B>_AB cB/A/G   | z _AA (A/c/B/A/G/F/) | G>_AG/F/ B/A/ G2 | $
+c>B(c/B/) (c/d/c/B/_A/G/) | B>_AB c(B/A/G) | z _AA c(B/A/G/F/)    | G>=AG/F/F/E/ E2 || $
+% 
+[P:Verse A]
+z3/2 E/E E D2 | G G2 (G/A/)(G<F) | {/G}F2 E G3 | z3/2 _A/(AG/) (A/B/) (3:(A/4G/4F/4)E | E2 F (G{/G}(F>)E) | (G/F/)(FE) E3 | $ 
+w:Ես հի-շում եմ  | մեր սա-րե - րի  | լան-ջե-րը, | աղ-բյուր - նե - րի | սառ ջը-րե-րի | կան - չե - րը, 
+z E E E D2 | G G2 c(_B/A/G) | {/G}F2 E G3 | z3/2 _A/(AG/) (A/B/) (3:(A/4G/4F/4)E | E2 F (G(F)E) | (G/F<)(FE/) E3 | $
+w:Ես հիշում եմ  | մեր սարերի  | լանջերը, | աղբյուրների | սառ ջրերի | կանչերը, 
+[P:Verse B]
+z3/2 c/c (c/d/)(c/B/_A/G/) | (B>_A)B (B/c/)(B/A/G) | _A(A>G) G3 | 
+w: Հո-վիվ-նե -րի | կը - րակ-նե - րի | պես ան - մար 
+z3/2 G/_A B c2 | B _A2 G F2 | (_A/G<)(AB/) G3 | $
+w: սա-րի եղ-նիկ | յա-րիս սև-սև | ա - չե - րը:
+z3/2 c/B _A B2 | _A G2 F G2 | F(F>E) E3 || [M:3/4] z2 E2 F2 | (G!trill!_AG) G4 || $
+w: սա-րի եղ-նիկ | յա-րիս սև-սև | ա-չե - րը: | ձեզ եմ խըն - դրում
+% 
+[P:Chorus] [M:6/8] 
+(_B>=A)(A/G/) (G2 F) | (_B>=A)(A/G/) G3 | z3/2 c/c c {/_B}A2 | {A_B}A2 G {GA}(G2 F)  | $
+w:Հով սա-րեր, | մով սա-րեր, | Ման-կու-թյու-նըս  | ետ բե-րեք, |    
+ z3/2 A/A(G/(A/) {/G}F2) | (_A>G)(A/B/) G3 | z G_A B c2 | B2 _A (G/4A/4G/4F/4G/4F/4E/4F/4E/4_E/4=E/) | z3/2 G/G (G/_A/) (G/F/F/G/) | (F>E)E E3 |] 
+w:Ծա-ղիկ-նե-րի  | ծով սա-րեր: | Ման-կու-թյու-նըս  | ետ բե-րեք, | Ծա-ղիկ-նե-րի | ծով սա-րեր:
+%
+%%newpage
+%%multicol start
+%%rightmargin 10cm
+%%begintext
+%%
+%%
+1) Ես հիշում եմ մեր սարերի լանջերը,
+      Աղբյուրների սառ ջրերի կանչերը,
+      Հովիվների կրակների պես անմար
+      Սարի եղնիկ յարիս սև-սև աչերը:
+
+Chorus:	
+      Հով սարեր, մով սարեր,
+	Մանկությունս ետ բերեք,
+	Ծաղիկների ծով սարեր:
+
+2) Ես հիշում եմ մորս ձայնը սարերում,
+      Ոչխարների մակաղելը քարերում,
+      Հովիվների սրինգների ձայնն անուշ
+      Սարին նստած թուխ ամպերի հովերում:
+
+3) Մեր սարերի ծաղկունքն է իմ սրտի մեջ,
+      Նրանց անուշ բուրմունքն է իմ սրտի մեջ,
+      Ծաղկի բույրով, հովի շնչով հագեցած
+      Մեր երգերի ակունքն է իմ սրտի մեջ:
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 3cm
+%%begintext
+%%
+%%
+1) Es hišum em mer sareri lanǰerë,
+   Aġbyurneri saṙ ǰreri kančerë,
+   Hovivneri krakneri pes anmar
+   Sari eġnik yaris sev-sev ačerë:
+
+Chorus:	
+    Hov sarer, mov sarer,
+    Mankut’yuns et berek’,
+    Çaġikneri çov sarer:
+
+2) Es hišum em mors dzaynë sarerum,
+   Očxarneri makaġelë k’arerum,
+   Hovivneri sringneri jaynn anuš
+   Sarin nstaç t’ux amperi hoverum:
+
+3) Mer sareri çaġkunk’n ē im srti meǰ,
+   Nranc’ anuš burmunk’n ē im srti meǰ,
+   Çaġki buyrov, hovi šnčov hagec’aç
+   Mer ergeri akunk’n ē im srti meǰ:
+%%
+%%endtext
+%%multicol end
+%%
+

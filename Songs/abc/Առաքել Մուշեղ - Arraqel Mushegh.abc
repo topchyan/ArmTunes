@@ -1,0 +1,76 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:1
+T: Առաքել Մուշեղ
+T: Arakel Mushegh 
+O: Armenia
+F: https://www.youtube.com/watch?v=bXg-IbvkWvc
+Z: Avetik Topchyan (transcription, interpretation)
+M: 6/8
+L: 1/8
+Q: 1/8=120
+K: Dm
+%%MIDI program 68 
+%%MIDI drum d2ddddd2d2d2 36 37 37 37 37 36 37 37 100 120 120 120 120 100 120 120
+%%MIDI drumon 
+%%MIDI drone 69 50 57 45 40
+%%MIDI droneon
+%
+"Dm"(=B,/2C/2 D2)    D        D(G/E/)   | (F3       G/2A/2     G2) | (G/2E/2) (F2/>D) (F/2E/2) (EF/D/) |1 D6          :|2 (D3 E/D/E2) ||
+w:    Ա ֊     ռա֊    քել      Մու-      | շեղ                      | լեր ֊     նե ֊    րուց ~   ի ֊    | ջան           | ջան   
+|: (FG       A/2G/2) (G/2E/2) (FG/2F/2) | (F>DF/E/) (E/2D/2)   D2  | G/E/     (F>D)   F/2E/2   (EF/D/) |1 (D3 E/D/E2) :|2 D6          ||
+w:   Ա- ~    վե -     րակ  ~   ջա ֊     | ղաց ~     հո - գի  ~ ջան | ե-ղավ ~ օ - թե -                  |~ ւան          | ւան
+%
+%%MIDI droneoff
+%
+%%multicol start
+%%begintext
+%%
+%%
+1) Առաքել Մուշեղ լեռներուց իջան (2x)
+   Ավերակ ջաղաց, հոգի ջան, եղավ օթևան (2x)
+
+2) Դե զարկեք, զարկեք, դե զարկեք քաջ-քաջ
+   Տիրոջ սուրբ կամքով, հոգի ջան, մենք կերթանք առաջ
+3) Առաքել ըսեց Մուշեղ իմ ախպեր
+   Դուք պռնեք պարը, հոգի ջան, մենք գերտանք առաջ
+4) Առաքել ձայնեց «Մուշեղ իմ եղբայր.
+   Դուն հանգիստ կացիր քո դիրքում, ես կգտնեմ ճար»:
+5) Առաքել, Մուշեղ, Սերոբ Խլացին,
+   Երեք կտրիճներ հոգի ջան, նահատակվեցին:
+6) Երկինք թող շնորհե, նրանց սուրբ պսակ,
+   Մենք էլ միշտ հիշենք, հոգի ջան, նրանց հիշատակ:
+7) Խրիմյան հայրիկ անուն Մկրտիչ
+   Դու պիտի տառնաս, հոգի ջան, Հայ ազգի փրկիչ:
+%%endtext
+%%multicol new
+%%leftmargin 11cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+1) Arrak'el Mushegh lerrneruc ijan (2x)
+   Averak jaghac, hogi jan, eghav ot'evan (2x)
+2) De zarkek', zarkek', de zarkek' k'aj-k'aj
+   Tiroj surb kamk'ov, hogi jan, menk' kert'ank' arraj
+3) Arrak'el y'sec Mushegh im axper
+   Duk' prrnek' pary', hogi jan, menk' gertank' arraj
+4) Arrak'el dzaynec «Mushegh im eghbayr.
+   Dun hangist kacir k'o dirk'um, es kgtnem tshar»:
+5) Arrak'el, Mushegh, Serob Xlacin,
+   Yerek' ktritshner hogi jan, nahatakvecin:
+6) Yerkink' t'ogh shnorhe, nranc surb psak,
+   Menk' e'l misht hishenk', hogi jan, nranc hishatak:
+7) Xrimyan hayrik anun Mkrtich
+   Du piti tarrnas, hogi jan, Hay azgi p'rkich
+%%endtext
+%%multicol end
+%
+%-------------------------------------------------
+%
+

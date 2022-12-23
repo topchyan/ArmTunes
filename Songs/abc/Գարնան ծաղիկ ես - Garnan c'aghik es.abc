@@ -1,0 +1,45 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:5
+T: Գարնան ծաղիկ ես
+T: Garnan Tsagik Es
+C: Gusan Havasi
+F: https://www.youtube.com/watch?v=aA_ZxVGnY2c
+Z: www.duduk.com
+L: 1/16
+Q: 1/4=80
+M: 6/8
+I: linebreak $
+K: C
+"^Moderato"
+z2          E2F2 G2(G_A)(FE) | G2(G2>F2) (GF) (F2>E2)           | E12                        | z2        E2F2 G2(G_A)(FE)   | $
+c2(TB2>_A2) (AB) (TA2>G2)    | G12                              | z2  B2c2 (d_e)(dc)(cB)     | c2        c4 (Bc) (B_A2G)    | (G6 _AGFE) z2 |  $
+z2          E2F2 G2(G_A)(FE) | (Bc)      (TB2>_A2) (AB) (A2>G2) | G12                        | z2        B2c2 (d_e)(dc)(cB) | $
+c2          c4 Bc (B_A2G)    | (G6       _AGFE) z2              | z2  (dc)(cB) (B_A)(AG)(GF) | G2(G2>F2) (GF) (F2>E2)       | E12           |]
+%%begintext
+Գարնան ծաղիկ ես, ծաղիկ հոտավետ,
+Բույրդ գալիս է անուշ հովի հետ,
+Գարունն է լցրել քեզ իր շաղերով,
+Բլբուլն է երգել անուշ տաղերով։
+
+Մենակ ես բացվել գարնան բաղի մեջ,
+Նոր արշալույսի անուշ շաղի մեջ,
+Մենակ ես հաղթել հազար-հազարին,
+Հազար երանի քո սիրած յարին։
+
+Անուշ աղբյուր ես՝ սարից ես գալիս,
+Ծարավ ճամփորդին ջուր էլ չես տալիս,
+Հեռվից կարծում են զովացնող ջուր ես,
+Խմողին այրող կրակ ես, հուր ես։
+
+Բաց արա լեզուդ, լոկ մի բառ ասա,
+Ջրով չի մարի, ի՞նչ կրակ է սա,
+Բաց արա սիրտս, թող ապրեմ էլի,
+Դարձիր Հավասուդ, անուշ նազելի։
+%%endtext
+

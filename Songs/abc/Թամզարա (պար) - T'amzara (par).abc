@@ -1,0 +1,36 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:7
+T:Թամզարա (պար)
+T:Tamzara (Dance)  
+K:Am
+M:9/8
+L:1/8
+Q:1/4=120
+%%MIDI program 71
+%%MIDI drum ddddddddd 36 37 36 37 36 37 39 39 37  120 40 90 40 90 40 100 100 40
+%%MIDI drumon
+%
+P: Main themes
+%
+CEDC             B,2            C         D2          | CEDB,              C2       D         A,2              :: B,CDC D2 G E>D | CDDB, C2 D A,2 ::
+GAAG             A2             g         e>d         | cddB               c2       d         A2               :: GAAd  c2 BAG   | GGGc  B2 A A2  :|
+d2               Bc             d2        A d2        | ddBc               d2       A         d2                | e>dcd e2> dcB  | cBcd  B2 A A2  :|
+%
+P:Variations
+%
+c                (c/e/d/e/c/d/) B>A       B/c/ d>B    | (c/A/c/e/d/e/c/d/) B2       A         A2               :| 
+eggg             d2             ge>d                  | cddB               c2       e         d2               :| ABcd  c2 de>d  | cdcB  c2 d A2  :|
+A                g/-g/^f/g/e    d-d       g/f/ e>d    | c                  c/e/d/c/ B         c2   d A2        :|
+A/G/A/B/c/d/B/d/ c2             d         e/f/e/d/    | c                  d        B/c/B/d/  c-   c/B/c/d/ A2 :|
+gfed             c2             d         e/f/e/d/    | cddB               c2       d         A2               :|
+g2               g2             ^f2       g g z       | ^f/g/              a2/      a/g/^f/g/ ^f>e g g z        |
+^f/g/            a              a/g/^f/g/ e>dd/g/ e>d | d/c/d/e/           cB       c2        d    A2          ||
+%
+%
+

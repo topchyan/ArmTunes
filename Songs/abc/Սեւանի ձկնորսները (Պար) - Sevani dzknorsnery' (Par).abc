@@ -1,0 +1,39 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:14
+T: Սեւանի ձկնորսները (Պար)
+T: Sevani Tsgnorsner (Dance)
+O: Armenia
+N: https://www.youtube.com/watch?v=QgEvApulTg0
+M: 10/8
+L: 1/8
+K: C 
+Q: 1/4=150
+%%MIDI program 24       % Instrument
+%%MIDI bassprog 33
+%%MIDI chordprog 28
+%%MIDI gchord f2czcf2czc
+%%MIDI drumon
+%%MIDI drum d2ddzd2ddz 41 35 35 35 100
+P: Intro
+   "Am"ae   aae         ae aae          | ae             aae      ae aae      ||
+P: A
+   "Am"     z           EAAG A2 GAB     | cBd            c2       z eddc       | "Dm"   dcedB "Am"cdBA z      |
+   z        EAAG        AB/A/GAB        | cBdc           z2       eddc         | "Dm"   dcedB "Am"cdB/c/"G"AG |
+P: B
+   "C"ccGcd eedec                       | "Dm"ddc"G"de   "C"ccBcG              |
+   "C"ccGcd ee/f/e/d/ec                 | "Dm"d2         c"G"de   "C"cd/c/Bcd  | "Am"e8 z2                    |
+P: C
+   "Am"e2   ddc         e2 ddc          | defga          e2       ddc          | "Dm"d8 z2                    |
+P: D
+|: "Dm"d2   cde         "G"cBAB"C"c     | "Dm"defdc      d4>      z            |
+   d2       cde         "Am"cBAB"F"c/d/ | "G"cdec/d/B/c/ "Am"A4>  z           :|
+%
+%-------------------------------------------------
+%
+

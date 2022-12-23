@@ -1,0 +1,90 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:6
+T:Գյոզալս խռով է
+T:Gozals Khrov E
+F:https://www.youtube.com/watch?v=6xKE-s_j3Es
+C:Gusan Shahen
+L:1/8
+Q:1/4=120
+M:none
+I:linebreak $
+K:Fmaj
+%%pagescale 1
+|: "^dolce"
+  [M:8/8]G(A>G) (TG>F) (A/2G/2) G z            | (G>A)G   TG>F (A/2G/2) G z           | $ 
+  [M:10/8]!>!G  !>! (c2{/d}) =B2 A2 G(F/2E/2D) | [M:8/8]  E(F>G) (E>F) D D2           | $
+%
+|: [M:9/8]      !f! c(=B/2c/2) d d2 d2 d2      | [M:7/8]  cd c(d>=B) (c>=B)             | $
+w:Գյո-զա -լըս խը-ռով է, | ինձ հետ չի խո - սում,
+  [M:9/8]       cd =B(c>A) (A>G) G2            | [M:10/8] G(c>G) G2 (F/2A/2) G2- G z :: $
+w:Գո-նե չի ե--րև--ա՝ | պատ-կե--րը տե--սնեմ,
+  [M:9/8] FG            A A2 A2 A2             | (=B/2c/2)  (d>B) (c>A) (A/_B/A/G/) (GF) | $
+w:Բըլ-բուլ լեզ-վից ա-նուշ | ձայ--նը *  չեմ * լը  - ** սում,
+  [M:10/8] G    A2 (G2{A}) (F2{G}) (E/2F/2) D2 | [M:8/8]  E (F>G) (E>F) D D2          :| $
+w:Գո-նե չի ե-րևա՝ |պատ-կեր - ը * տես-նեմ։
+   |: G (A>G) (G>F) (A/G/) G2 | G (A>G) (G>F) (A/G/) G2 | $
+w:Դուրս ա ֊ րի * մեյ ֊ դան, | սա-րե -րի * սեյ - րան,
+   [M:10/8] G (c2{d}) =B2 A2 G (F/E/D) | [M:8/8] E (F>G) (E>F) D D2 :|]
+w:Ջա- վախ-քի գյո-զալ ջան, | ես քե -  զի * հեյ-րան։
+%
+%
+%
+%%multicol start
+%%begintext
+%%
+
+1) Գյոզալս խռովել է, ինձ հետ չի խոսում,
+Գոնե չի երևում, պատկերը տեսնեմ,
+Բլբուլ լեզվի անուշ ձայնը չեմ լսում,
+Գոնե չի երևում՝ պատկերը տեսնեմ։
+
+Chorus:
+    Դուրս արի մեյդան,
+    Սարերի սեյրան,
+    Ջավախքի գյոզալ ջան,
+    Ես քեզի հեյրան։
+
+2) Շատ երանի նրան՝ սիրած յար չունի,
+Անխիղճ յար կա՝ երբեք ինթիզար չունի,
+Լուսնակի պես քիչ-քիչ երևալ ունի,
+Լրիվ չի երևում՝ պատկերը տեսնեմ։
+
+3) Ասի՝ շատ մի՛ ատի, վերջում սիրել կա,
+Ասի՝ շատ մի՛ սիրի, վերջում ատել կա,
+Աշուղ Շահենի հետ քեզ հանդիպել կա,
+Գյոզալ ջան, դուրս արի՝ պատկերդ տեսնեմ։
+%%endtext
+%%multicol new
+%%leftmargin 10cm
+%%rightmargin 5cm
+%%begintext
+
+1) Gyozals xrrovel e', indz het chi xosum,
+Gone chi erevum, patkery' tesnem,
+Blbul lezvi anush dzayny' chem lsum,
+Gone chi erevum՝ patkery' tesnem։
+
+Chorus:
+    Durs ari meydan,
+    Sareri seyran,
+    Javaxqi gyozal jan,
+    Yes qezi heyran։
+
+2) Shat erani nran՝ sirac' yar chuni,
+Anxightsh yar ka՝ erbeq int'izar chuni,
+Lusnaki pes qich-qich ereval uni,
+Lriv chi erevum՝ patkery' tesnem։
+
+3) Asi՝ shat mi՛ ati, verjum sirel ka,
+Asi՝ shat mi՛ siri, verjum atel ka,
+Ashugh Shaheni het qez handipel ka,
+Gyozal jan, durs ari՝ patkerd tesnem։
+%%endtext
+%%multicol end
+

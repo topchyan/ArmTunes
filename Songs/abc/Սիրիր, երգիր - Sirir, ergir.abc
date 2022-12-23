@@ -1,0 +1,59 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:16
+T:Սիրիր, երգիր
+T:Sirir, yerkir ("Sirdes","Armenian Misirlou")
+Z:John Chambers <jc@trillian.mit.edu> http://trillian.mit.edu/~jc/music/
+Z:Avetik Topchyan (edits, lyrics, links and MIDI rhythms)
+F:https://www.youtube.com/watch?v=2ZPH6MmeggI
+C:Մ.Իսկէնտէրեան
+O:Armenia
+L:1/8
+M:4/4
+Q:1/4=140
+K:Gm^F
+%%MIDI program 71 % Clarinet
+%%MIDI bassprog 33
+%%MIDI chordprog 28
+%%MIDI gchord fczcz2c2
+%%MIDI drumon
+%%MIDI drum d3dd2d2 35 35 35 35 100 70 80 80
+P:Intro
+|: "Bb"zd2d "Cm"cde2 | "D"zc2c "Gm"cBd2 | zBAG "D"FGA2 |1 "Cm"ABce "D"d4 |2 "Cm"FGFE "D"D4 ||
+w:
+P:Verse
+|: "D"zd2A (BG)A2 | "Cm"zF2G "D"(FE)D2 | "Gm"zB2B B-BB2 | "D"zA2B ^c2-d2 :|
+w:~Սի-րիր, եր - գիր ու միշտ ժըպ ֊ տա, էս աշ- խարհ -ից ~ան-դարդ ~գը-նա,
+P:Chorus
+|: "Bb"zd2d "F"(cd)e2 | "D"zA2B "(Cm)"(c=B) c2 | "D"zD2E (FG)A2 | "Cm"(FG)FE "D"D2-D2 :|
+w:~Ինչ որ ա--նես էն կը մը ֊նայ, ~ցը-նորք -նե-րի մի ~ հա-ւա-տա
+W:
+W:1. Սիրիր, երգիր ու միշտ ժպտա,
+W:Էս աշխարհից անդարդ գնա,
+W:Ինչ որ անես էն կը մնայ,
+W:Ցնորքների մի հաւատա։
+W:
+W:2. Կարօտել եմ, չե՞ս մեղքանայ,
+W:Էս ցաւին ես, չեմ դիմանայ,
+W:Իմ հաքիմն ես, դարման արա,
+W:Սէրս անմուրազ չմահանայ։
+W:
+W:3. Սէրս սիրովդ արբենայ,
+W:Օրս քեզմով շէն անցկանայ,
+W:Թէկուզ ամէն մարդ իմանայ,
+W:Դու իմ սրտի տէրն ես հիմա։
+W:
+W:4. Արի սիրենք, քանի կեանք կայ,
+W:Էս աշխարհում ո՞վ կը մնայ,
+W:Սէրն էլ կ՚անցնի, կը չքանայ,
+W:Կեանքը մահով կը վերջանայ։
+%
+%-------------------------------------------------
+%
+
+

@@ -1,0 +1,36 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:9
+T: Ծաղկեփունջ
+T: Tsaghkepunch
+K: C _A _e 
+M: 6/8
+L: 1/8=120
+%%MIDI program 75 
+%%MIDI bassprog 33
+%%MIDI chordprog 28
+%%MIDI gchord fcc
+P: A
+   "Cm"c3  c3       | c3      "G"B/c/d2 | "Cm"c>fe dec         |  "G"d6             |
+   "Cm"c3  c3       | c3      "G"B/c/d2 | "Cm"c>ed "G"cdB      |1 "Cm"c6           :|2 "Cm"(c3 c)de ||
+P: B
+|: "Fm"f3  edc      | "Cm"e3  dcB       | ced      "G"cdB      |  "Cm"c2  d2 e2     |
+   "Fm"f3  edc      | "Cm"e3  dcB       | ced      "G"cdB      |1 "Cm"(c3 c)de     :|2 "Cm" c6      ||
+P: C
+|: "Cm"z   de   eed | (e3     e)de      | f2       e      dec  |  "G"d6             |
+   z       cd   ddc | d6                | e2       d      cdB  |  "Cm"c6           :|
+P: D
+   "Cm"z2  e    dcd | e2      d cde     | "Fm"f2   e      d e2 |  f2      e "G"def ||
+P: E
+|: "Eb"gfg aga      | gfg     "Fm"a3    | "Bb"fef   gfg        |  fef     "Eb"g3     |
+   "Cm"ede  ^fed    | cBc     "G"d3     | "Fm"edc  "G"dcB      |1 "Cm"c2  d e f2   :|2 "Cm"c6        |]
+%
+%-------------------------------------------------
+%
+
+

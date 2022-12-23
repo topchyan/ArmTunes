@@ -1,0 +1,36 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:18
+T: Ֆինջան Պար
+T: Dance "Finjan"
+C: Armenian Traditional Melody
+F: Score adapted from www.duduk.com; Video: https://youtu.be/QzS9zU6SceY
+L: 1/16
+Q: 1/4=100
+M: 2/4
+I: linebreak $
+K: F
+%%MIDI program 75
+%%MIDI drum dzddzddz 45 36 36 36 36
+%%MIDI drumon 
+%%MIDI drone 69 50 57 35 30
+%%MIDI droneon
+D2 z2 D2A2- | A2(Ac) A4 | (D_EDC) D2A2- | A2(Ac) A4 | $ 
+%%MIDI droneoff
+%%MIDI drone 69 53 48 35 30
+%%MIDI droneon
+|: (ABAG) (GA)F2- | F2F2G2A2 | (ABAG) (GA)F2 | F2(EG) F4 :|$ 
+%%MIDI droneoff
+%%MIDI drone 69 50 57 35 30
+%%MIDI droneon
+(D_EDC) D2A2- | A2(Ac) A4 | D2(DC) D2A2- | A2(Ac) A4 |$ 
+%%MIDI droneoff
+%%MIDI drone 69 53 48 35 30
+%%MIDI droneon
+|: (ABAG) (GAGF | F2)F2G2A2 | (ABAG) (GAGF) | F2(EG) F4 :| 
+%%MIDI droneoff
