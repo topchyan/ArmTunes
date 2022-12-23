@@ -1,0 +1,76 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:19
+T:Հինգալա
+T:Hingala
+C:ժողովրդական և Կարա-Մուրզա
+L:1/4
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:Bb
+D D D | D C B, | C3- | C3 | C D E | D C (B,/A,/) | B,3- | B,3 | $ 
+w:Հո-վի-վը սա-րում տը-խրեց, ~ սի-րո եր-գը նը-վա - գեց
+G, B, D | C B, A, | G, B, D | G D B, | G, B, D | C B, A, | G,3- | G,3 | $ 
+w:Եր-գը վառ այ-տե-րին, եր-գը բոց ա-չքե-րին, եր-գը վարդ օ ֊-րե-րին։
+|: !mf! G3- | G3 | (G/F/) F F | (G/E/) E E | (F/D/) D D | (E/C/) C C | (D/B,/) B, B, | (C/A,/) A, A, |$ 
+w:Ա՛յ, ~ խե՛ղճ  * հո-վիվ, քեզ * բա-ժին, խոր  * ձո-րեր մը--նա-ցին, հին--գա-լա, հին--գա-լա,
+G, B, D | C B, A, | G, B, D | G D B, | G, B, D | C B, A, | G,3- | G,3 :|] 
+w:Եր-գը վառ այ-տե-րին, եր-գը բոց ա-չքե-րին, եր-գը վարդ օ ֊-րե-րին։
+%
+%%multicol start
+%%begintext
+%%
+%%
+1) Հովիվը սարում տխրեց,
+   Սիրո երգը նվագեց՝
+   Երդը վառ այտերին,
+   Երգը բոց աչքերին, 
+   Երգը վարդ օրերին։
+
+Chorus:
+        Ա՛յ, խե՛ղճ հովիվ, քեզ բաժին
+        Խոր ձորեր մնացին,
+        Հինգալա, հինգալա,
+        Երգը վառ այտերին,
+        Երգը բոց աչքերին,
+        Երգը վարդ օրերին։
+
+2) Ահա եկավ նոր գարուն՝
+   Ծաղիկներով զարդարուն,
+   Գույն-գույն ծաղիկները
+   Սիրում եմ, հա՛, հա՛, հա՛,
+   Գույն-գույն ծաղիկները։
+%%endtext
+%%multicol new
+%%leftmargin 10cm
+%%rightmargin 5cm
+%%begintext
+%%
+%%
+1) Hovivy' sarum txrec,
+   Siro ergy' nvagec՝
+   Yerdy' varr ayterin,
+   Yergy' boc achqerin, 
+   Yergy' vard orerin։
+
+Chorus:
+        A՛y, xe՛ghtsh hoviv, qez bazhin
+        Xor dzorer mnacin,
+        Hingala, hingala,
+        Yergy' varr ayterin,
+        Yergy' boc achqerin,
+        Yergy' vard orerin։
+
+2) Aha ekav nor garun՝
+   C'aghiknerov zardarun,
+   Guyn-guyn c'aghiknery'
+   Sirum em, ha՛, ha՛, ha՛,
+   Guyn-guyn c'aghiknery'։
+%%endtext
+%%multicol end
