@@ -953,16 +953,16 @@ X:19
 T:Հինգալա
 T:Hingala
 C:ժողովրդական և Կարա-Մուրզա
-L:1/4
-Q:1/4=120
-M:3/4
+L:1/8
+Q:1/8=240
+M:3/8
 I:linebreak $
 K:Bb
 D D D | D C B, | C3- | C3 | C D E | D C (B,/A,/) | B,3- | B,3 | $ 
 w:Հո-վի-վը սա-րում տը-խրեց, ~ սի-րո եր-գը նը-վա - գեց
 G, B, D | C B, A, | G, B, D | G D B, | G, B, D | C B, A, | G,3- | G,3 | $ 
 w:Եր-գը վառ այ-տե-րին, եր-գը բոց ա-չքե-րին, եր-գը վարդ օ ֊-րե-րին։
-|: !mf! G3- | G3 | (G/F/) F F | (G/E/) E E | (F/D/) D D | (E/C/) C C | (D/B,/) B, B, | (C/A,/) A, A, |$ 
+|: !mf! [G3E3]- | [G3E3] | (G/F/) F F | (G/E/) E E | (F/D/) D D | (E/C/) C C | (D/B,/) B, B, | (C/A,/) A, A, |$ 
 w:Ա՛յ, ~ խե՛ղճ  * հո-վիվ, քեզ * բա-ժին, խոր  * ձո-րեր մը--նա-ցին, հին--գա-լա, հին--գա-լա,
 G, B, D | C B, A, | G, B, D | G D B, | G, B, D | C B, A, | G,3- | G,3 :|] 
 w:Եր-գը վառ այ-տե-րին, եր-գը բոց ա-չքե-րին, եր-գը վարդ օ ֊-րե-րին։
@@ -1016,5 +1016,85 @@ Chorus:
    Guyn-guyn c'aghiknery'
    Sirum em, ha՛, ha՛, ha՛,
    Guyn-guyn c'aghiknery'։
+%%endtext
+%%multicol end
+
+X:20
+T:Կարոտել եմ ես
+T:Karotel Em Es
+C:Գուսան Հավասի (Gusan Havasi)
+L:1/16
+Q:1/4=80
+M:7/8
+K:none
+"^Allegretto"
+%%MIDI program 71
+%%MIDI beatstring fppmpmp
+%%MIDI drumbars 
+%%MIDI drum d2ddddd2ddd2dd 48 37 37 37 37 41 37 37 41 37 37 150 60 50 60 50 100 60 50 100 80 50 
+%%MIDI drumon
+P:Intro
+c2(c2>B2)  (cdcB) (B_A)(AG)    | B2(B2>_A2) (BcBA) (AG)(GF)  |
+_A2(A2>G2) (AcBA) (GF)(FE)     | G2G2>_A2   (GF)(EF) G4      |
+c2(c2>B2)  (B_A)(AG) (GF)(FE)  | G2(G2>F2)  (GF)(FE) E4     ||
+P:Verse
+E2         E4 {F2_G2}_F2=G2 G2F2  | _A2(A2>G2) (GA)(GF) G4      |   
+w:Գու-սան-նե-րի լեզ-վով                  | գո-վա--կան ~ աղ -ջիկ,      |
+_A2(A2>G2) (BA)(AG) (GF)(FE)    | G2(G2>F2)  (GF)(FE) E4      |
+w:Ո՞ւր ես, * խինդ * ու * խա - լիդ | կա-րո--տել * եմ * ես,      |
+=A2        A4 (Ac)(cB) (BA)A2   | (cB2)<(c2A)  A2(AG) (G2>F2)   |
+w:Սա- րի ան - մա - հա - կան       | քաղ - ցրա - բույր ծա - ղիկ,  |
+A2(A2>G2)  (_BA)(AG) (GF)(FE)   | G2(G2>_A2) (GF)(EF) G4      |
+w:Ա-ռա - վո - տյան * շա - ղիդ     | կա-րո - տել * եմ  *ես,         |  
+c2(c2>B2)  (dc)(B_A) (GF)(FE)   | G2(G2>F2)  (GF)(FE) E4      |]
+w:Ա-նուշ * երգ  * ու   * տա - ղիդ   | կա րո - տել  *  եմ  *  ես։                        
+%%
+%%multicol start
+%%begintext
+%%
+%%
+1. Գուսանների լեզվով գովական աղջիկ,
+   Ո՞ւր ես, խինդ ու խալիդ կարոտել եմ ես,
+   Սարի անմահական քաղցրաբույր ծաղիկ,
+   Առավոտյան շաղիդ կարոտել եմ ես,
+   Անուշ երգ ու տաղիդ կարոտել եմ ես։
+%%
+2. Հերոս, անվախ սիրտը չի սպասի բախտի,
+   Սիրունն իր նազերով քաջին կհաղթի,
+   Յար, ծոցիդ պարտեզն է անմահ դրախտի,
+   Սիրուն բախչա - բաղիդ կարոտել եմ ես,
+   Անուշ երգ ու տաղիդ կարոտել եմ ես։
+%%
+3. Հավասուս մի կյանք է մեկ բարև տալդ,
+   Կսպանե անտարբեր հեռուն ման գալդ,
+   Վաղուց է չեմ լսել խոսել, խնդալդ,
+   Նազելիս, ծիծաղիդ կարոտել եմ ես,
+   Անուշ երգ ու տաղիդ կարոտել եմ ես։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 10cm
+%%rightmargin 5cm
+%%begintext
+%%
+%%
+1. Gusanneri lezvov govakan aghjik,
+   Vo՞wr es, xind u xalid karotel em es,
+   Sari anmahakan qaghcrabuyr c'aghik,
+   Arravotyan shaghid karotel em es,
+   Anush erg u taghid karotel em es։
+%%
+2. Heros, anvax sirty' chi spasi baxti,
+   Sirunn ir nazerov qajin khaght'i,
+   Yar, c'ocid partezn e' anmah draxti,
+   Sirun baxcha - baghid karotel em es,
+   Anush erg u taghid karotel em es։
+%%
+3. Havasus mi kyanq e' mek barev tald,
+   Kspane antarber herrun man gald,
+   Vaghuc e' chem lsel xosel, xndald,
+   Nazelis, c'ic'aghid karotel em es,
+   Anush erg u taghid karotel em es։
+%%
 %%endtext
 %%multicol end
