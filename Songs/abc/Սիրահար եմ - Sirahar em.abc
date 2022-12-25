@@ -1,6 +1,6 @@
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Courier    12
+%%textfont     Serif      16
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
@@ -34,27 +34,57 @@ P: Chorus
 w: Սի-րա-հար     |     եմ               |       Սի - րա - հար |   եմ * *
 |: "Dm" d d2  d3 | "Am" c2 c B A2       | c(BA) "E7" (BA^G)   |1 "Am" (A2 B2 "A7" c2) :|2 "Am" A6 ||
 w:Թե որ չը֊      |      տան, յա-րո ջան, | կը-փախ - ցը-        | նեմ։                   |    նեմ։
-W: 
-W:
-W: 1) Յոթը տարվա սիրահար եմ։
-W:    Թե որ չտան, յարո ջան, կփախցնեմ։
-W:    Սիրահար եմ, 
-W:    Սիրահար եմ,
-W:    Թե որ չտան, յարո ջան, կփախցնեմ։
-W: 
-W: 2) Մեր գարաժը ձեր տան դիմաց։
-W:    Աչքով֊ունքով, յարո ջան, ինձ տուր իմաց։
-W:    Ձեր տան դիմաց,
-W:    Ձեր տան դիմաց,
-W:    Աչքով֊ունքով, յարո ջան, ինձ տուր իմաց։
-W:
-W: 3) Ուր որ գնաս քեզ հետ կգամ։
-W:    Սիրտս ու հոգիս, յարո ջան, ես քես կտամ։
-W:    Քեզ հետ կգամ,
-W:    Քեզ հետ կգամ,
-W:    Սիրտս ու հոգիս, յարո ջան, ես քես կտամ։ 
+%%multicol start
+%%begintext
+%%
+%%
+1) Յոթը տարվա սիրահար եմ։
+   Թե որ չտան, յարո ջան, կփախցնեմ։
+   Սիրահար եմ, 
+   Սիրահար եմ,
+   Թե որ չտան, յարո ջան, կփախցնեմ։
+%%
+2) Մեր գարաժը ձեր տան դիմաց։
+   Աչքով֊ունքով, յարո ջան, ինձ տուր իմաց։
+   Ձեր տան դիմաց,
+   Ձեր տան դիմաց,
+   Աչքով֊ունքով, յարո ջան, ինձ տուր իմաց։
+%%
+3) Ուր որ գնաս քեզ հետ կգամ։
+   Սիրտս ու հոգիս, յարո ջան, ես քես կտամ։
+   Քեզ հետ կգամ,
+   Քեզ հետ կգամ,
+   Սիրտս ու հոգիս, յարո ջան, ես քես կտամ։ 
+%%
+%%
+%%endtext
+%%multicol new
+%%leftmargin 10cm
+%%rightmargin 5cm
+%%begintext
+%%
+%%
+1) Yot'y' tarva sirahar em։
+   T'e or chtan, yaro jan, kp'axcnem։
+   Sirahar em, 
+   Sirahar em,
+   T'e or chtan, yaro jan, kp'axcnem։
+%%
+2) Mer garazhy' dzer tan dimac։
+   Achqov֊unqov, yaro jan, indz tur imac։
+   Dzer tan dimac,
+   Dzer tan dimac,
+   Achqov֊unqov, yaro jan, indz tur imac։
+%%
+3) Ur or gnas qez het kgam։
+   Sirts u hogis, yaro jan, es qes ktam։
+   Qez het kgam,
+   Qez het kgam,
+   Sirts u hogis, yaro jan, es qes ktam։ 
+%%
+%%
+%%endtext
+%%multicol end
 %
 %-------------------------------------------------
 %
-
-

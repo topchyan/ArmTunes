@@ -1,6 +1,6 @@
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Courier    12
+%%textfont     Serif      16
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
@@ -47,12 +47,12 @@ w: Քա-րեն ~ քար-սիրտ                      | յար մը կայ։
      Զայն նետելու ջար չգայ։
      Քարը թող տեղը մնայ
      Քարեն քարսիրտ յար մը կայ։
-
+%%
 2. Սրտիս վրայ վերկ մը կայ
      Զայն արյունող ձեռք մը կայ։
      Զարկեմ ձեռքին՝ զենք չգայ
      Ալ գլխուս մեջ խելք չգայ։
-
+%%
 3. Սրտիս ցաւերը տուժեց
      Անունը գլխիս կոլեց։
      Խոշոր դեմքդ ինձ տաբալեց,
@@ -69,12 +69,12 @@ w: Քա-րեն ~ քար-սիրտ                      | յար մը կայ։
      Zayn nedelu char chʿka։
      Kʿarě tʿogh deghě mna
      Kʿaren kʿarsird yar mě ga։
-
+%%
 2. Srdis vray verg mě ga
      Zayn aryunogh tseṛkʿ mě ga։
      Zargem tseṛkʿin՝ zenkʿ chʿka
      Al klkhus mech khelkʿ chʿka։
-
+%%
 3. Srdis tsʿawerě duzhetsʿ
      Anuně klkhis goletsʿ։
      Khoshor temkʿt ints dapaletsʿ,
@@ -82,5 +82,6 @@ w: Քա-րեն ~ քար-սիրտ                      | յար մը կայ։
 %%
 %%endtext
 %%multicol end
-
-
+%
+%-------------------------------------------------
+%

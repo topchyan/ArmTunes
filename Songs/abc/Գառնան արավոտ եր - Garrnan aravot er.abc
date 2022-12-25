@@ -1,6 +1,6 @@
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Courier    12
+%%textfont     Serif      16
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
@@ -26,4 +26,5 @@ D2F2E2 | (EF) D4 |1 D6 :|2 z2 A4- ||
 A2GAGF | A2>c2G2 | G2(3:(GAG)FE | z2 G2G2 | F2GEFD | (DF)E2(DF) | E2(GEFD) || 
 [M:5/8] !coda! z2 D2- D2D2(3(C=B,C) | [M:3/8] !coda!!segno! D2- DD(3(C=B,C) | D2- DD(3(C=B,C) | D4 z2 |] 
 %
-
+%-------------------------------------------------
+%

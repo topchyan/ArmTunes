@@ -1,6 +1,6 @@
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Courier    12
+%%textfont     Serif      16
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
@@ -32,5 +32,5 @@ gfed             c2             d         e/f/e/d/    | cddB               c2   
 g2               g2             ^f2       g g z       | ^f/g/              a2/      a/g/^f/g/ ^f>e g g z        |
 ^f/g/            a              a/g/^f/g/ e>dd/g/ e>d | d/c/d/e/           cB       c2        d    A2          ||
 %
+%-------------------------------------------------
 %
-

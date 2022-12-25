@@ -1,6 +1,6 @@
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Courier    12
+%%textfont     Serif      16
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
@@ -50,27 +50,27 @@ w:Ուն ֊ քե ֊ րը կեռ * ու * կա - մար * է։
 %
 %%multicol start
 %%begintext
-
+%%
 Նուբարի բոյը չինար է,
 Աչքերը նուշ ու խումար է,
 Երեք օրվա լուսնի նման
 Ունքերը կեռ ու կամար է։
-
+%%
 Արև ցոլաց սարին, քարին,
 Նուբար կերթա հանդը վերին։
 Ով որ տեսնի իմ Նուբարին,
 Չի մոռանա ամբողջ տարին։
-
+%%
 Նուբարի բոյը չինար է,
 Աչքերը նուշ ու խումար է,
 Երեք օրվա լուսնի նման
 Ունքերը կեռ ու կամար է։
-
+%%
 Նուբար կերթա օրոր-շորոր,
 Նուբարի յար կայնե մոլոր,
 «Ա՜խ» կքաշե գիշեր ու զօր,
 Ու ման կուգա գյուղի բոլոր։
-
+%%
 Նուբարի բոյը չինար է.
 Աչքերը նուշ ու խումար է,
 Երեք օրվա լուսնի նման
@@ -80,27 +80,27 @@ w:Ուն ֊ քե ֊ րը կեռ * ու * կա - մար * է։
 %%leftmargin 10cm
 %%rightmargin 5cm
 %%begintext
-
+%%
 Nubari boyy' chinar e',
 Achqery' nush u xumar e',
 Yereq orva lusni nman
 Unqery' kerr u kamar e'։
-
+%%
 Arev colac sarin, qarin,
 Nubar kert'a handy' verin։
 Vov or tesni im Nubarin,
 Chi morrana amboghj tarin։
-
+%%
 Nubari boyy' chinar e',
 Achqery' nush u xumar e',
 Yereq orva lusni nman
 Unqery' kerr u kamar e'։
-
+%%
 Nubar kert'a oror-shoror,
 Nubari yar kayne molor,
 «A՜x» kqashe gisher u zor,
 U man kuga gyughi bolor։
-
+%%
 Nubari boyy' chinar e'.
 Achqery' nush u xumar e',
 Yereq orva lusni nman
@@ -108,4 +108,5 @@ Unqery' kerr u kamar e'։
 %%endtext
 %%multicol end
 %
-
+%-------------------------------------------------
+%

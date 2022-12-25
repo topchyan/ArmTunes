@@ -1,6 +1,6 @@
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Courier    12
+%%textfont     Serif      16
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
@@ -26,5 +26,6 @@ G2->)G2(AG)          | (AGAGFE        | F2->)F2!>!{/A}G2- | G(FGFED             
 E2->)E2!>!{/G}F2     | (FEFEDC)       | D3D3              | !>!A2>(A2GF)        |  !>!G2>(G2FE) | $
 !>!F2>(F2ED)         | !>!E2>(E2DC)   | D3D3              | ABA(!>!TG2F)        |  $
 (GAG)(!>!TF2E)       | (FGF)(!>!TE2D) | (EFE)(!>!TD2C)    | D            z D z3 |]
-
-
+%
+%-------------------------------------------------
+%

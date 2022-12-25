@@ -1,6 +1,6 @@
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Courier    12
+%%textfont     Serif      16
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
@@ -50,17 +50,17 @@ w:Ծա-ղիկ-նե-րի  | ծով սա-րեր: | Ման-կու-թյու-նըս  
       Աղբյուրների սառ ջրերի կանչերը,
       Հովիվների կրակների պես անմար
       Սարի եղնիկ յարիս սև-սև աչերը:
-
+%%
 Chorus:	
       Հով սարեր, մով սարեր,
 	Մանկությունս ետ բերեք,
 	Ծաղիկների ծով սարեր:
-
+%%
 2) Ես հիշում եմ մորս ձայնը սարերում,
       Ոչխարների մակաղելը քարերում,
       Հովիվների սրինգների ձայնն անուշ
       Սարին նստած թուխ ամպերի հովերում:
-
+%%
 3) Մեր սարերի ծաղկունքն է իմ սրտի մեջ,
       Նրանց անուշ բուրմունքն է իմ սրտի մեջ,
       Ծաղկի բույրով, հովի շնչով հագեցած
@@ -77,17 +77,17 @@ Chorus:
    Aġbyurneri saṙ ǰreri kančerë,
    Hovivneri krakneri pes anmar
    Sari eġnik yaris sev-sev ačerë:
-
+%%
 Chorus:	
     Hov sarer, mov sarer,
     Mankut’yuns et berek’,
     Çaġikneri çov sarer:
-
+%%
 2) Es hišum em mors dzaynë sarerum,
    Očxarneri makaġelë k’arerum,
    Hovivneri sringneri jaynn anuš
    Sarin nstaç t’ux amperi hoverum:
-
+%%
 3) Mer sareri çaġkunk’n ē im srti meǰ,
    Nranc’ anuš burmunk’n ē im srti meǰ,
    Çaġki buyrov, hovi šnčov hagec’aç
@@ -96,4 +96,6 @@ Chorus:
 %%endtext
 %%multicol end
 %%
-
+%
+%-------------------------------------------------
+%

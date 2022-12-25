@@ -1,6 +1,6 @@
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Courier    12
+%%textfont     Serif      16
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
@@ -34,3 +34,6 @@ D2 z2 D2A2- | A2(Ac) A4 | (D_EDC) D2A2- | A2(Ac) A4 | $
 %%MIDI droneon
 |: (ABAG) (GAGF | F2)F2G2A2 | (ABAG) (GAGF) | F2(EG) F4 :| 
 %%MIDI droneoff
+%
+%-------------------------------------------------
+%

@@ -1,6 +1,6 @@
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Courier    12
+%%textfont     Serif      16
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
@@ -38,23 +38,22 @@ w:Ջա- վախ-քի գյո-զալ ջան, | ես քե -  զի * հեյ-րան։
 %%multicol start
 %%begintext
 %%
-
 1) Գյոզալս խռովել է, ինձ հետ չի խոսում,
 Գոնե չի երևում, պատկերը տեսնեմ,
 Բլբուլ լեզվի անուշ ձայնը չեմ լսում,
 Գոնե չի երևում՝ պատկերը տեսնեմ։
-
+%%
 Chorus:
     Դուրս արի մեյդան,
     Սարերի սեյրան,
     Ջավախքի գյոզալ ջան,
     Ես քեզի հեյրան։
-
+%%
 2) Շատ երանի նրան՝ սիրած յար չունի,
 Անխիղճ յար կա՝ երբեք ինթիզար չունի,
 Լուսնակի պես քիչ-քիչ երևալ ունի,
 Լրիվ չի երևում՝ պատկերը տեսնեմ։
-
+%%
 3) Ասի՝ շատ մի՛ ատի, վերջում սիրել կա,
 Ասի՝ շատ մի՛ սիրի, վերջում ատել կա,
 Աշուղ Շահենի հետ քեզ հանդիպել կա,
@@ -64,27 +63,29 @@ Chorus:
 %%leftmargin 10cm
 %%rightmargin 5cm
 %%begintext
-
+%%
 1) Gyozals xrrovel e', indz het chi xosum,
 Gone chi erevum, patkery' tesnem,
 Blbul lezvi anush dzayny' chem lsum,
 Gone chi erevum՝ patkery' tesnem։
-
+%%
 Chorus:
     Durs ari meydan,
     Sareri seyran,
     Javaxqi gyozal jan,
     Yes qezi heyran։
-
+%%
 2) Shat erani nran՝ sirac' yar chuni,
 Anxightsh yar ka՝ erbeq int'izar chuni,
 Lusnaki pes qich-qich ereval uni,
 Lriv chi erevum՝ patkery' tesnem։
-
+%%
 3) Asi՝ shat mi՛ ati, verjum sirel ka,
 Asi՝ shat mi՛ siri, verjum atel ka,
 Ashugh Shaheni het qez handipel ka,
 Gyozal jan, durs ari՝ patkerd tesnem։
 %%endtext
 %%multicol end
-
+%
+%-------------------------------------------------
+%

@@ -1,6 +1,6 @@
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Courier    12
+%%textfont     Serif      16
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
@@ -32,28 +32,59 @@ w:~Սի-րիր, եր - գիր ու միշտ ժըպ ֊ տա, էս աշ- խարհ 
 P:Chorus
 |: "Bb"zd2d "F"(cd)e2 | "D"zA2B "(Cm)"(c=B) c2 | "D"zD2E (FG)A2 | "Cm"(FG)FE "D"D2-D2 :|
 w:~Ինչ որ ա--նես էն կը մը ֊նայ, ~ցը-նորք -նե-րի մի ~ հա-ւա-տա
-W:
-W:1. Սիրիր, երգիր ու միշտ ժպտա,
-W:Էս աշխարհից անդարդ գնա,
-W:Ինչ որ անես էն կը մնայ,
-W:Ցնորքների մի հաւատա։
-W:
-W:2. Կարօտել եմ, չե՞ս մեղքանայ,
-W:Էս ցաւին ես, չեմ դիմանայ,
-W:Իմ հաքիմն ես, դարման արա,
-W:Սէրս անմուրազ չմահանայ։
-W:
-W:3. Սէրս սիրովդ արբենայ,
-W:Օրս քեզմով շէն անցկանայ,
-W:Թէկուզ ամէն մարդ իմանայ,
-W:Դու իմ սրտի տէրն ես հիմա։
-W:
-W:4. Արի սիրենք, քանի կեանք կայ,
-W:Էս աշխարհում ո՞վ կը մնայ,
-W:Սէրն էլ կ՚անցնի, կը չքանայ,
-W:Կեանքը մահով կը վերջանայ։
+%%multicol start
+%%begintext
+%%
+%%
+1. Սիրիր, երգիր ու միշտ ժպտա,
+   Էս աշխարհից անդարդ գնա,
+   Ինչ որ անես էն կը մնայ,
+   Ցնորքների մի հաւատա։
+%%
+2. Կարօտել եմ, չե՞ս մեղքանայ,
+   Էս ցաւին ես, չեմ դիմանայ,
+   Իմ հաքիմն ես, դարման արա,
+   Սէրս անմուրազ չմահանայ։
+%%
+3. Սէրս սիրովդ արբենայ,
+   Օրս քեզմով շէն անցկանայ,
+   Թէկուզ ամէն մարդ իմանայ,
+   Դու իմ սրտի տէրն ես հիմա։
+%%
+4. Արի սիրենք, քանի կեանք կայ,
+   Էս աշխարհում ո՞վ կը մնայ,
+   Սէրն էլ կ՚անցնի, կը չքանայ,
+   Կեանքը մահով կը վերջանայ։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 10cm
+%%rightmargin 5cm
+%%begintext
+%%
+%%
+1. Sirir, ergir u misht zhpta,
+   E's ashxarhic andard gna,
+   Inch or anes e'n ky' mna,
+   Cnorqneri mi hawata։
+%%
+2. Karotel em, che՞s meghqana,
+   E's cawin es, chem dimana,
+   Im haqimn es, darman ara,
+   Se'rs anmuraz chmahana։
+%%
+3. Se'rs sirovd arbenay,
+   Ors qezmov she'n anckana,
+   T'e'kuz ame'n mard imana,
+   Du im srti te'rn es hima։
+%%
+4. Ari sirenq, qani keanq ka,
+   E's ashxarhum o՞v ky' mna,
+   Se'rn e'l k՚ancni, ky' chqana,
+   Keanqy' mahov ky' verjana։
+%%
+%%endtext
+%%multicol end
 %
 %-------------------------------------------------
 %
-
-

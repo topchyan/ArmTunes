@@ -1,6 +1,6 @@
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Courier    12
+%%textfont     Serif      16
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
@@ -21,25 +21,59 @@ z2          E2F2 G2(G_A)(FE) | G2(G2>F2) (GF) (F2>E2)           | E12           
 c2(TB2>_A2) (AB) (TA2>G2)    | G12                              | z2  B2c2 (d_e)(dc)(cB)     | c2        c4 (Bc) (B_A2G)    | (G6 _AGFE) z2 |  $
 z2          E2F2 G2(G_A)(FE) | (Bc)      (TB2>_A2) (AB) (A2>G2) | G12                        | z2        B2c2 (d_e)(dc)(cB) | $
 c2          c4 Bc (B_A2G)    | (G6       _AGFE) z2              | z2  (dc)(cB) (B_A)(AG)(GF) | G2(G2>F2) (GF) (F2>E2)       | E12           |]
+%%multicol start
 %%begintext
-Գարնան ծաղիկ ես, ծաղիկ հոտավետ,
-Բույրդ գալիս է անուշ հովի հետ,
-Գարունն է լցրել քեզ իր շաղերով,
-Բլբուլն է երգել անուշ տաղերով։
-
-Մենակ ես բացվել գարնան բաղի մեջ,
-Նոր արշալույսի անուշ շաղի մեջ,
-Մենակ ես հաղթել հազար-հազարին,
-Հազար երանի քո սիրած յարին։
-
-Անուշ աղբյուր ես՝ սարից ես գալիս,
-Ծարավ ճամփորդին ջուր էլ չես տալիս,
-Հեռվից կարծում են զովացնող ջուր ես,
-Խմողին այրող կրակ ես, հուր ես։
-
-Բաց արա լեզուդ, լոկ մի բառ ասա,
-Ջրով չի մարի, ի՞նչ կրակ է սա,
-Բաց արա սիրտս, թող ապրեմ էլի,
-Դարձիր Հավասուդ, անուշ նազելի։
+%%
+%%
+1) Գարնան ծաղիկ ես, ծաղիկ հոտավետ,
+   Բույրդ գալիս է անուշ հովի հետ,
+   Գարունն է լցրել քեզ իր շաղերով,
+   Բլբուլն է երգել անուշ տաղերով։
+%%
+2) Մենակ ես բացվել գարնան բաղի մեջ,
+   Նոր արշալույսի անուշ շաղի մեջ,
+   Մենակ ես հաղթել հազար-հազարին,
+   Հազար երանի քո սիրած յարին։
+%%
+3) Անուշ աղբյուր ես՝ սարից ես գալիս,
+   Ծարավ ճամփորդին ջուր էլ չես տալիս,
+   Հեռվից կարծում են զովացնող ջուր ես,
+   Խմողին այրող կրակ ես, հուր ես։
+%%
+4) Բաց արա լեզուդ, լոկ մի բառ ասա,
+   Ջրով չի մարի, ի՞նչ կրակ է սա,
+   Բաց արա սիրտս, թող ապրեմ էլի,
+   Դարձիր Հավասուդ, անուշ նազելի։
+%%
 %%endtext
-
+%%multicol new
+%%leftmargin 10cm
+%%rightmargin 5cm
+%%begintext
+%%
+%%
+1) Garnan c'aghik es, c'aghik hotavet,
+   Buyrd galis e' anush hovi het,
+   Garunn e' lcrel qez ir shagherov,
+   Blbuln e' ergel anush tagherov։
+%%
+2) Menak es bacvel garnan baghi mej,
+   Nor arshaluysi anush shaghi mej,
+   Menak es haght'el hazar-hazarin,
+   Hazar erani qo sirac' yarin։
+%%
+3) Anush aghbyur es՝ saric es galis,
+   C'arav tshamp'ordin jur e'l ches talis,
+   Herrvic karc'um en zovacnogh jur es,
+   Xmoghin ayrogh krak es, hur es։
+%%
+4) Bac ara lezud, lok mi barr asa,
+   Jrov chi mari, i՞nch krak e' sa,
+   Bac ara sirts, t'ogh aprem e'li,
+   Dardzir Havasud, anush nazeli։
+%%
+%%endtext
+%%multicol end
+%
+%-------------------------------------------------
+%
