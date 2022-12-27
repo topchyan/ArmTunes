@@ -1,0 +1,34 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:23
+T:Lakhti
+C:obr. T. Altooniana
+L:1/8
+Q:1/4=120
+M:3/4
+I:linebreak $
+K:D
+"^Allegro agitate" E2 EEEE | E2 EEEE | E2 EEEE | E2 EEEE |:$ (EAGAGF) | (FGFGFE) | (EAGAGF) | 
+(FGFGFE) |$ (EGFGFE) | (EFEFED) | (DFEFED) | (DC) C4 |]:$ E2 (ED)(DC) | D2 (DC)(CA,) :: 
+A2 (AG)(GF) | G2 (GF)(FD) :|$[K:treble-8] (EFGAGF) | G2 (GF)(FD) :| (BA)(AG)(GF) | 
+(AG)(GF)(FD) ::$ (EFGAGF) | (AG)(GF)(FD) :: D2 AAAA | A,2 AAAA |$[K:treble] (GA)(AG)(GF) | 
+(AG)(GF)(FD) :: (EFGAGF) | (AG)(GF)(FD) ::$ A2 (AG)(GF) | G2 (GF)(FD) :: E2 (ED)(DC) | 
+D2 (DC)(CA,) |]:$ (B,CDEDC) | D2 (DC)CA, :: (FE)(ED)(DC) | (ED)(DC)(CA,) ::$ (B,CDEDC) | 
+(ED)(DC)(CA,) :: A,2 EEEE | z2 EEEE |$ (DE)(ED)(DC) | (ED)(DC)(CA,) :: B,CDEDC | (ED)(DC)(CA,) ::$ 
+E2 (ED)(DC) | C2 (DC)CA, :: A2 (AG)(GF) | G2 (GF)(FD) ::$ (EFGAGF) | G2 (GF)(FD) :: (BA)(AG)(GF) | 
+(AG)(GF)(FD) ::$[K:D] (EFGAGF) | (AG)(GF)(FD) :: D2 AAAA | A,2 AAAA |$ (GA)(AG)(GF) | 
+(AG)(GF)(FD) :: (EFGAGF) | (AG)(GF)(FD) :|$ D2 AAAA | A,2 AAAA | D2 AAAA | A, z A z z2 |:$ 
+!mp! (AdcdcB) | (BcBcBA) | (AdcdcB) | (BcBcBA) |$ (AcBcBA) | (ABABAG) | (GBABAG) | (GF) F4 ::$ 
+!f! A2 (AG)(GF) | G2 (GF)(FD) :: (EFGAGF) | G2 (GF)(FD) ::$ (BA)(AG)(GF) | (AG)(GF)(FD) :: 
+(EFGAGF) | (AG)(GF)(FD) ::$ D2 AAAA | A,2 AAAA | (GA)(AG)(GF) | (AG)(GF)(FD) |]:$ (EFGAGF) | 
+(AG)(GF)(FD) :|$[K:D] D2 AAAA | A,2 AAAA | D2 AAAA | A,2 AAAA |:$!mp! (AdcdcB) | (BcBcBA) | 
+(AdcdcB) | (BcBcBA) |$ (AcBcBA) | (ABABAG) | (GBABAG) | (GF) F4 |:$"_pOCO CVGSC." A2 (AG)(GF) | 
+G2 (GF)(FD) :: (EFGAGF) | G2 (GF)(FD) ::$ (BA)(AG)(GF) | (AG)(GF)(FD) :: (EFGAGF) | 
+(AG)(GF)(FD) :|$ (EFGAGF) | (EFGAGF) | A2 (GABc) | d z D z z2 |] 
+
+

@@ -1,6 +1,6 @@
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      16
+%%textfont     Serif      12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
@@ -47,7 +47,7 @@ w:   Ա- ~    վե -     րակ  ~   ջա ֊     | ղաց ~     հո - գի  ~ �
    Դու պիտի տառնաս, հոգի ջան, Հայ ազգի փրկիչ:
 %%endtext
 %%multicol new
-%%leftmargin 11cm
+%%leftmargin 12cm
 %%rightmargin 1cm
 %%begintext
 %%
@@ -94,6 +94,7 @@ zcd      | "C"e(e/f/d/c/)  | "Dm"d(d/e/c/B/) | "F"c(c/d/"G"B/A/)     | "Am"(A>e)
 w:Շար-վե|շա-րան | ան-ցան | զուգ-ված | ուղ -տե-րը
 zBc      | "Dm"d(d/e/c/B/) | "Am"c(c/d/B/A/) | "F" (A/G/)    (c>d)   | "G"(B>c)A  | "Am"A3 :|
 w:Յարս Էլ | գը ֊ նաց | յայ-լա-|նե - րը | Բին -գյո-|լի։
+%
 %%multicol start
 %%begintext
 %%
@@ -116,8 +117,8 @@ w:Յարս Էլ | գը ֊ նաց | յայ-լա-|նե - րը | Բին -գյո-|լ
 %%
 %%endtext
 %%multicol new
-%%leftmargin 10cm
-%%rightmargin 5cm
+%%leftmargin 12cm
+%%rightmargin 1cm
 %%begintext
 %%
 %%
@@ -224,8 +225,8 @@ w:Չուց ալ ~ աղ-ւուր          | վի - ~ ուձ ~ է,               |
 %%
 %%endtext
 %%multicol new
-%%leftmargin 10cm
-%%rightmargin 5cm
+%%leftmargin 12cm
+%%rightmargin 1cm
 %%begintext
 %%
 %%
@@ -305,8 +306,8 @@ c2          c4 Bc (B_A2G)    | (G6       _AGFE) z2              | z2  (dc)(cB) (
 %%
 %%endtext
 %%multicol new
-%%leftmargin 10cm
-%%rightmargin 5cm
+%%leftmargin 12cm
+%%rightmargin 1cm
 %%begintext
 %%
 %%
@@ -390,8 +391,8 @@ Chorus:
 Գյոզալ ջան, դուրս արի՝ պատկերդ տեսնեմ։
 %%endtext
 %%multicol new
-%%leftmargin 10cm
-%%rightmargin 5cm
+%%leftmargin 12cm
+%%rightmargin 1cm
 %%begintext
 %%
 1) Gyozals xrrovel e', indz het chi xosum,
@@ -780,8 +781,8 @@ w:Ուն ֊ քե ֊ րը կեռ * ու * կա - մար * է։
 Ունքերը կեռ ու կամար է։
 %%endtext
 %%multicol new
-%%leftmargin 10cm
-%%rightmargin 5cm
+%%leftmargin 12cm
+%%rightmargin 1cm
 %%begintext
 %%
 Nubari boyy' chinar e',
@@ -898,8 +899,8 @@ w:Թե որ չը֊      |      տան, յա-րո ջան, | կը-փախ - ցը-  
 %%
 %%endtext
 %%multicol new
-%%leftmargin 10cm
-%%rightmargin 5cm
+%%leftmargin 12cm
+%%rightmargin 1cm
 %%begintext
 %%
 %%
@@ -980,8 +981,8 @@ w:~Ինչ որ ա--նես էն կը մը ֊նայ, ~ցը-նորք -նե-րի մ�
 %%
 %%endtext
 %%multicol new
-%%leftmargin 10cm
-%%rightmargin 5cm
+%%leftmargin 12cm
+%%rightmargin 1cm
 %%begintext
 %%
 %%
@@ -1065,8 +1066,8 @@ w: Քա-րեն ~ քար-սիրտ                      | յար մը կայ։
 %%
 %%endtext
 %%multicol new
-%%leftmargin 10cm
-%%rightmargin 5cm
+%%leftmargin 12cm
+%%rightmargin 1cm
 %%begintext
 %%
 %%
@@ -1165,8 +1166,8 @@ Chorus:
    Գույն-գույն ծաղիկները։
 %%endtext
 %%multicol new
-%%leftmargin 10cm
-%%rightmargin 5cm
+%%leftmargin 12cm
+%%rightmargin 1cm
 %%begintext
 %%
 %%
@@ -1248,8 +1249,8 @@ w:Ա-նուշ * երգ  * ու   * տա - ղիդ   | կա րո - տել  *  եմ
 %%
 %%endtext
 %%multicol new
-%%leftmargin 10cm
-%%rightmargin 5cm
+%%leftmargin 12cm
+%%rightmargin 1cm
 %%begintext
 %%
 %%
@@ -1336,8 +1337,8 @@ w: Սի -րու -- նի՜կ,     | սի -րու -- նի՜կ,       | սի-րու
 %%
 %%endtext
 %%multicol new
-%%leftmargin 10cm
-%%rightmargin 5cm
+%%leftmargin 12cm
+%%rightmargin 1cm
 %%begintext
 %%
 %%

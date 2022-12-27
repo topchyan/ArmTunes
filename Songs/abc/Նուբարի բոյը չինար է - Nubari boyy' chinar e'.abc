@@ -1,6 +1,6 @@
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      16
+%%textfont     Serif      12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
@@ -77,8 +77,8 @@ w:Ուն ֊ քե ֊ րը կեռ * ու * կա - մար * է։
 Ունքերը կեռ ու կամար է։
 %%endtext
 %%multicol new
-%%leftmargin 10cm
-%%rightmargin 5cm
+%%leftmargin 12cm
+%%rightmargin 1cm
 %%begintext
 %%
 Nubari boyy' chinar e',

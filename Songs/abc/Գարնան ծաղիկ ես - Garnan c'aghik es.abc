@@ -1,6 +1,6 @@
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      16
+%%textfont     Serif      12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
@@ -47,8 +47,8 @@ c2          c4 Bc (B_A2G)    | (G6       _AGFE) z2              | z2  (dc)(cB) (
 %%
 %%endtext
 %%multicol new
-%%leftmargin 10cm
-%%rightmargin 5cm
+%%leftmargin 12cm
+%%rightmargin 1cm
 %%begintext
 %%
 %%
