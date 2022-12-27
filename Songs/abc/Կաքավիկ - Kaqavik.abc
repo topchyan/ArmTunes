@@ -1,0 +1,83 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      16
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:22
+T: Կաքավիկ
+T: The Partridge
+C:  Կոմիտաս (Komitas), Հովհաննես Թումանյան (Hovannes Tumanyan)
+L: 1/8
+Q: 1/4=120
+M: 4/4
+K: F
+(cA) A2      (Ad) A2 | (cG) G2      (AF) F2 | (FD) D2   (DG) G2 | (FA) (AF) (GE) F2  |
+w: Ա -րև բաց -վեց | թուխ  * ամ-պե -րեն  | կա -քավ թը -ռավ | կա -նաչ * սա -րեն, |
+(cA) (Ad)    (dA) A2 | (cG) (Gc)    (AF) F2 | (FG) (AG) (AF) G2 | (FD) (AF) (GE) F2  |: 
+w: Կա -նաչ  * սա -րեն՝ | սա -րի * ծե -րեն,    | բա -րև * բե -րավ   | ծա -ղիկ -նե -րեն. |
+(FA) (G/A/F) (F3   C)  | (FA) (G/A/)F F4      | FG (AG) (Gc) A2 | (GF) (AF) F4      :|
+w: Սի -րու -- նի՜կ,     | սի -րու -- նի՜կ,       | սի-րու-նի՜կ, * նախ -շուն |կա -քա -վիկ։
+%%multicol start
+%%begintext
+%%
+%%
+1) Արև բացվեց թուխ ամպերեն,
+    Կաքավ թըռավ կանաչ սարեն,
+    Կանաչ սարեն՝ սարի ծերեն,
+    Բարև բերավ ծաղիկներեն.
+%%
+        Սիրունի՜կ, սիրունի՜կ,
+        Սիրունի՜կ, նախշուն կաքավիկ։
+%%
+2) Քո բուն հյուսած ծաղիկներով՝
+    Շուշան, նարգիզ, նունուֆարով,
+    Քո տեղ լըցված ցող ու շաղով,
+    Քընես, կելնես երգ ու տաղով.
+%%
+3) Քո թև փափուկ ու խատուտիկ,
+    Պըստի կըտուց, կարմիր տոտիկ,
+    Կարմիր-կարմիր տոտիկներով,
+    Կըշորորաս ճուտիկներով.
+%%
+4) Երբ կըկանգնես մամռոտ քարին,
+    Սաղմոս կասես ծաղիկներին,
+    Սարեր ձորեր զըվարթ կանես,
+    Դարդի ծովեն սիրտ կըհանես.
+%%
+%%
+%%endtext
+%%multicol new
+%%leftmargin 10cm
+%%rightmargin 5cm
+%%begintext
+%%
+%%
+1) Arev bacvec t'ux amperen,
+   Kaqav t'y'rrav kanach saren,
+   Kanach saren՝ sari c'eren,
+   Barev berav c'aghikneren.
+%%
+     Siruni՜k, siruni՜k,
+     Siruni՜k, naxshun kaqavik։
+%%
+2) Qo bun hyusac' c'aghiknerov՝
+   Shushan, nargiz, nunufarov,
+   Qo tegh ly'cvac' cogh u shaghov,
+   Qy'nes, kelnes erg u taghov.
+%%
+3) Qo t'ev p'ap'uk u xatutik,
+   Py'sti ky'tuc, karmir totik,
+   Karmir-karmir totiknerov,
+   Ky'shororas tshutiknerov.
+%%
+4) Yerb ky'kangnes mamrrot qarin,
+   Saghmos kases c'aghiknerin,
+   Sarer dzorer zy'vart' kanes,
+   Dardi c'oven sirt ky'hanes.
+%%
+%%endtext
+%%multicol end%
+%-------------------------------------------------
+%
