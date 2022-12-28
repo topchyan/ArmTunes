@@ -1373,26 +1373,111 @@ X:23
 T:Lakhti
 C:obr. T. Altooniana
 L:1/8
-Q:1/4=120
+Q:1/4=220
 M:3/4
-I:linebreak $
 K:D
-"^Allegro agitate" E2 EEEE | E2 EEEE | E2 EEEE | E2 EEEE |:$ (EAGAGF) | (FGFGFE) | (EAGAGF) | 
-(FGFGFE) |$ (EGFGFE) | (EFEFED) | (DFEFED) | (DC) C4 |]:$ E2 (ED)(DC) | D2 (DC)(CA,) :: 
-A2 (AG)(GF) | G2 (GF)(FD) :|$[K:treble-8] (EFGAGF) | G2 (GF)(FD) :| (BA)(AG)(GF) | 
-(AG)(GF)(FD) ::$ (EFGAGF) | (AG)(GF)(FD) :: D2 AAAA | A,2 AAAA |$[K:treble] (GA)(AG)(GF) | 
-(AG)(GF)(FD) :: (EFGAGF) | (AG)(GF)(FD) ::$ A2 (AG)(GF) | G2 (GF)(FD) :: E2 (ED)(DC) | 
-D2 (DC)(CA,) |]:$ (B,CDEDC) | D2 (DC)CA, :: (FE)(ED)(DC) | (ED)(DC)(CA,) ::$ (B,CDEDC) | 
-(ED)(DC)(CA,) :: A,2 EEEE | z2 EEEE |$ (DE)(ED)(DC) | (ED)(DC)(CA,) :: B,CDEDC | (ED)(DC)(CA,) ::$ 
-E2 (ED)(DC) | C2 (DC)CA, :: A2 (AG)(GF) | G2 (GF)(FD) ::$ (EFGAGF) | G2 (GF)(FD) :: (BA)(AG)(GF) | 
-(AG)(GF)(FD) ::$[K:D] (EFGAGF) | (AG)(GF)(FD) :: D2 AAAA | A,2 AAAA |$ (GA)(AG)(GF) | 
-(AG)(GF)(FD) :: (EFGAGF) | (AG)(GF)(FD) :|$ D2 AAAA | A,2 AAAA | D2 AAAA | A, z A z z2 |:$ 
-!mp! (AdcdcB) | (BcBcBA) | (AdcdcB) | (BcBcBA) |$ (AcBcBA) | (ABABAG) | (GBABAG) | (GF) F4 ::$ 
-!f! A2 (AG)(GF) | G2 (GF)(FD) :: (EFGAGF) | G2 (GF)(FD) ::$ (BA)(AG)(GF) | (AG)(GF)(FD) :: 
-(EFGAGF) | (AG)(GF)(FD) ::$ D2 AAAA | A,2 AAAA | (GA)(AG)(GF) | (AG)(GF)(FD) |]:$ (EFGAGF) | 
-(AG)(GF)(FD) :|$[K:D] D2 AAAA | A,2 AAAA | D2 AAAA | A,2 AAAA |:$!mp! (AdcdcB) | (BcBcBA) | 
-(AdcdcB) | (BcBcBA) |$ (AcBcBA) | (ABABAG) | (GBABAG) | (GF) F4 |:$"_pOCO CVGSC." A2 (AG)(GF) | 
-G2 (GF)(FD) :: (EFGAGF) | G2 (GF)(FD) ::$ (BA)(AG)(GF) | (AG)(GF)(FD) :: (EFGAGF) | 
-(AG)(GF)(FD) :|$ (EFGAGF) | (EFGAGF) | A2 (GABc) | d z D z z2 |] 
+"^Allegro agitate"
+E2 EEEE | E2 EEEE | E2 EEEE | E2 EEEE | 
+|: (EAGAGF)  | (FGFGFE) | (EAGAGF) | (FGFGFE) | \
+   (EGFGFE)  | (EFEFED) | (DFEFED) | (DC) C4 :: 
+ E2 (ED)(DC) | D2 (DC)(CA,)  :: \
+ A2 (AG)(GF) | G2 (GF)(FD)   :: \ 
+    (EFGAGF) | G2 (GF)(FD)   :: \
+(BA)(AG)(GF) | (AG)(GF)(FD)  :: \ 
+    (EFGAGF) | (AG)(GF)(FD)  :: \
+     D2 AAAA | A,2 AAAA | (GA)(AG)(GF) | (AG)(GF)(FD) :: \
+    (EFGAGF) | (AG)(GF)(FD)  :: \ 
+ A2 (AG)(GF) | G2 (GF)(FD)   :: \
+ E2 (ED)(DC) | D2 (DC)(CA,)  :: \
+   (B,CDEDC) | D2 (DC)CA,    :: \
+(FE)(ED)(DC) | (ED)(DC)(CA,) :: \ 
+(B,CDEDC)    | (ED)(DC)(CA,) :: \
+    A,2 EEEE | z2 EEEE | (DE)(ED)(DC) | (ED)(DC)(CA,) :: \
+     B,CDEDC | (ED)(DC)(CA,) :: \ 
+E2 (ED)(DC)  | C2 (DC)CA,    :: \
+ A2 (AG)(GF) | G2 (GF)(FD)   :: \
+    (EFGAGF) | G2 (GF)(FD)   :: \
+(BA)(AG)(GF) | (AG)(GF)(FD)  :: \
+    (EFGAGF) | (AG)(GF)(FD)  :: \
+     D2 AAAA | A,2 AAAA | (GA)(AG)(GF) | (AG)(GF)(FD)  :: \ 
+    (EFGAGF) | (AG)(GF)(FD) :| D2 AAAA | A,2 AAAA | D2 AAAA | A, z A z z2 |] \ 
+!mp! (AdcdcB) | (BcBcBA) | (AdcdcB) | (BcBcBA) | (AcBcBA) | (ABABAG) | (GBABAG) | (GF) F4 :: \  
+!f! A2 (AG)(GF) | G2 (GF)(FD) :: \
+       (EFGAGF) | G2 (GF)(FD) :: \
+  (BA)(AG)(GF) | (AG)(GF)(FD) :: \
+      (EFGAGF) | (AG)(GF)(FD) :: \ 
+D2 AAAA | A,2 AAAA | (GA)(AG)(GF) | (AG)(GF)(FD) :: \
+(EFGAGF) | (AG)(GF)(FD) :| \
+D2 AAAA | A,2 AAAA | D2 AAAA | A,2 AAAA :: \
+!mp! (AdcdcB) | (BcBcBA) | (AdcdcB) | (BcBcBA) |  (AcBcBA) | (ABABAG) | (GBABAG) | (GF) F4 :: \
+ A2 (AG)(GF) | G2 (GF)(FD)  :: \
+    (EFGAGF) | G2 (GF)(FD)  :: \
+(BA)(AG)(GF) | (AG)(GF)(FD) :: \
+    (EFGAGF) | (AG)(GF)(FD) :| (EFGAGF) | (EFGAGF) | A2 (GABc) | d z D z z2   |] 
 
-
+X:24
+T:Հաց կթխեմ
+T:I'll bake a bread
+F:https://youtu.be/IOBgR8nz6-w?t=90 
+M:4/4
+L:1/8
+Q:1/4=180
+K:A
+A,2(A,E) E2(ED) | F2(FE) E2 z2    | EFED F2(FE)   | E4 E4 |
+w:Հաց կը -թը -խեմ, գա-րի * ա,    | Ե-րի, ե-րի, էր-վա, | օ՜յ, օ՜յ,|
+|: E2(ED) F2(FE)   | E2(DC) C2 z2 | CDE2 (EF)D2 | C4 C4 :|
+w:Էս ինչ  * ու -րախ  | տա-րի *  ա, | Շե-կո ջան,  էր-վա, | օ՜յ, օ՜յ: |
+%
+%%multicol start
+%%begintext
+%%
+%%
+Հաց կթխեմ, գարի ա,
+Երի, երի, էրվա, օ՜յ, օ՜յ,
+Էս ինչ ուրախ տարի ա,
+Շեկո ջան, էրվա, օ՜յ, օ՜յ:
+%%
+Կրակը թռավ քարից,
+Երի, երի, էրվա, օ՜յ, օ՜յ,
+Ես կմեռնեմ քո դարդից, 
+Շեկո ջան, էրվա, օ՜յ, օ՜յ:
+%%
+Երեսիդ կարոտել եմ,
+Երի, երի, էրվա, օ՜յ, օ՜յ,
+Ոնց որ վարդ մանիշակին, 
+Շեկո ջան, էրվա, օ՜յ, օ՜յ:   
+%%  
+Ծով ա դառե մեր դաշտը,
+Երի, երի, էրվա, օ՜յ, օ՜յ,
+Լիքը հաց ա մեր տաշտը, 
+Շեկո ջան, էրվա, օ՜յ, օ՜յ:
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Hac kt'xem, gari a,
+Yeri, eri, e'rva, o՜y, o՜y,
+E's inch urax tari a,
+Sheko jan, e'rva, o՜y, o՜y:
+%%
+Kraky' t'rrav qaric,
+Yeri, eri, e'rva, o՜y, o՜y,
+Yes kmerrnem qo dardic, 
+Sheko jan, e'rva, o՜y, o՜y:
+%%
+Yeresid karotel em,
+Yeri, eri, e'rva, o՜y, o՜y,
+Vonc or vard manishakin, 
+Sheko jan, e'rva, o՜y, o՜y:   
+%%  
+C'ov a darre mer dashty',
+Yeri, eri, e'rva, o՜y, o՜y,
+Liqy' hac a mer tashty', 
+Sheko jan, e'rva, o՜y, o՜y:
+%%
+%%endtext
+%%multicol end
