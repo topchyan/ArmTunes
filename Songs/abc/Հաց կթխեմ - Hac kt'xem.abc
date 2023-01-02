@@ -6,13 +6,14 @@
 %%footer       $IF
 
 X:24
-T:Հաց կթխեմ
-T:I'll bake a bread
-F:https://youtu.be/IOBgR8nz6-w?t=90 
-M:4/4
-L:1/8
-Q:1/4=180
-K:A
+T: Հաց կթխեմ
+T: I'll bake a bread  
+C: 
+F: https://youtu.be/IOBgR8nz6-w?t=90 
+M: 4/4
+L: 1/8
+Q: 1/4=180
+K: A
 A,2(A,E) E2(ED) | F2(FE) E2 z2    | EFED F2(FE)   | E4 E4 |
 w:Հաց կը -թը -խեմ, գա-րի * ա,    | Ե-րի, ե-րի, էր-վա, | օ՜յ, օ՜յ,|
 |: E2(ED) F2(FE)   | E2(DC) C2 z2 | CDE2 (EF)D2 | C4 C4 :|
@@ -71,3 +72,4 @@ Sheko jan, e'rva, o՜y, o՜y:
 %%
 %%endtext
 %%multicol end
+

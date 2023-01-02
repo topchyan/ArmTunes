@@ -1,0 +1,97 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:25
+T:  Լէփօ լէ֊լէ
+T: Lepo, le le
+P:(ABBCA)
+C:  ժողովրդական և Կարա-Մուրզա
+L: 1/8
+K: Dm
+[P:A] [M:2/4] [Q: 1/4=120]
+%%MIDI program 66
+%%MIDI chordvol 80
+%%MIDI bassvol 100
+%%MIDI chordprog 25
+%%MIDI bassprog 25
+%%MIDI beatstring fpppmppp
+%%MIDI gchordbars 2
+%%MIDI gchord fczcfzc2
+%%MIDI drumbars 2
+%%MIDI drum dd2dd2d2 45 45 45 45 45 120 80 80 120 120
+%%MIDI drumon
+"F"F (F2 G) | A2 A2 | "C"G (E2 F) | G2 G2 | "Dm"F (D2 E) | F2  F2 | "Am"E D3   | "Dm"D4   :|
+%
+[P:B] [M:6/8] [Q: 1/4=180]
+%%MIDI drumoff
+%
+%%MIDI program 23
+%%MIDI beatstring fpppppfppppp
+%%MIDI gchordbars 3
+%%MIDI gchord fczfzcfczfzcfc2c3
+%%MIDI drumbars 3
+%%MIDI drum ddddd2ddddd2dd2d3 45 50 50 45 50 45 50 50 45 50 45 50 50 
+%%MIDI drumon
+"F"F<F2 (FGE)  |     G<F2 (FGE)     | "C"(GFE) "F"F2 z :: 
+"Dm"E<D2 E F2  | "Bb"E2>D "Gm"E F2  | "C7"E D2 "Dm"D3  ::
+[P:C]
+%%MIDI program 66
+"F"G3        A3 |    (c=Bc)    A3 |    G2 A    G A2  | "C7"(c=Bc) "F"A3  ::
+"Dm"D2>C (FEF)  | D2>C (FEF)      |    D2F EF2       | "C7"G2>D "Dm"D D2  :|] 
+%%MIDI drumoff
+%
+%%multicol start
+%%begintext
+%%
+%%
+Լէ փօ լէ լէ 
+լէ փօ լէ լէ 
+լէ փօ լէ լէ 
+լէ փօ լէ
+%%
+Հոդալլo ջան, հոդալլo ջան, հոդալլo
+Գիւզէլ շիրին, եարալլo ջան եարալլo։
+%%
+Հով, հով, հով լինի
+Հայրըս տունը թող ճգնի
+Հով, հով, հով լինի
+Մայրըս տունը թող չեղնի
+%%
+Թէ տղերք եկէք թոզը հանենք
+Չար թշնամու աչքը տանենք։
+%%
+Լէ փօ լէ լէ...
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Le' p'o le' le' 
+le' p'o le' le' 
+le' p'o le' le' 
+le' p'o le'
+%%
+Hodallo jan, hodallo jan, hodallo
+Guzel shirin, yarallo jan yarallo։
+%%
+Hov, hov, hov lini
+Hayry's tuny' t'ogh tshgni
+Hov, hov, hov lini
+Mayry's tuny' t'ogh cheghni
+%%
+T'e' tgherq eke'q t'ozy' hanenq
+Char t'shnamu achqy' tanenq։
+%%
+Le' p'o le' le'...
+%%
+%%endtext
+%%multicol end
+
+
