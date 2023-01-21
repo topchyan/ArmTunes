@@ -1,0 +1,37 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:29
+T:Նազ Պար 
+T:Naz Bаг
+C:Armenian Trad. Dance
+Z:WWW.duduk.com
+L:1/8
+Q:1/4=120
+M:6/8
+K:Gm
+%%MIDI program 24
+%%MIDI beatstring fpmpmpfpmpmp
+%%MIDI drumon
+%%MIDI drumbars 
+%%MIDI drum d3dd2d2d2d2 41 41 43 41 43 43 
+^F/G/A z ABG       | (B>AG) (^F/E/ D2)  | A>(^FG) (AcB)        | (TA2G) A3            | 
+ D>DE (^FGA)       | (B>AG (^F/)E/ D2)  | A>BG (c=Bc)          | (TA2G) A3            | 
+ c>=Bc (dBc)       | (Td2c)  (B/A/ G2)  | c>=Bc BcA            | (TA2G) A3            | 
+ c>=Bc (dec)       | (d2 c)  (B/A/ G2)  | (d2 c) =BcA          | A>^FG A3             | 
+ z z  B BBB        |   B>Ac  (B/A/ G2   | G>)^FG (ABG)         | A>GB (A/G/) ^F2-     | 
+ F z  G GGG        |   G>^FA (G/F/ E2)  | ^F>GE (FGA)          | B/(A/B/A/G) A3       | 
+ B BBB z2          |  B>Ac (B/A/) G2-   | G>^FG ABG            | A>GB (A/G/) ^F2-     | 
+ F z G GGG         | G>^FA (G/F/ E2)    | ^F>GE (AGA)          | (T^F2 E) (DEF        | 
+ E) z z z3         | z z (G AGA)        | G>AG (A/G/ ^F2-)     | F z (^F GFG)         | 
+^F>GF (G/F/ E2-)   | E z (G AGA)        | G>AG (A/G/ ^F2-)     | F z (^F GFG)         | 
+^F>(GF) (G/F/) E2- | E z (^F GAB)       | A>BA (B/A/) (G>A)    | G>(AG) (A/G/) (^F>G) | 
+^F>(GF) (G/F/) E2- | E z (E ^FGA)       | G>(AG) (A/G/) (^F>G) | ^F>(GF) (G/F/) (E>F) | 
+E>(^FE) (F/E/ D2-) | D2 (D E^FG)        | A^FG EFD             | G>(E^F) (DEC)        | D2 G D2 z |] 
+
+
+

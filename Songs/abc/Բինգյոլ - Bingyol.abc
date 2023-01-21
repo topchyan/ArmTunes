@@ -6,28 +6,28 @@
 %%footer       $IF
 
 X:2
-T: Բինգյոլ
-T: Bingöl
-C: Folk Tune on a poem by Avetik Isahakyan
-O: Armenia
-Z: Avetik Topchyan (transcription, interpretation)
-M: 3/4
-L: 1/4
-Q: 1/4=138
-K: Am
-F: https://www.youtube.com/watch?v=hVcRT31T0-A
+T:Բինգյոլ
+T:Bingöl
+C:Folk Tune on a poem by Avetik Isahakyan
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+F:https://www.youtube.com/watch?v=hVcRT31T0-A
+M:3/4
+L:1/4
+Q:1/4=138
+K:Am
 %%MIDI program 75 
 %%MIDI bassprog 33
 %%MIDI chordprog 28
 %%MIDI gchord fcc
-"Am"z>GA | (A/G/)A2        | "F"z>GA         | Gc2                   | "G"B2A     | "Am"A3  |
-w:Երբ բաց | ե - ղան | գար-նան | կա-նաչ | դըռ ֊նե ֊րը |
-"Am"z>GA | GA2             | "F"zGA          | (A/G/)(c>d)           | "G"(B>c)A  | "Am"A3  |:
-w:Քը-նար | դա-ռան | աղ-բյուր-նե - րը | Բին - գյո | լի
-zcd      | "C"e(e/f/d/c/)  | "Dm"d(d/e/c/B/) | "F"c(c/d/"G"B/A/)     | "Am"(A>e)c | "Dm"d3  |
-w:Շար-վե|շա-րան | ան-ցան | զուգ-ված | ուղ -տե-րը
-zBc      | "Dm"d(d/e/c/B/) | "Am"c(c/d/B/A/) | "F" (A/G/)    (c>d)   | "G"(B>c)A  | "Am"A3 :|
-w:Յարս Էլ | գը ֊ նաց | յայ-լա-|նե - րը | Բին -գյո-|լի։
+"Am"z>GA  | (A/G/)A2        | "F"z>GA          | Gc2                   | "G"B2A      | "Am"A3  |
+w:Երբ բաց | ե - ղան         | գար-նան          | կա-նաչ                | դըռ ֊նե ֊րը |
+"Am"z>GA  | GA2             | "F"zGA           | (A/G/)(c>d)           | "G"(B>c)A   | "Am"A3  |:
+w:Քը-նար  | դա-ռան          | աղ-բյուր-նե - րը | Բին - գյո             | լի
+zcd       | "C"e(e/f/d/c/)  | "Dm"d(d/e/c/B/)  | "F"c(c/d/"G"B/A/)     | "Am"(A>e)c  | "Dm"d3  |
+w:Շար-վե  |շա-րան           | ան-ցան           | զուգ-ված              | ուղ -տե-րը
+zBc       | "Dm"d(d/e/c/B/) | "Am"c(c/d/B/A/)  | "F" (A/G/)    (c>d)   | "G"(B>c)A   | "Am"A3 :|
+w:Յարս Էլ | գը ֊ նաց        | յայ-լա-|նե - րը  | Բին -գյո-             |լի։
 %
 %%multicol start
 %%begintext

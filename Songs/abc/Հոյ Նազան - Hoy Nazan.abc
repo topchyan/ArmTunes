@@ -1,0 +1,22 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:30
+T:Հոյ Նազան
+T:Hoy Nazan
+C:Կոմիտաս (Komitas)
+L:1/4
+Q:1/4=250
+M:3/4
+K:F
+(A/c/) A2 | (A/c/) A2 | (G3/2 F/) G | A A2 | 
+(A/c/) A2 | (A/d/) A2 | (G3/2 F/) G | A A2 :: 
+  A A F | G2 A | (F3/2 G/) E | (F/D/) D2 | 
+G (G E) | F2 G | (E3/2 F/) D | D (D E)   | 
+F (F D) | (E2 F)             | D3        |1 D A2 :|2 D D2 |]
+
+

@@ -1,0 +1,81 @@
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:27
+T: Մաճկալ ես
+T: Machkal es
+C: Armenian Trad. Melody 
+F: https://youtu.be/iIs1gajPhm4
+L: 1/8
+Q: 1/4=60
+M: none
+K: none
+%%MIDI program 68
+%%MIDI drone 70 64 64 60 60
+%%MIDI droneon
+z4 G4  ((7_ABAGFEF E8) z4 E F2 (5GAGFG-G8 z4  
+(F G4)  (6(B_AGFEF E4) z4 (E F2 (3GAF) {A}G8 z4 
+G c B4 c2 ((8dcBcBABA G4) 
+B4 (d2<c2) B4 c2 ((8dcBcBABA G4) 
+(5AFGAB- B4 (A G4) ((7ABAGFEF E8) z4 
+G6 (AF E4) z4"^gliss." {Gc}(B4 A) G4 ({ABAG}F2)>E2 G F4 E2 ({FED}E2) E8   
+%%MIDI droneoff
+%%multicol start
+%%begintext
+%%
+%%
+Մաճկալ ես, բեզարած ես,
+Առը շուռ տուր, շուտ արի,
+Ծովի պես քրտնած ես,
+Եզներդ արձկի, տուն արի։
+%%
+Կաթի սերը քաշել եմ,
+Դրել եմ հովին՝ սառի,
+Ալ գոգնոցս կապել եմ,
+Արի, թառլա՛ն, թը՜ռռ, արի։
+%%
+Տեղ եմ գցել շվաքում,
+Քամին կուգա, զով կանի։
+Լուսնի շողքն է մեր ծոցում,
+Չափ տուր, չափ առ, շուտ արի։
+%%
+Դադրած, բեզարած յար ջան,
+Ամպերն ելան, դե՜հ, արի,
+Բեզարած ջանիդ ղուրբան,
+Ծտից թև առ, թեզ արի։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Matshkal es, bezarac' es,
+Arry' shurr tur, shut ari,
+C'ovi pes qrtnac' es,
+Yeznerd ardzki, tun ari։
+%%
+Kat'i sery' qashel em,
+Drel em hovin՝ sarri,
+Al gognocs kapel em,
+Ari, t'arrla՛n, t'y'՜rrrr, ari։
+%%
+Tegh em gcel shvaqum,
+Qamin kuga, zov kani։
+Lusni shoghqn e' mer c'ocum,
+Chap' tur, chap' arr, shut ari։
+%%
+Dadrac', bezarac' yar jan,
+Ampern elan, de՜h, ari,
+Bezarac' janid ghurban,
+C'tic t'ev arr, t'ez ari։
+%%
+%%endtext
+%%multicol end
+%
+%

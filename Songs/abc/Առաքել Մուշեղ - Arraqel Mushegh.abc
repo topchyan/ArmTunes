@@ -6,15 +6,15 @@
 %%footer       $IF
 
 X:1
-T: Առաքել Մուշեղ
-T: Arakel Mushegh 
-O: Armenia
-F: https://www.youtube.com/watch?v=bXg-IbvkWvc
-Z: Avetik Topchyan (transcription, interpretation)
-M: 6/8
-L: 1/8
-Q: 1/8=120
-K: Dm
+T:Առաքել Մուշեղ
+T:Arakel Mushegh 
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+F:https://www.youtube.com/watch?v=bXg-IbvkWvc
+M:6/8
+L:1/8
+Q:1/8=120
+K:Dm
 %%MIDI program 68 
 %%MIDI drum d2ddddd2d2d2 36 37 37 37 37 36 37 37 100 120 120 120 120 100 120 120
 %%MIDI drumon 

@@ -6,14 +6,14 @@
 %%footer       $IF
 
 X:28
-T: Մարալիկ
-T: Maralik
-C: Հայ ավանդական եղանակ (Armenian Traditional Melody)
-F: https://youtu.be/67W0F5OsHRQ
-L: 1/8
-Q: 1/4=160
-M: 6/8
-K: F
+T:Մարալիկ
+T:Maralik
+C:Հայ ավանդական եղանակ (Armenian Traditional Melody)
+F:https://youtu.be/67W0F5OsHRQ
+L:1/32
+Q:1/4=160
+M:6/8
+K:F
 %%MIDI program 68
 %%MIDI drone 70 62 62 50 50
 %%MIDI droneon
@@ -22,16 +22,17 @@ K: F
 %%%%MIDI drum d2d2d2d2ddddddd2d2  50 66 65  48 66 65 66 65  47 65 66 66  120 70 70  120 70 50 70 50  120 50 70 70
 %%MIDI   drum d2d2d2d2ddddddd2d2  41 50 50  43 50 50 50 50  45 50 50 50  120 70 70  120 70 50 70 50  120 50 70 70
 %%MIDI drumon
-D2 A GAF-      | F>E G FGE-     | E>DF E F2       | 
-D2 z G F2      | G E2 (FDE)     | F D2 D2 C      :: 
-D2 A2 AG       | (GF) (AG) (GF) | FE G2 GF        | 
-(FE) (GF) (FE) | z2 F2 FE       | (ED) (FE) (DC) ::
-D2 z G F2      | G  E2 (FDE)    | F D2 D2 C      ::
-D2 A2 A2-      | A>FA (GAF)     | GA AD A z       | 
-z2 A (GAF)     | (FE)G- G G2-   | GF GA F2        | 
-z3/2 E/G (FGE) | (FEF) G E2     | z2 F (EFD)     ::
-D2 A (GAF)     | (F>EG) (FGE)   | (E>DF) (EFC)   :: 
-D2 z G F2      | G E2 (FDE)     | F D2 D2 C      ::
-DE FG A2-      | AD FE DC       | D2 z D (G2      |1 G)D FE DC :|2  D6 |] 
+D8 A4 G4A4F4- | F4>E4 G4 F4G4E4- | E4>D4F4 E4 F8 | 
+D8 z4 G4 F8 | G4 E8 (F4D4E4) | F4 D8 D8 C4 :: 
+D8 A8 A4G4 | (G4F4) (A4G4) (G4F4) | F4E4 G8 G4F4 | 
+(F4E4) (G4F4) (F4E4) | z8 F8 F4E4 | (E4D4) (F4E4) (D4C4) ::
+D8 z4 G4 F8 | G4 E8 (F4D4E4) | F4 D8 D8 C4 ::
+D8 A8 A8- | A4>F4A4 (G4A4F4) | G4A4 A4D4 A4 z4 | 
+z8 A4 (G4A4F4) | (F4E4)G4- G4 G8- | G4F4 G4A4 F8 | 
+z6 E2G4 (F4G4E4) | (F4E4F4) G4 E8 | z8 F4 (E4F4D4) ::
+D8 A4 (G4A4F4) | (F4>E4G4) (F4G4E4) | (E4>D4F4) (E4F4C4) :: 
+D8 z4 G4 F8 | G4 E8 (F4D4E4) | F4 D8 D8 C4 ::
+D4E4 F4G4 A8- | A4D4 F4E4 D4C4 | D8 z4 D4 (G8 |1 G4)D4 F4E4 D4C4 :|2 D24 |] 
 %%MIDI droneoff
+
 
