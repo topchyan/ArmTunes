@@ -1,0 +1,68 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:31
+T: Մետաքսի թաշկինակ
+T: Medax Tashginag
+O: Yerzinka, West Armenia
+S: Francis Ajoian (Research. Fresno, CA), Tom Bozigian (Presenter), Deborah Jones (VIFD Book)  
+S: Avetik Topchyan (Adaptation)
+M: 4/4
+L: 1/8
+Q: 1/4=120
+K: Dm
+%%MIDI program 24
+%%MIDI bassprog 32
+%%MIDI chordprog 28
+%%MIDI beatstring fpppmppp
+%%MIDI gchord fczcf2c2
+"Dm" D~c =Bc  A2 d2 |\
+      zA2.G  AG F2  |\ 
+    G>c =Bc .A2 d2  |\
+ zA2G (A/B/G/A/) F2 |
+"Gm" G>G FG .E.F G2 |\
+"Dm" zD2.C  FE  D2   |\
+"Gm" G>G FG "Bb".E.F G2 |\
+"C" zD2C "Dm"(F/G/E/F/) D2 :|
+%%multicol start
+%%begintext
+%%
+%%
+Մետաքս թաշկինակս քեզ կ՝նվիրեմ,
+Գիշեր ցերեգ ես քո սիրով կ՝մաշեմ։
+
+Ախ երանի ես քեզ տեսա չըլլայի,
+Գիշեր ցերեգ միտքս խաղաղ պահեի։
+ 
+Անգութ աղջիկ, ինչո՞ւ քովէս հերացար,
+Սիրող սիրտս կոտրեցեր ու հերացար։
+
+Ամեն ատեն ես քեզ կ՝հիշեմ,
+Սրտիս խորեն ախուվախ կ՝քաշեմ։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Medaqs t'ashkinags qez g՝nvirem,
+Kisher cereg es qo sirov g՝mashem։
+
+Ax erani es qez desa chy'llayi,
+Kisher cereg midqs xaghagh bahei։
+ 
+Angut' aghjik, inchu qove's heracar,
+Sirogh sirds godrecer u heracar։
+
+Amen aden es qez gy'hishem,
+Srdis xoren axuvax gy'qashem։
+%%
+%%endtext
+%%multicol end

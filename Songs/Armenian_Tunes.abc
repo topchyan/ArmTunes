@@ -1,3 +1,4 @@
+%%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
 %%textfont     Serif      12
@@ -1735,9 +1736,9 @@ K:Gm
 ^F>(GF) (G/F/) E2- | E z (^F GAB)       | A>BA (B/A/) (G>A)    | G>(AG) (A/G/) (^F>G) | 
 ^F>(GF) (G/F/) E2- | E z (E ^FGA)       | G>(AG) (A/G/) (^F>G) | ^F>(GF) (G/F/) (E>F) | 
 E>(^FE) (F/E/ D2-) | D2 (D E^FG)        | A^FG EFD             | G>(E^F) (DEC)        | D2 G D2 z |] 
-
-
-
+%
+%
+%
 X:30
 T:Հոյ Նազան
 T:Hoy Nazan
@@ -1751,5 +1752,64 @@ K:F
   A A F | G2 A | (F3/2 G/) E | (F/D/) D2 | 
 G (G E) | F2 G | (E3/2 F/) D | D (D E)   | 
 F (F D) | (E2 F)             | D3        |1 D A2 :|2 D D2 |]
+%
+X:31
+T: Մետաքսի թաշկինակ
+T: Medax Tashginag
+O: Yerzinka, West Armenia
+S: Francis Ajoian (Research. Fresno, CA), Tom Bozigian (Presenter), Deborah Jones (VIFD Book)  
+S: Avetik Topchyan (Adaptation)
+M: 4/4
+L: 1/8
+Q: 1/4=120
+K: Dm
+%%MIDI program 24
+%%MIDI bassprog 32
+%%MIDI chordprog 28
+%%MIDI beatstring fpppmppp
+%%MIDI gchord fczcf2c2
+"Dm" D~c =Bc  A2 d2 |\
+      zA2.G  AG F2  |\ 
+    G>c =Bc .A2 d2  |\
+ zA2G (A/B/G/A/) F2 |
+"Gm" G>G FG .E.F G2 |\
+"Dm" zD2.C  FE  D2   |\
+"Gm" G>G FG "Bb".E.F G2 |\
+"C" zD2C "Dm"(F/G/E/F/) D2 :|
+%%multicol start
+%%begintext
+%%
+%%
+Մետաքս թաշկինակս քեզ կ՝նվիրեմ,
+Գիշեր ցերեգ ես քո սիրով կ՝մաշեմ։
 
+Ախ երանի ես քեզ տեսա չըլլայի,
+Գիշեր ցերեգ միտքս խաղաղ պահեի։
+ 
+Անգութ աղջիկ, ինչո՞ւ քովէս հերացար,
+Սիրող սիրտս կոտրեցեր ու հերացար։
 
+Ամեն ատեն ես քեզ կ՝հիշեմ,
+Սրտիս խորեն ախուվախ կ՝քաշեմ։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Medaqs t'ashkinags qez g՝nvirem,
+Kisher cereg es qo sirov g՝mashem։
+
+Ax erani es qez desa chy'llayi,
+Kisher cereg midqs xaghagh bahei։
+ 
+Angut' aghjik, inchu qove's heracar,
+Sirogh sirds godrecer u heracar։
+
+Amen aden es qez gy'hishem,
+Srdis xoren axuvax gy'qashem։
+%%
+%%endtext
+%%multicol end
