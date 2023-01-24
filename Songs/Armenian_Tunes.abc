@@ -1768,20 +1768,28 @@ K: Dm
 %%MIDI chordprog 28
 %%MIDI beatstring fpppmppp
 %%MIDI gchord fczcf2c2
-"Dm" D~c =Bc  A2 d2 |\
-      zA2.G  AG F2  |\ 
-    G>c =Bc .A2 d2  |\
- zA2G (A/B/G/A/) F2 |
-"Gm" G>G FG .E.F G2 |\
-"Dm" zD2.C  FE  D2   |\
-"Gm" G>G FG "Bb".E.F G2 |\
-"C" zD2C "Dm"(F/G/E/F/) D2 :|
+"Dm" D~c =Bc  A2 d2          |\
+w:Մե-տաքս թաշ-կի-նա-կըս 
+      zA2 G  AG  F2          |
+w:քեզ կը-նը-վի-րեմ,
+    A>c =Bc .A2 d2           |\
+w:Մե-տաքս թաշ-կի-նա-կըս
+ zA2G (A/B/G/A/) F2          |
+w:քեզ կը-նը--վի--րեմ,
+"Bb" GG FG "C"(.E.F) G2      |\
+w:Գի-շեր ցե-րեգ ես *քո 
+"Dm" zD2 C   F>E D2          |
+w:սի-րով կը-մա- շեմ
+"Gm" G>G FG "Bb"(.E.F) G2    |\
+w:Գի-շեր ցե-րեգ ես *քո
+"C"  zD2C "Dm"(F/G/E/F/) D2 :|
+w:սի֊ րով կը--մա--շեմ
 %%multicol start
 %%begintext
 %%
 %%
-Մետաքս թաշկինակս քեզ կ՝նվիրեմ,
-Գիշեր ցերեգ ես քո սիրով կ՝մաշեմ։
+Մետաքս թաշկինակս քեզ կ'նվիրեմ,
+Գիշեր ցերեգ ես քո սիրով կ'մաշեմ։
 
 Ախ երանի ես քեզ տեսա չըլլայի,
 Գիշեր ցերեգ միտքս խաղաղ պահեի։
@@ -1789,8 +1797,8 @@ K: Dm
 Անգութ աղջիկ, ինչո՞ւ քովէս հերացար,
 Սիրող սիրտս կոտրեցեր ու հերացար։
 
-Ամեն ատեն ես քեզ կ՝հիշեմ,
-Սրտիս խորեն ախուվախ կ՝քաշեմ։
+Ամեն ատեն ես քեզ կ'հիշեմ,
+Սրտիս խորեն ախուվախ կ'քաշեմ։
 %%
 %%endtext
 %%multicol new
@@ -1799,8 +1807,8 @@ K: Dm
 %%begintext
 %%
 %%
-Medaqs t'ashkinags qez g՝nvirem,
-Kisher cereg es qo sirov g՝mashem։
+Medaqs t'ashkinags qez g'nvirem,
+Kisher cereg es qo sirov g'mashem։
 
 Ax erani es qez desa chy'llayi,
 Kisher cereg midqs xaghagh bahei։
@@ -1813,3 +1821,26 @@ Srdis xoren axuvax gy'qashem։
 %%
 %%endtext
 %%multicol end
+X:32
+T: Նազելի
+T: Nazeli
+C: Armenian Trad. Dance
+L: 1/8
+Q: 1/4=120
+M: 6/8
+U: t=tenuto
+K: G
+   z2       (B,/C/) (^DEF)  | (G>BA) (GFE)             |  G>(FE)  (^DEG)       | 
+   F>(AG) F3-               | F        z       F (GAc) | (~B2   A)     (GFE)   |  
+   E>(^DF) (EDC)            | B,6                      | B,>(B,C) (^DEF)       | G>(BA) (GFE)          |  
+   G>(FE)  (^DEG)           | F>(AG) F3-               |F      z       F (GAc) | 
+  (~B2   A)     (GFE)   |  G>(FG)  (FE^D)       | EF^D   E2 z          :|
+   E>(^DE)  (FGA)           | tB     z      tB- tB B2  |: B>(AB)   (B/c/   A2) | 
+   A>(GA) (A/B/  G2)        |  G>(FG)  (G/A/) F2-      | F      z (F GAB)      |
+   A>(GA)   (A/B/   G2)     | G>(FG) (G/A/  F2) z/     |  F>(EF)  (G E2-)      | 
+   E      z (G FEF)         | G>(FG)   (G/A/   F2-)    | F      z   (A GFG)    |  
+   A>(GA)  (A/B/ G2-)       | G      z (G ABc)         | B>(cB)   (c/B/) (A>B) | 
+   A>(BA) (B/A/) (G>A)      |  G>(AG)  (A/G/) (F>G)    | F>(GF) (G/F/) (E>^D)  |1
+   E>(cB)   (AGF)           | E      z      tB- tB B2 :|2 E>(cB   (A)GF)       | E>F^D  E2 z           |]
+
+

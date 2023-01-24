@@ -1,0 +1,31 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:32
+T: Նազելի
+T: Nazeli
+C: Armenian Trad. Dance
+L: 1/8
+Q: 1/4=120
+M: 6/8
+U: t=tenuto
+K: G
+   z2       (B,/C/) (^DEF)  | (G>BA) (GFE)             |  G>(FE)  (^DEG)       | 
+   F>(AG) F3-               | F        z       F (GAc) | (~B2   A)     (GFE)   |  
+   E>(^DF) (EDC)            | B,6                      | B,>(B,C) (^DEF)       | G>(BA) (GFE)          |  
+   G>(FE)  (^DEG)           | F>(AG) F3-               |F      z       F (GAc) | 
+  (~B2   A)     (GFE)   |  G>(FG)  (FE^D)       | EF^D   E2 z          :|
+   E>(^DE)  (FGA)           | tB     z      tB- tB B2  |: B>(AB)   (B/c/   A2) | 
+   A>(GA) (A/B/  G2)        |  G>(FG)  (G/A/) F2-      | F      z (F GAB)      |
+   A>(GA)   (A/B/   G2)     | G>(FG) (G/A/  F2) z/     |  F>(EF)  (G E2-)      | 
+   E      z (G FEF)         | G>(FG)   (G/A/   F2-)    | F      z   (A GFG)    |  
+   A>(GA)  (A/B/ G2-)       | G      z (G ABc)         | B>(cB)   (c/B/) (A>B) | 
+   A>(BA) (B/A/) (G>A)      |  G>(AG)  (A/G/) (F>G)    | F>(GF) (G/F/) (E>^D)  |1
+   E>(cB)   (AGF)           | E      z      tB- tB B2 :|2 E>(cB   (A)GF)       | E>F^D  E2 z           |]
+
+
