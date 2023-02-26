@@ -1,0 +1,36 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:34
+T:Ին Սրտի Յարըս
+T:Fresno Bar
+O:Fresno, CA, USA and West Armenia
+Z:Avetik Topchyan (edits, adaptation)
+Z:Jack Campin, http://www.campin.me.uk/
+N:Original Artie Barsamian, 1950, Armenian Treasures from the Vault of Artie Barsamian 
+F:https://youtu.be/QEOZSPCb_S4?t=1450 
+F:https://www.youtube.com/watch?v=xvPXsz182po
+F:Jack Campin's Nine-Note Tunebook
+M:10/8
+L:1/8
+Q:3/8=135
+K:Amin
+%%MIDI program 71 % Clarinet
+%%MIDI bassprog 58
+%%MIDI chordprog 24
+%%MIDI chordvol 39 % Volume
+%%MIDI gchord f3c2f2c3
+%%MIDI drumon
+%%MIDI drum dzddzdzdzd 41 35 41 35 37
+%
+"Am" e2d e2 A2      c2e   | "G"     d2c d2  G2  B2d  | "F"c2B   A2  "E"B2  c2     d   | e2d     e2  "Am"(ea) e3   |
+"Am" e2d e2 AA     cc e   | "G"     dd c d2  GG BB d | "Dm7"c2B A2  "E7"(BcAB^G)      | "Am"A3- A2- A2-    A3    ::
+"Am" A2B c2 B2      A3    | "E"     B2c d2  c2  B3   | "C"c2d   e2  "Dm"d2 c3         | "E" e3  E2 "Am"EA E3     |
+"Am" A2B c2 B2      A3    | "E"     B2c d2  c2  B3   | "Dm7"c2B A2  "E7"(BcAB^G)      | "Am"A3- A2- A2-    A3    ::
+"A7" e2f g2 f2      e3    | "Dm"f2e d2  (^ce d3)     | "G7"d2e  f2  e2     d3         | "C"     e2d c2   (Bd c3)  |
+"Am" c2d e2 "Am7"d2 (c2e) | "Dm"d2c B2  A2  (cBA)    | "E"      B2c d2     "E7"c2 B3  | "Am"c2B A2  ^G2    A3    :|]

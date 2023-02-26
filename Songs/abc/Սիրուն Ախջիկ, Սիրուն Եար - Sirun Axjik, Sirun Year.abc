@@ -1,0 +1,78 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:35
+T:Սիրուն Ախջիկ, Սիրուն Եար
+T:Siroun Akhchig, Siroun Yar
+C:Ուդի Հրանդ Քենքուլեան (Udi Hrant Kenkulian)
+O:West Armenia, Turkey, Constantinopole, Ottoman Empire
+Z:Avetik Topchyan (adaptation)
+L:1/16
+Q:1/4=75
+M:4/4
+K:Em 
+%%MIDI drumon
+%%MIDI drum d3d3ddd3d3d2 41 50 35 35 41 50 37
+%%MIDI program 24
+%%MIDI transpose -12
+[P:Intro]
+         .E z FG A2 A2 BABG A4          | AGBG      GFAF FEGF E2 (E/2G/2F/2E/2)           |
+         .D z FG A2 A2 ~BABG A4         | AGBG      GFAF FE/2F/2GF E2 (A/2B/2^c/2d/2)     |
+[P:Song]
+         .e z ^cd e2 e2 (de)(cd) (B3A)  | A2(FG)    (BA)(AG) (GF)(FE) E2 (A/2B/2^c/2d/2)  |
+w: * Սի-րուն ախ-ջիկ, սի--րուն * յար     | ե -կուր   ե -կուր, * հո -գիս * ար *             |
+         .e z ^cd e2 (ef)(de)(cd) (B3A) | A2(FG)    (BA)(AG) (GF)(FE) E2 (E/2G/2F/2E/2)   |
+w: * Սի-րուն ախ-ջիկ, սի--րուն * յար     | ե -կուր   ե -կուր, * հո -գիս * ար *             |
+         .D z FG A2 A2 (~BA)(BG) A4     | (AG)(BG)  (GF)(AF) (FE)(GF) .E z (D/2E/2F/2G/2) |
+w: * Ա-ռանց քե-զի չեմ * գըր -նար        | ուր * որ  * եր -թաս * հե -տդ * տար *            |
+         .A z FG A2 A2 (~BA)(BG) A4     | (~AG)(BG) (GF)(AF) (FE)(GF) .E4                 |]
+w: * Ա-ռանց քե-զի չեմ * գըր -նար        | ուր * որ  * եր -թաս * հե -տդ * տար *            |
+%%multicol start
+%%begintext
+%%
+%%
+Սիրուն ախջիկ, սիրուն եար  
+Եկուր, եկուր, հոգիս ար          
+Առանց քեզի չեմ գըրնար         
+Ուր որ երթաս հետդ տար։
+
+Հետդ տար ինձ նունուշիկ
+Նազ մի ըներ  աղվոր ղուշիկ
+Շաքար ես դուն անուշիկ
+Ըլլամ ոդկերիդ կոշիկ։
+
+Ես մատանիդ ըլլայի
+Մատնեմատդ անցնեի
+Պաչիկ մը քեզի տայի
+Հետո կեանքս հանձնեի։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Siroun axchig, siroun yar  
+Yegur, yegur, hokis ar          
+Arranc qezi chem gy'rnar         
+Ur vor yertas hedet dar
+
+Heted dar indz nunushig
+Naz mi y'ner  aghvor ghushig
+Shaqar es tun anushig
+Y'llam votkerit goshig
+
+Yes madanit y'llayi
+Madnemadet ancnei
+Bachig my' qezi dayi
+Hedo gyanqs handznei։
+%%
+%%endtext
+%%multicol end
+

@@ -1874,6 +1874,10 @@ Q:1/4=120
 M:6/8
 U:t=tenuto
 K:G
+%%MIDI program 73
+%%MIDI drumon
+%%MIDI drumbars 2
+%%MIDI drum d2d2ddz2dddd 41 37 37 37 37 37 37 37 
    z2       (B,/C/) (^DEF)  | (G>BA) (GFE)             |  G>(FE)  (^DEG)       | 
    F>(AG) F3-               | F        z       F (GAc) | (~B2   A)     (GFE)   |  
    E>(^DF) (EDC)            | B,6                      | B,>(B,C) (^DEF)       | G>(BA) (GFE)          |  
@@ -1899,7 +1903,7 @@ Q:1/8=180
 M:6/8
 K:Cm
 %%MIDI program 71 
-%%MIDI gchord fcc
+%%MIDI gchord f3с3с
 %%MIDI chordprog 24
 %%MIDI bassprog 58 
     z6 (C2 G4) | "Cm"(G2>F2GA) (GF2<)(F2E)   | G4 (GA) (GF2<)(F2E)          | "Fm"(F2>E2FG) (FE2<)(E2D) | "Cm"E6
@@ -1970,27 +1974,121 @@ Qo sery', ya՛r, zur chen berum։
 %%multicol end
 %
 X:34
-T:Im Serdi Yares
+T:Ին Սրտի Յարըս
 T:Fresno Bar
 O:Fresno, CA, USA and West Armenia
 Z:Avetik Topchyan (edits, adaptation)
 Z:Jack Campin, http://www.campin.me.uk/
+N:Original Artie Barsamian, 1950, Armenian Treasures from the Vault of Artie Barsamian 
+F:https://youtu.be/QEOZSPCb_S4?t=1450 
 F:https://www.youtube.com/watch?v=xvPXsz182po
 F:Jack Campin's Nine-Note Tunebook
 M:10/8
 L:1/8
-Q:3/8=100
+Q:3/8=135
 K:Amin
 %%MIDI program 71 % Clarinet
 %%MIDI bassprog 58
 %%MIDI chordprog 24
+%%MIDI chordvol 39 % Volume
 %%MIDI gchord f3c2f2c3
 %%MIDI drumon
 %%MIDI drum dzddzdzdzd 41 35 41 35 37
 %
-"Am" e2d e2 A2      c2e | "G"     d2c d2  G2  B2d | "F"c2B   A2  "E"B2  c2     d   | e2d     e2  "Am"ea e3     |
-"Am" e2d e2 AA      cce | "G"     ddc d2  GG  BBd | "Dm7"c2B A2  "E7"Bc AB^G       | "Am"A3- A2- A2-    A3    ::
-"Am" A2B c2 B2      A3  | "E"     B2c d2  c2  B3  | "C"c2d   e2  "Dm"d2 c2d        | "E"     e2d "Am"e2 ea e3  |
-"Am" A2B c2 B2      A2c | "E"     B2c d2  c2  B2d | "Dm7"c2B A2  "E7"Bc AB^G       | "Am"A3- A2- A2-    A3    ::
-"A7" e2f g2 f2      e3  | "Dm"f2e d2  ^ce d2c     | "G7"d2e  f2  e2     d2f        | "C"     e2d c2     B2 c3  |
-"Am" c2d e2 "Am7"d2 c2e | "Dm"d2c B2  A2  cBA     | "E"      B2c d2     "E7"c2 B2d | "Am"c2B A2  ^G2    A3    :|]
+"Am" e2d e2 A2      c2e   | "G"     d2c d2  G2  B2d  | "F"c2B   A2  "E"B2  c2     d   | e2d     e2  "Am"(ea) e3   |
+"Am" e2d e2 AA     cc e   | "G"     dd c d2  GG BB d | "Dm7"c2B A2  "E7"(BcAB^G)      | "Am"A3- A2- A2-    A3    ::
+"Am" A2B c2 B2      A3    | "E"     B2c d2  c2  B3   | "C"c2d   e2  "Dm"d2 c3         | "E" e3  E2 "Am"EA E3      |
+"Am" A2B c2 B2      A3    | "E"     B2c d2  c2  B3   | "Dm7"c2B A2  "E7"(BcAB^G)      | "Am"A3- A2- A2-    A3    ::
+"A7" e2f g2 f2      e3    | "Dm"f2e d2  (^ce d3)     | "G7"d2e  f2  e2     d3         | "C"     e2d c2   (Bd c3)  |
+"Am" c2d e2 "Am7"d2 (c2e) | "Dm"d2c B2  A2  (cBA)    | "E"      B2c d2     "E7"c2 B3  | "Am"c2B A2  ^G2    A3    :|]
+%
+%
+X:35
+T:Սիրուն Ախջիկ, Սիրուն Եար
+T:Siroun Akhchig, Siroun Yar
+C:Ուդի Հրանդ Քենքուլեան (Udi Hrant Kenkulian)
+O:West Armenia, Turkey, Constantinopole, Ottoman Empire
+Z:Avetik Topchyan (adaptation)
+L:1/16
+Q:1/4=75
+M:4/4
+K:Em 
+%%MIDI drumon
+%%MIDI drum d3d3ddd3d3d2 41 50 35 35 41 50 37
+%%MIDI program 24
+%%MIDI transpose -12
+[P:Intro]
+         .E z FG A2 A2 BABG A4          | AGBG      GFAF FEGF E2 (E/2G/2F/2E/2)           |
+         .D z FG A2 A2 ~BABG A4         | AGBG      GFAF FE/2F/2GF E2 (A/2B/2^c/2d/2)     |
+[P:Song]
+         .e z ^cd e2 e2 (de)(cd) (B3A)  | A2(FG)    (BA)(AG) (GF)(FE) E2 (A/2B/2^c/2d/2)  |
+w: * Սի-րուն ախ-ջիկ, սի--րուն * յար     | ե -կուր   ե -կուր, * հո -գիս * ար *             |
+         .e z ^cd e2 (ef)(de)(cd) (B3A) | A2(FG)    (BA)(AG) (GF)(FE) E2 (E/2G/2F/2E/2)   |
+w: * Սի-րուն ախ-ջիկ, սի--րուն * յար     | ե -կուր   ե -կուր, * հո -գիս * ար *             |
+         .D z FG A2 A2 (~BA)(BG) A4     | (AG)(BG)  (GF)(AF) (FE)(GF) .E z (D/2E/2F/2G/2) |
+w: * Ա-ռանց քե-զի չեմ * գըր -նար        | ուր * որ  * եր -թաս * հե -տդ * տար *            |
+         .A z FG A2 A2 (~BA)(BG) A4     | (~AG)(BG) (GF)(AF) (FE)(GF) .E4                 |]
+w: * Ա-ռանց քե-զի չեմ * գըր -նար        | ուր * որ  * եր -թաս * հե -տդ * տար *            |
+%%multicol start
+%%begintext
+%%
+%%
+Սիրուն ախջիկ, սիրուն եար  
+Եկուր, եկուր, հոգիս ար          
+Առանց քեզի չեմ գըրնար         
+Ուր որ երթաս հետդ տար։
+
+Հետդ տար ինձ նունուշիկ
+Նազ մի ըներ  աղվոր ղուշիկ
+Շաքար ես դուն անուշիկ
+Ըլլամ ոդկերիդ կոշիկ։
+
+Ես մատանիդ ըլլայի
+Մատնեմատդ անցնեի
+Պաչիկ մը քեզի տայի
+Հետո կեանքս հանձնեի։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Siroun axchig, siroun yar  
+Yegur, yegur, hokis ar          
+Arranc qezi chem gy'rnar         
+Ur vor yertas hedet dar
+
+Heted dar indz nunushig
+Naz mi y'ner  aghvor ghushig
+Shaqar es tun anushig
+Y'llam votkerit goshig
+
+Yes madanit y'llayi
+Madnemadet ancnei
+Bachig my' qezi dayi
+Hedo gyanqs handznei։
+%%
+%%endtext
+%%multicol end
+
+X:36
+T:Ել ում երգեմ
+T:El Um Ergem
+C:Gusan Havasi
+L:1/8
+Q:1/4=120
+M:3/4
+K:F
+"^Moderato"
+z2  (AG) (GF)   | (AG) (GF) (FE)  | z2  (GF) (FE)   | (GF) (FE) (ED) |
+z2  D2 E2       | F2   (G3 A)     | (F3 G) ED       | D2   (F3 G)    |  E3 F D2     | D6             | 
+z2   (GA) (GF)  | G2  A4          | A4   G2         |  G2 c4         | (=B2 c2) A2  | A6             | 
+z2   (cd) (c=B) | c2  d4          | (c2  d2) =B2    |  A2 c2         | (=B2 c2) A2  | A6             | z2   c2 (cA)    | A2  (A3 c)      | 
+z2   A2 A2      | A2 (AG GF)      | F2  A2 AG       | (G6            | AG  FE) F2   | 
+z2   F2 A2      | F2 G4           | (F2 (3EFG) (EF) | D2   (F2 G2)   | (E2 FD) D2   | (FA  G2 (3FEF) |:
+ (F2 AG) G2     | (GA  F2 AG)     | G4  (F2         | FG   E2 FD)    |  
+    z2 G2 FE    |  F2  G4         | F3   G (ED)     | D2  F3 G       |  E2 FD  D2   |  D6         :|
+
+
