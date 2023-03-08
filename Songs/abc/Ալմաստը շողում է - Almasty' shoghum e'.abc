@@ -1,0 +1,82 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:36
+T:Ալմաստը շողում է
+T:Almaste Shoghum E
+C:Գուսան Շահեն (Gusan Shahen)
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+F:https://youtu.be/rDUYqnd62rc?t=18
+L:1/8
+Q:1/4=120
+M:9/8
+K:Dm
+%%MIDI program 20
+%%MIDI beatstring fpfpfmmfp
+%%MIDI bassprog 58
+%%MIDI bassvol 90
+%%MIDI chordprog 24
+%%MIDI chordvol 40
+%%MIDI gchord fczcfcz2c 
+%%MIDI drumon
+%%MIDI drum d2d2d2ddd 41 43 43 39 39 54 100 90 90 70 90 40
+|: "F"F2   .F.F  F2    (E/G/)    F2     |  "C"EF .G.A  "F"F2    (E/G/) F2        |
+w: Ալ-մաս-տը  շո-ղում * է               | գըլ--խիդ շա-լի վը--րա 
+w: Երկու սիր-ուն ա-ղավ-նի               | քո կըր-ծքի յա ֊֊լի վը ֊֊ րա
+   "Gm"EF   G(G/A/) "Dm"(F>E) F/G<(ED/) |  "Gm"DE "Bb"F(F/G/) "C"(E>D) .D "Dm"D2 ::
+w: Թուխ մա֊ զե֊ րդ փըռ֊վել են           | ե-րե-սիդ խա--լի * վը-րա
+w: Թա-ռել են դը--րախտ ծո-ցըդ,           | բաղ կը-րծքիդ շա--լի * վը-րա։
+|: "F"A2   GF    A2   "C".G    G2      :: "F"A2 GF    (A>c)   "C".G     G2      ::
+w: Աշ-խա-րհը ե-կել է,                   | կու- զե քեզ սեյր * ա-նի
+ "Gm".E.F  GA  "Dm"F2 .E   (DC)      |  "Bb"DE GF    "C"E2    .D     "Dm"D2   :|]
+w: Յար ջան, սա-րի եղ-նիկ ես,            | ինչ-պես հը-պարտ ջեյ-րա-նի։
+%
+%%multicol start
+%%begintext
+%%
+%%
+Ալմաստը շողում է գըլխիդ շալի վըրա,
+Թուխ մազերդ փըռվել են երեսիդ խալի վըրա,
+Երկու սիրուն աղավնի քո կըրծքի յալի վըրա,
+Թառել են դըրախտ ծոցըդ, բաղ կըրծքիդ շալի վըրա։
+
+    Աշխարհը եկել է, 
+    կուզե քեզ սեյր անի.
+    Յար ջան, սարի եղնիկ ես,
+    Ինչպես հըպարտ ջեյրանի։
+
+Իմ յարը նավակով լողում է գյոլի մեջ,
+Մեկ անթառամ ծաղիկ է բուսել սիրուն չոլի մեջ,
+Քո նըմանը չեմ տեսել, աշխարհի գոլի մեջ,
+Շահենի սըրտի գյոզալ, իմ սըրտի խալի վըրա։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Almasty' shoghum e' gy'lxid shali vy'ra,
+T'ux mazerd p'y'rrvel en eresid xali vy'ra,
+Yerku sirun aghavni qo ky'rc'qi yali vy'ra,
+T'arrel en dy'raxt c'ocy'd, bagh ky'rc'qid shali vy'ra։
+
+    Ashxarhy' ekel e', 
+    Kuze qez seyr ani.
+    Yar jan, sari eghnik es,
+    Inchpes hy'part jeyrani։
+
+Im yary' navakov loghum e' gyoli mej,
+Mek ant'arram c'aghik e' busel sirun choli mej,
+Qo ny'many' chem tesel, ashxarhi goli mej,
+Shaheni sy'rti gyozal, im sy'rti xali vy'ra։
+%%
+%%endtext
+%%multicol end
