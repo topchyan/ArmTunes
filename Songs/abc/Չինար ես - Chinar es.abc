@@ -1,0 +1,28 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:38
+T:Չինար ես
+T:Chinar es
+C:Ըստ Կոմիտասի
+L:1/8
+Q:1/4=100
+M:6/4
+K:Gm
+%%MIDI program 68
+%%MIDI chordprog 45
+%%MIDI gchord GIHJHI
+%
+z2     B2 B2 "Bb" B6    | (dc)(cB- -) B2 (dc)(cB-) B2 | (d6  "F"(3(cde c3 B)    | "Bb"B12) ::
+w:     Զի-նար ես,       | կե--ռա -- նալ * մի          | յա՛ր, * յա՛ր,           | յա՛ր
+w:     Մեր դըռ-նեն      | հե--ռա -- նալ * մի          | յա՛ր, * յա՛ր,           | յա՛ր
+w:    Յար, քո աստ-      | ված * կը **    սի - րես     | յա՛ր, * յա՛ր,           | յա՛ր
+w:    Հե-ռու ես,        | մո - ռա -- նալ *  մի        | յա՛ր, * յա՛ր,           | յա՛ր
+% 
+ "Cm"((c>B)   c   (B2 A)    (BA) A4)    | (c6  "Eb"(3(Bcd B3A ) | (BA) (B2 cA) "F"(A/B/G) G4     | "Gm"G12) :|]
+w:    Յա՜ր  * նա  նա֊ ա՜յ   նայ * նա՜յ  | նա՜յ       նա - նա՜յ  |  նա՜յ *  նա՜յ ** նա՜յ ** նա՜յ  |  նա՜յ

@@ -1,0 +1,28 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:37
+T:Փափուռի
+T:Pompooree
+C:Karin, West Armenia
+F:https://youtu.be/prnla0AMv2M
+L:1/8
+K:Bb
+M:2/4
+Q:1/4=120
+|: dd/e/   cB       | d/e/d/c/ BB/c/      | A/B/c    AB/d/      | c/B/c      G2          | 
+   z       d/e/ cB  | d/e/d/c/ B/A/B      | A/B/c    AB/d/      | c/B/c      G2          | 
+   Gc/B/   AB       | c/d/B/c/ A2         | A/c/B/A/ GA         | B/c/A/B/   G/F/G       | 
+   Gc/B/   AB       | c/d/B/c/ A2         | A/BA/    GA         | B/c/A/B/   G2         :: 
+[M:6/8]
+[Q:1/4=180]
+           dcd  BcB | Td2      c     B2c  | ABc      ABc        | {c}B2       c     G3   | 
+   z       dd   cdB | {e}d2    c     B3   | ABc      ABc        | cBc        G3          | 
+   GcB     A2   B   | c2       B     A3   | ABA      G2    A    | B2         A     c G2  | 
+   GcB     A2   B   | cdB      A3         | z        BA    G2 A | B2         A     G3   :|
+%

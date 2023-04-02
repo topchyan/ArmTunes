@@ -2148,3 +2148,44 @@ Shaheni sy'rti gyozal, im sy'rti xali vy'ra։
 %%
 %%endtext
 %%multicol end
+%
+X:37
+T:Փափուռի
+T:Pompooree
+C:Karin, West Armenia
+F:https://youtu.be/prnla0AMv2M
+L:1/8
+K:Bb
+M:2/4
+Q:1/4=120
+|: dd/e/   cB       | d/e/d/c/ BB/c/      | A/B/c    AB/d/      | c/B/c      G2          | 
+   z       d/e/ cB  | d/e/d/c/ B/A/B      | A/B/c    AB/d/      | c/B/c      G2          | 
+   Gc/B/   AB       | c/d/B/c/ A2         | A/c/B/A/ GA         | B/c/A/B/   G/F/G       | 
+   Gc/B/   AB       | c/d/B/c/ A2         | A/BA/    GA         | B/c/A/B/   G2         :: 
+[M:6/8]
+[Q:1/4=180]
+           dcd  BcB | Td2      c     B2c  | ABc      ABc        | {c}B2       c     G3   | 
+   z       dd   cdB | {e}d2    c     B3   | ABc      ABc        | cBc        G3          | 
+   GcB     A2   B   | c2       B     A3   | ABA      G2    A    | B2         A     c G2  | 
+   GcB     A2   B   | cdB      A3         | z        BA    G2 A | B2         A     G3   :|
+%
+X:38
+T:Չինար ես
+T:Chinar es
+C:Ըստ Կոմիտասի
+L:1/8
+Q:1/4=100
+M:6/4
+K:Gm
+%%MIDI program 68
+%%MIDI chordprog 45
+%%MIDI gchord GIHJHI
+%
+z2     B2 B2 "Bb" B6    | (dc)(cB- -) B2 (dc)(cB-) B2 | (d6  "F"(3(cde c3 B)    | "Bb"B12) ::
+w:     Զի-նար ես,       | կե--ռա -- նալ * մի          | յա՛ր, * յա՛ր,           | յա՛ր
+w:     Մեր դըռ-նեն      | հե--ռա -- նալ * մի          | յա՛ր, * յա՛ր,           | յա՛ր
+w:    Յար, քո աստ-      | ված * կը **    սի - րես     | յա՛ր, * յա՛ր,           | յա՛ր
+w:    Հե-ռու ես,        | մո - ռա -- նալ *  մի        | յա՛ր, * յա՛ր,           | յա՛ր
+% 
+ "Cm"((c>B)   c   (B2 A)    (BA) A4)    | (c6  "Eb"(3(Bcd B3A ) | (BA) (B2 cA) "F"(A/B/G) G4     | "Gm"G12) :|]
+w:    Յա՜ր  * նա  նա֊ ա՜յ   նայ * նա՜յ  | նա՜յ       նա - նա՜յ  |  նա՜յ *  նա՜յ ** նա՜յ ** նա՜յ  |  նա՜յ
