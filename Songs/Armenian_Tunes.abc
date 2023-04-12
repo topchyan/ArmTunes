@@ -2189,3 +2189,82 @@ w:    Հե-ռու ես,        | մո - ռա -- նալ *  մի        | յա՛ր
 % 
  "Cm"((c>B)   c   (B2 A)    (BA) A4)    | (c6  "Eb"(3(Bcd B3A ) | (BA) (B2 cA) "F"(A/B/G) G4     | "Gm"G12) :|]
 w:    Յա՜ր  * նա  նա֊ ա՜յ   նայ * նա՜յ  | նա՜յ       նա - նա՜յ  |  նա՜յ *  նա՜յ ** նա՜յ ** նա՜յ  |  նա՜յ
+%
+%
+X:39
+T:Սիրո երգ
+T:Siro erg
+F:https://www.youtube.com/watch?v=6WV1i7zf41E
+C:ժողովրդական / Folk
+C:Արմենակ Սարգսյան / Armenak Sargsyan
+K:Am
+M:4/4
+Q:1/4=80
+L:1/8
+M:6/8
+%%MIDI program 65
+%%MIDI chordvol 80
+%%MIDI gchord fcc
+"Am"z cd ee2        | "Ab+"(e>d)e ((3d/2e/2d/2 c2) | "Am7" (e>d)e (d>c)d  | "Am6"(c>B)c (BA2)      |
+w:Աշ-խա-րհում սի-   | րել * եմ քեզ,           | իմ * ան - գի՛ն, իմ    | լուս - ե - րե՛ս,
+"G"z Bc dd2         | "Dm7"(d>c)d (cBA)       | (d>c)d "F"(c>B)c      | "G"(B>A)c "Am"A3         ::
+w:Մին-չև ե՞րբ, ա՜խ, | մին - չև  ե՞րբ          | իմ սիր - տը պի-       | տի վա - ռես։
+"C"(e>d)e    (dc2)  |    (e>d)e    (dc2)      | "Am"(e>d)e "Dm"(d>c)d | "Em"(c>B)c "Am"(BA2)       | 
+w:Դո՛ւ ես իմ        | սերն ան - մար,          | ապ - րում եմ * ես     | քեզ հա - մար.
+"G"z Bc (d/c/)d2    | "F"(d>c)d (c>B)A        | "Dm"(d>c)d "F"(c>B)c  | "Em"(B>A) (c/2A/2) "Am"A3 :|
+w:Հա-զար տա -րի     | կը -սպա - սեմ,          | մի -այն թե գաս,       | ա - նո՛ւշ յար։
+%
+%
+%%multicol start
+%%begintext
+%%
+%%
+Աշխարհում սիրել եմ քեզ,
+Իմ անգի՛ն, իմ լուսերե՛ս,
+Մինչև ե՞րբ, ա՜խ, մինչև ե՞րբ
+Իմ սիրտը պիտի վառես։
+
+	Դո՛ւ ես իմ սերն անմար,
+	Ապրում եմ ես քեզ համար.
+	Հազար տարի կսպասեմ,
+	Միայն թե գաս, անո՛ւշ յար։
+
+Մեր ձեռքից կանցնեն-կերթան
+Օրերը ջահելության,
+Սեր անենք, անգի՛ն ընկեր,
+Ժամն է մեր ուրախության։
+
+Լեյլիի սիրո նման
+Իմ սերն է կրակ վառման.
+Առանց սեր, դատարկ սրտով
+Չեմ ապրի ոչ մի վայրկյան։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Ashxarhum sirel em qez,
+Im angi՛n, im lusere՛s,
+Minchev e՞rb, a՜x, minchev e՞rb
+Im sirty' piti varres։
+
+	Du es im sern anmar,
+	Aprum em es qez hamar.
+	Hazar tari kspasem,
+	Miayn t'e gas, ano՛wsh yar։
+
+Mer dzerrqic kancnen-kert'an
+Orery' jahelut'yan,
+Ser anenq, angi՛n y'nker,
+Zhamn e' mer uraxut'yan։
+
+Leylii siro nman
+Im sern e' krak varrman.
+Arranc ser, datark srtov
+Chem apri och mi vayrkyan։
+%%
+%%endtext
+%%multicol end
