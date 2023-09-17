@@ -7,12 +7,14 @@
 %%footer       $IF
 
 X:25
-T:  Լէփօ լէ֊լէ
-T: Lepo, le le
+T:Լէփօ լէ֊լէ
+T:Lepo, le le
 P:(ABBCA)
-C:  ժողովրդական և Կարա-Մուրզա
-L: 1/8
-K: Dm
+C:ժողովրդական և Կարա-Մուրզա
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+L:1/8
+K:Dm
 [P:A] [M:2/4] [Q: 1/4=120]
 %%MIDI program 66
 %%MIDI chordvol 80

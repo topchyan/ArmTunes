@@ -1,0 +1,100 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:44
+T:Նազանի
+T:Nazani 
+C:Սայաթ Նովա (Sayat-Nova)
+L:1/16
+Q:1/4=60
+M:6/8
+K:Bb
+I:linebreak $
+%
+[P:Նվագ]  
+         (d2c2c2) (Pc2>B2A2) | [M:5/8] (c2B2) (PB2>A2G2) | (A2B2 Pc2BAG2)  |1 $ 
+[M:6/8]  (PA2G2 A^FG2) (GABc) :|2 (A2G2 A^FG2) z4 || $
+%
+[P:Երգ]
+[M:5/8] S(AB) (AG) A2 d4 | [M:3/8] (^cB) (3(ABAG2) |{AB} A2 G2 A^F | G2 z4     |  $ 
+w:Դուն * էն * հու-րին | իս, ** վուր | գէ-մի կու զաւ|թէ,
+[M:5/8]  (AB) (AG) A2 d4 | [M:3/8] (^cB) (3(ABAG2) |{AB} A2 G2 A^F | G2 (GABc) |: $ 
+w:Չուն--քի * ինձ զաւ-|թե--ցիր | խա-փով, նա-զա՛|նի,
+(3(ded) c2 c2 | {cd}c3 B A2 | [M:5/8] (3(cdc) B2 B3 A G2 | $ 
+w:Ա---րի-վիլք, | ա-րիվ-մուտ, | հա---րաւ ու հիւ-սիս
+A2 B2 {cd} c2 B A G2 |1 [M:6/8] (3(ABA) (G2 A ^F G2) (GABc) :|2 (3(ABA) G2 A ^F G2 z4 || $ 
+w:Չը-կայ քի-զի նը-ման |         չա---փով, նա-զա-նի: | չա---փով, նա-զա-նի:
+%
+[P:Նվագ]
+z2 (B2A2) (PB2>A2G2) | z2 (c2=B2) (Pc2>_B2A2) |[M:3/8] z (!>!ABcde) |$[M:6/8] (Pd2cB) (Pc2BA) (BAG2) | 
+[M:3/8] (A2 c2 (BA) | BA G2) (A^F | G2) z4 S:|] 
+
+%%multicol start
+%%begintext
+%%
+%%
+Դուն էն հուրին իս, վուր գէմի կու զաւթէ,
+Չունքի ինձ զաւթեցիր խափով, նազա՛նի,
+Արիվիլք, արիվմուտ, հարաւ ու հիւսիս
+Չըկայ քիզի նըման չափով, նազա՛նի:
+
+Շատ մարդ քու էշխէմէն կու դառնայ յիզիդ,
+Արի մէ ռա՛հմ արա, լա՛ւ կացի միզիդ,
+Գ'ուզիմ, թէ համաշա դամ անիմ քիզիդ`
+Սանթուրով, քամանչով, դափով, նազա՛նի:
+
+Դարդիրըս շատացաւ` ասիլ իմ ուզում.
+Աչքէմէս արտասունք հուսիլ իմ ուզում.
+Համաշա, եա~ր, քիզիդ խօսիլ իմ ուզում,
+Սիրտըս չէ կըշտանում գափով, նազա՛նի:
+
+Հայալու իս, ադաբ ունիս, ար ունիս,
+Ձեռիդ` դաստա կապած սուսանբար ունիս,
+Տո՛ւր, ինձի սըպանէ` իխտիար ունիս.
+Հէնչաք ըլի` կէնաս բափով, նազա՛նի:
+
+Սայաթ-Նովէն ասաց` արզ անիմ Խանին.
+Ղաբուլ ունիմ` քու խաթրու ինձ սըպանին.
+Հէնչաք ըլի, եա~ր, գաս իմ գերեզմանին,
+Ածիս խուղըն վըրէս ափով, նազա՛նի:
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Dun e'n hurin is, vur ge'mi ku zawt'e',
+Chunqi indz zawt'ecir xap'ov, naza՛ni,
+Arivilq, arivmut, haraw u hiusis
+Chy'kaհ qizi ny'man chap'ov, naza՛ni:
+
+Shat mard qu e'shxe'me'n ku darrnah yizid,
+Ari me' rra՛hm ara, la՛w kaci mizid,
+G'uzim, t'e' hamasha dam anim qizid`
+Sant'urov, qamanchov, dap'ov, naza՛ni:
+
+Dardiry's shatacaw` asil im uzum.
+Achqe'me's artasunq husil im uzum.
+Hamasha, yar, qizid xosil im uzum,
+Sirty's che' ky'shtanum gap'ov, naza՛ni:
+
+Hayalu is, adab unis, ar unis,
+Dzerrid` dasta kapac' susanbar unis,
+Tur, indzi sy'pane'` ixtiar unis.
+He'nchaq y'li` ke'nas bap'ov, naza՛ni:
+
+Sayat'-Nove'n asac` arz anim Xanin.
+Ghabul unim` qu xat'ru indz sy'panin.
+He'nchaq y'li, yar, gas im gerezmanin,
+Ac'is xughy'n vy're's ap'ov, naza՛ni:
+%%
+%%endtext
+%%multicol end
+

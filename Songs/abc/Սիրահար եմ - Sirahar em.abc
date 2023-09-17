@@ -10,10 +10,11 @@ X:15
 T:Սիրահար եմ
 T:Sirahar Yem
 O:Armenia
-M: 6/8
-L: 1/8
-Q: 1/4=150
-K: Am
+Z:Avetik Topchyan (adaptation)
+M:6/8
+L:1/8
+Q:1/4=150
+K:Am
 %%MIDI program 75 
 %%MIDI bassprog 33
 %%MIDI bassvol 60

@@ -7,17 +7,18 @@
 %%footer       $IF
 
 X:5
-T: Գարնան ծաղիկ ես
-T: Garnan Tsagik Es
-C: Gusan Havasi
-O: Armenia
-F: https://www.youtube.com/watch?v=aA_ZxVGnY2c
-Z: www.duduk.com
-L: 1/16
-Q: 1/4=80
-M: 6/8
-I: linebreak $
-K: C
+T:Գարնան ծաղիկ ես
+T:Garnan Tsagik Es
+C:Gusan Havasi
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+F:https://www.youtube.com/watch?v=aA_ZxVGnY2c
+Z:www.duduk.com
+L:1/16
+Q:1/4=80
+M:6/8
+I:linebreak $
+K:C
 "^Moderato"
 z2          E2F2 G2(G_A)(FE) | G2(G2>F2) (GF) (F2>E2)           | E12                        | z2        E2F2 G2(G_A)(FE)   | $
 c2(TB2>_A2) (AB) (TA2>G2)    | G12                              | z2  B2c2 (d_e)(dc)(cB)     | c2        c4 (Bc) (B_A2G)    | (G6 _AGFE) z2 |  $

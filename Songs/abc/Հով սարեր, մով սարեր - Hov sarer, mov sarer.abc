@@ -7,15 +7,17 @@
 %%footer       $IF
 
 X:11
-T: Հով սարեր, մով սարեր
-T: Ov Sarer, Mov Sarer
-C: Gusan Ashot Գուսան Աշոտ (Աշոտ Հայրապետի Դադալյան)  
-F: Adapted from www.duduk.com
-I: linebreak $
-L: 1/8
-Q: 1/8=150
-M: 6/8
-K: C
+T:Հով սարեր, մով սարեր
+T:Ov Sarer, Mov Sarer
+C:Gusan Ashot Գուսան Աշոտ (Աշոտ Հայրապետի Դադալյան)
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+F:Adapted from www.duduk.com
+I:linebreak $
+L:1/8
+Q:1/8=150
+M:6/8
+K:C
 %%stretchstaff 1
 %%pagescale .85 
 [P:Intro]

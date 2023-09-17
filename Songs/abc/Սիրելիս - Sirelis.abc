@@ -7,13 +7,15 @@
 %%footer       $IF
 
 X:26
-T: Սիրելիս
-T: Sirelis
-C: Գուսան Շահեն (Gusan Shahen)
-L: 1/8
-Q: 1/4=120
-M: 3/4
-K: F
+T:Սիրելիս
+T:Sirelis
+C:Գուսան Շահեն (Gusan Shahen)
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+L:1/8
+Q:1/4=120
+M:3/4
+K:F
 DE (F>E) (F>E) | DE (F>E) F2 | (G/F/)(G/A/) (F>E) (F>E) | (F/E/)(F/G/) (E>D) D2 | 
 DE (F>E) (F>E) | DE (F>E) F2 | (G/F/)(G/A/) (F>E) F2    | 
 %

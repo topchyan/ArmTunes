@@ -7,14 +7,20 @@
 %%footer       $IF
 
 X:32
-T: Նազելի
-T: Nazeli
-C: Armenian Trad. Dance
-L: 1/8
-Q: 1/4=120
-M: 6/8
-U: t=tenuto
-K: G
+T:Նազելի
+T:Nazeli
+C:Armenian Trad. Dance
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+L:1/8
+Q:1/4=120
+M:6/8
+U:t=tenuto
+K:G
+%%MIDI program 73
+%%MIDI drumon
+%%MIDI drumbars 2
+%%MIDI drum d2d2ddz2dddd 41 37 37 37 37 37 37 37 
    z2       (B,/C/) (^DEF)  | (G>BA) (GFE)             |  G>(FE)  (^DEG)       | 
    F>(AG) F3-               | F        z       F (GAc) | (~B2   A)     (GFE)   |  
    E>(^DF) (EDC)            | B,6                      | B,>(B,C) (^DEF)       | G>(BA) (GFE)          |  

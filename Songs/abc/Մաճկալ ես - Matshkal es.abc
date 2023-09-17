@@ -7,14 +7,16 @@
 %%footer       $IF
 
 X:27
-T: Մաճկալ ես
-T: Machkal es
-C: Armenian Trad. Melody 
-F: https://youtu.be/iIs1gajPhm4
-L: 1/8
-Q: 1/4=60
-M: none
-K: none
+T:Մաճկալ ես
+T:Machkal es
+C:Armenian Trad. Melody
+O:Armenia
+Z:Avetik Topchyan (adaptation) 
+F:https://youtu.be/iIs1gajPhm4
+L:1/8
+Q:1/4=60
+M:none
+K:none
 %%MIDI program 68
 %%MIDI drone 70 64 64 60 60
 %%MIDI droneon

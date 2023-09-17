@@ -7,13 +7,15 @@
 %%footer       $IF
 
 X:23
-T: Լախտի
-T: Lakhti
-C: arr. T. Altunian
-L: 1/8
-Q: 1/4=220
-M: 3/4
-K: D
+T:Լախտի
+T:Lakhti
+C:arr. T. Altunian
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+L:1/8
+Q:1/4=220
+M:3/4
+K:D
 "^Allegro agitate"
 E2 EEEE | E2 EEEE | E2 EEEE | E2 EEEE | 
 |: (EAGAGF)  | (FGFGFE) | (EAGAGF) | (FGFGFE) | \

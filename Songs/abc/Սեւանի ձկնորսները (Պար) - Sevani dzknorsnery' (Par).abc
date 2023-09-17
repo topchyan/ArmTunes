@@ -7,14 +7,15 @@
 %%footer       $IF
 
 X:14
-T: Սեւանի ձկնորսները (Պար)
-T: Sevani Tsgnorsner (Dance)
-O: Armenia
-N: https://www.youtube.com/watch?v=QgEvApulTg0
-M: 10/8
-L: 1/8
-K: C 
-Q: 1/4=150
+T:Սեւանի ձկնորսները (Պար)
+T:Sevani Tsgnorsner (Dance)
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+N:https://www.youtube.com/watch?v=QgEvApulTg0
+M:10/8
+L:1/8
+K:C 
+Q:1/4=150
 %%MIDI program 24       % Instrument
 %%MIDI bassprog 33
 %%MIDI chordprog 28

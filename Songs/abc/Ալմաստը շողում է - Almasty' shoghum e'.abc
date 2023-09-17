@@ -22,7 +22,7 @@ K:Dm
 %%MIDI bassprog 58
 %%MIDI bassvol 90
 %%MIDI chordprog 24
-%%MIDI chordvol 40
+%%MIDI chordvol 60
 %%MIDI gchord fczcfcz2c 
 %%MIDI drumon
 %%MIDI drum d2d2d2ddd 41 43 43 39 39 54 100 90 90 70 90 40
@@ -80,3 +80,4 @@ Shaheni sy'rti gyozal, im sy'rti xali vy'ra։
 %%
 %%endtext
 %%multicol end
+%

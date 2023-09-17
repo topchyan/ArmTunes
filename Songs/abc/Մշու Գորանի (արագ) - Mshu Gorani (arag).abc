@@ -1,0 +1,85 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:43
+T:Մշու Գորանի (արագ)
+T:Mshou Gorani (fast)
+C:Ժողովորդական
+Z:A.T.
+F:https://www.youtube.com/watch?v=7WsTQCPI8A0
+L:1/8
+Q:1/4=100
+M:4/4
+K:G
+%%MIDI program 72       % Instrument
+(G>D) (GG/A/) (FF/G/)    (GG/D/)      | G2 (A/B/G/A/) (F>A)      G2   |:
+w:Էն * Մը- շո * դաշտ  ու * դու-րան    | յա-րըմ * գո - րա--նի
+        zF GA (A/B/G/A/) (F/G/E)      | zG (G/A/F)    (F/G/E)    E2  :|] 
+w:  Սուրբ Կաս- պեր կիչ - նե * վե-- րա | Մը- շո * գո-րա -- նի
+%
+%
+%%multicol start
+%%begintext
+%%
+%%
+Էն Մշո դաշտ ու դուրան
+Յարմ գորանի
+Սուրբ Կասպեր կիչնե վերան
+Մշո գորանի
+
+Յարմ գորանի, մշո գորանի
+Յարմ գորանի վայ վայ 
+Մշո գորանի
+
+Ջուխտ անգոգնոց աղջիկներ
+Յարմ գորանի
+Կերթան վեր Սասնա սարին
+Մշո գորանի
+
+Յարմ գորանի...
+
+Քառսուն լուսնակ ուր կերթան
+Յարմ գորանի
+Կերթան կելնին Ծովասար
+Մշո գորանի
+
+Յարմ գորանի...
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+E'n Msho dasht u duran
+Yarm gorani
+Surb Kasper kichne veran
+Msho gorani
+
+Yarm gorani, msho gorani
+Yarm gorani vay vay 
+Msho gorani
+
+Juxt angognoc aghjikner
+Yarm gorani
+Kert'an ver Sasna sarin
+Msho gorani
+
+Yarm gorani...
+
+Qarrsun lusnak ur kert'an
+Yarm gorani
+Kert'an kelnin C'ovasar
+Msho gorani
+
+Yarm gorani...
+%%
+%%endtext
+%%multicol end
+

@@ -7,15 +7,17 @@
 %%footer       $IF
 
 X:18
-T: Ֆինջան Պար
-T: Dance "Finjan"
-C: Armenian Traditional Melody
-F: Score adapted from www.duduk.com; Video: https://youtu.be/QzS9zU6SceY
-L: 1/16
-Q: 1/4=100
-M: 2/4
-I: linebreak $
-K: F
+T:Ֆինջան Պար
+T:Dance "Finjan"
+C:Armenian Traditional Melody
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+F:Score adapted from www.duduk.com; Video: https://youtu.be/QzS9zU6SceY
+L:1/16
+Q:1/4=100
+M:2/4
+I:linebreak $
+K:F
 %%MIDI program 75
 %%MIDI drum dzddzddz 45 36 36 36 36
 %%MIDI drumon 

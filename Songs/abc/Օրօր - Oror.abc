@@ -7,14 +7,16 @@
 %%footer       $IF
 
 X:21
-T:  Օրօր
-T: Lullaby
-C:  Գեորգ Արմենյան (Gevorg Armenian)
-L: 1/8
-Q: 1/4=120
-M: 4/4
-I: linebreak $
-K: Dm
+T:Օրօր
+T:Lullaby
+C:Գեորգ Արմենյան (Gevorg Armenian)
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:Dm
 D2 A2   G2  (AF) | (GE) (FG) A4     | D2 A2   A2 (c=B) | (cA) A2   A4  |  $
 A2 (Ac) B2  (AG) | G2   (FE) F4     | A2 (Ac) B2 (AG)  | G2   (FE) F4  |  $
 G2 (GF) G2  A2   | F2   (GE) F2  G2 | E2 (FD) E2 F2    | (GD) D2   D4  |: $

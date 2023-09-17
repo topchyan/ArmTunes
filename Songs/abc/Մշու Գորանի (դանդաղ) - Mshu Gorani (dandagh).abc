@@ -1,0 +1,70 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:42
+T:Մշու Գորանի (դանդաղ)
+T:Mshou Gorani (slow)
+C:Ժողովորդական
+Z:A.T.
+F:https://www.youtube.com/watch?v=-totStkMT04
+L:1/8
+Q:1/4=80
+M:6/8
+K:Em
+%%MIDI program 72       % Instrument
+e3   ec2      | d3 dB2          |  c2B dB(c/A/)       | A3 A2 z   | 
+w: Ըդ ան-դեր  | Մը-շու դաշտ     | հի-նգ հար -իր       | գեղ էր
+w: Յար է-հո,  | յար է-հո,       |յա-ար֊ ըմ գո-        |րա-նի
+d3 dB2        | de2 (c/A/)AB    | c2B (d/B/) B (c/A/) | A3 A2 z :|] 
+w: Ուր ջու֊րը | կը-խմեր         | հի-ի ֊վան - դի      | դեղ էր։
+w: Յար է-հո,  | յար էհո,        | մշու գո-            |րա-նի
+%
+%%multicol start
+%%begintext
+%%
+%%
+Ըդ անդեր Մըշու դաշտ հինգ հարիր գեղ էր,
+Ուր ջուրը կխմեր հիվանդի դեղ էր։
+
+    Յար էհո, յար էհո, յարըմ գորանի
+    Յար էհո, յար էհո, մշու գորանի
+
+Էս տարվա տարին ցորեն էր գարին,
+Էրթամ ու հասնիմ իմ խորոդ յարին։
+
+Ցորյան իմ ցանիլ իմ առվի պռնկան,
+Էրիլ է, թխիլ է դեպ արեգական։
+
+Ալաշկերտ, Մանազկերտ բարձան ու գացին,
+Մուշ ու Բուլանուխ նստան ու լացին։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Ed ander My'shu dasht hing harir gegh e'r,
+Ur jury' kxmer hivandi degh e'r։
+
+    Yar e'ho, yar e'ho, yary'm gorani
+    Yar e'ho, yar e'ho, mshu gorani
+
+E's tarva tarin coren e'r garin,
+E'rt'am u hasnim im xorod yarin։ | 
+
+Coryan im canil im arrvi prrnkan,
+E'ril e', t'xil e' dep aregakan։
+
+Alashkert, Manazkert bardzan u gacin,
+Mush u Bulanux nstan u lacin։
+%%
+%%endtext
+%%multicol end
+

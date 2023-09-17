@@ -1,0 +1,29 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:41
+T:Զանգեզուրի Պար
+T:Zangezuri Par
+Z:Ara Dinkjian (transcription)
+F:https://youtu.be/_ZV_xe4bdWA
+L:1/8
+Q:1/4=140
+M:6/8
+K:none
+%%MIDI program 72       % Instrument
+|: A2   B2     A2   | B2          A           AGA  |  B2          A-            A G2  |  ^F>=F^F F D2     ::
+   ^FGA z      FG   | A2          G           A^FG |  A2          G             ^FAG  |  ^F>=F^F F D2     :|
+   A    A2     z BG | A>GA        GG^F             |  AAA         z             BG    |  A>GA    GG^F      |:
+   c>BA c      B2   | z3/2        A/2B        AAG  |  c>BA        c             B2    |  z3/2    A/2B AAG  |  B>AG  B A2        |
+   z3/2 G/2A   GG^F | A>G^F       GAG/2A/2         |1 G2          ^F            B2 A :|2 G2      ^F F3    ||  z3/2  ^F/2G A^A^c |  d6 |:
+   z3/2 ^c/2d  ddd  | d/2e/2d^c   c/2d/2c^A        |  ^c/2d/2c^A  (3A/2c/2A/2   =A2  :|
+   z3/2 ^A/2^c ccc  | ^c/2d/2c^A  (3A/2c/2A/2 =A2  |  ^A/2^c/2A=A (3A/2^A/2=A/2 G2    |
+   z3/2 A/2^A  AAA  | ^A/2^c/2A=A A/2^A/2=AG       |  A/2^A/2=AG  (3G/2A/2G/2   ^F2   |
+   z2   e      dd^c | edd         ^cc^A            |  ^A e       dd^c                |  edd     ^cc^A     |  ^A=Ad ^cc^A       |
+   d^cc ^AA=A       | G2          c           BBA  |  cBB         AAG                 |  ^FGA    z FG      |  A2    G ^F3       |]
+

@@ -1,0 +1,27 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:40
+T:Ապարանի Պար 
+T:Aparani Par
+Z:Ara Dinkjian (transcription)
+F:https://youtu.be/MApl2LgaDSs
+L:1/16
+Q:1/4=120
+K:Em
+M:4/4
+[M:5/8]               |: BAG2  GB      A2>B2 |  GFE2    EA   G2>A2  |  [M:4/8]      FGE2 A4         |
+[M:5/8] BAG2 GB A2>B2 |  GFE2  EA      G2>A2 |1 [M:4/8] FGE2 EFGA  :|2 FGE2"_Fine"  E4              |:
+[M:5/8] E2ED E2 B4    |  E=FED E2      B4    |  G2A2    BA   A4     |  A2BG         A2 B4          ::
+G2A2    B2 B4         |  B2B2  dB      B4    |  d^cdB   B2   B2>A2  |  A2BG         A2 B4          ::
+BAG2    GB A2>B2      |  GFE2  EA      G2>A2 |  [M:4/8] FGE2 A4     |
+[M:5/8] BAG2 GB A2>B2 |  GFE2  EA      G2>A2 |1 [M:4/8] FGE2 EFGA  :|2 FGE2         E4              |:
+[M:5/8] F2F2 FA G2>A2 |  F2F2  F2F^ED2       |  F2F2    FA   G2>A2  |  F2F2         F^E F4         ::
+F2G2    A2 A4         |  A_BAG AB^cBAG       |  F2G2    A2   A4     |  ^c_BAB"_D.С. al Fine" AG A4 :|
+%
+%

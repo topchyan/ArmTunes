@@ -7,15 +7,15 @@
 %%footer       $IF
 
 X:31
-T: Մետաքսի թաշկինակ
-T: Medax Tashginag
-O: Yerzinka, West Armenia
-S: Francis Ajoian (Research. Fresno, CA), Tom Bozigian (Presenter), Deborah Jones (VIFD Book)  
-S: Avetik Topchyan (Adaptation)
-M: 4/4
-L: 1/8
-Q: 1/4=120
-K: Dm
+T:Մետաքսի թաշկինակ
+T:Medax Tashginag
+O:Yerzinka, West Armenia
+Z:Avetik Topchyan (adaptation)
+S:Francis Ajoian (Research. Fresno, CA), Tom Bozigian (Presenter), Deborah Jones (VIFD Book)  
+M:4/4
+L:1/8
+Q:1/4=120
+K:Dm
 %%MIDI program 24
 %%MIDI bassprog 32
 %%MIDI chordprog 28
@@ -23,15 +23,15 @@ K: Dm
 %%MIDI gchord fczcf2c2
 "Dm" D~c =Bc  A2 d2          |\
 w:Մե-տաքս թաշ-կի-նա-կըս 
-      zA2 G  AG  F2          |
+      zA2 G  A>G  F2          |
 w:քեզ կը-նը-վի-րեմ,
-    A>c =Bc .A2 d2           |\
+    Ac =Bc .A2 d2           |\
 w:Մե-տաքս թաշ-կի-նա-կըս
  zA2G (A/B/G/A/) F2          |
 w:քեզ կը-նը--վի--րեմ,
 "Bb" GG FG "C"(.E.F) G2      |\
 w:Գի-շեր ցե-րեգ ես *քո 
-"Dm" zD2 C   F>E D2          |
+"Dm" zD2 C   FE D2          |
 w:սի-րով կը-մա- շեմ
 "Gm" G>G FG "Bb"(.E.F) G2    |\
 w:Գի-շեր ցե-րեգ ես *քո

@@ -7,15 +7,17 @@
 %%footer       $IF
 
 X:10
-T:  Հիջազ
-T: Hijaz
-C: Аlexandr Spendiarov
-F: https://www.youtube.com/watch?v=jfxpD2g_ZNY
-L: 1/16
-Q: 1/4=100
-M: 6/16
-I: linebreak $
-K: F
+T:Հիջազ
+T:Hijaz
+C:Аlexandr Spendiarov
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+F:https://www.youtube.com/watch?v=jfxpD2g_ZNY
+L:1/16
+Q:1/4=100
+M:6/16
+I:linebreak $
+K:F
 A2B A2B              | A2BAGF         | G2AG2A            | G2AGFE              |  $
 F2GF2G               | FG2FED         | E2FEDC            | D6                  |  AABAAB       | $
 AABAGF               | GGAGGA         | GGAGFE            | F2GF2G              |  $

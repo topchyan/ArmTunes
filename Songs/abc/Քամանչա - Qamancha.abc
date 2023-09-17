@@ -1,0 +1,117 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Serif      12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+X:45
+T:Քամանչա
+T:Kamancha
+C:Սայաթ Նովա (Sayat-Nova)
+Q:1/4=80
+L:1/16
+M:6/8
+K:Ephr =f^g
+%%map color_blue * color=#0000ff 
+%%score ( 1 2 )
+%
+[P:Նվագ]
+[V:1]
+%%MIDI program 72
+z2 (EFGA B>cBAGF | E2AGFG FE G4) | z2 EFGA BcBAGF |1 E2AGFG FE E4 :|2 E2AGFG FE E4    ||
+%
+[P:երգ]
+S z2 c2 B2 c2 B4      | Pc4 B2 c2 B4             | z2 c2 c2 c2 (c2>B2) |  (c2>B2) (BA) (AB) G4 |:   
+w:Ա-մէն սա-զի         | մէ-ջըն գո-ված`           | դուն թա-մամ տասն | իս, քա - մա՛ն-չա,
+  z2 c2 B2 A2 (G2 A2) | (B2>A2) B2 A2 {/B}(AGFE) | z2 G2 A2 B2 (AGFE)  |1 G4 (FG) (FE) E4     :|2 G4 (FG) (FE) E4 ||
+w:Նա-քազ մարդ քիզ     | չի կա-նայ տես-նի`        | դուն նը-րա պասն | իս, քա- մա՛ն- չա,         | իս, քա - մա՛ն - չա,
+  z2 A2 A2 A2 A4-     | A2 G2 A2 {Bc}B2 A4       | z2 G2 A2 B2 c2>B2   |  c4 B2 A2 G4          |:
+w:Ղա՛ստ ա- րա` է՛լ    | լաւ օ- րի- րուն          | է-դի-վըն հասն-|իս, քա-մա՛ն-չա,
+  z2 c2 B2 A2 G2 A2   | (B2>A2) B2 A2 {/B}(AGFE) | z2 G2 A2 B2 (AGFE)  |1 G4 (FG) (FE) E4     :|2 G4 (FG) (FE) E4 ||
+w:Քիզ ինձ-նից ո՞վ     | կա-նայ խը-լի`            | ա- շու- ղի բասն     | իս, քա - մա՛ն -չա:    | իս, քա - մա՛ն - չա:
+%
+[P:Առաջին միջնանվագ]
+z2 E2E2 F2E4  | F2>A2 GF FE E4    | z2 G2G2 A2G4     |  A2>c2 BA AG G4 |:
+z2B2B2 c2A2B2 | c3e^dc cB B2A/G/A | B3cBA AG G2F/E/F |1 G2>A2 GFGA B4 :|2 G2>A2 GF FE E4 S||
+%
+[P:Երկրորդ միջնանվագ]
+(c3Bdc  cBB2MA2)  | (B3AcB BAA2>G2) | z2  (G2A2 (B2)c2A2 | B3dcB cA B4)      | 
+(c3e^dc cBB2MA2)  | (B3cBA AGG2>F2  | E2) (G2A2 B2AGFE)  | (G3AGF FE E2) z2 S|] 
+%
+%
+[V:2]
+%%voicecolor gray
+%%MIDI program 53
+E12-                |E12-                      | E12-                |1 E12-                 :|2 E8 z2 (B,/C/B,/C/ ||
+%
+E2) x10             | x12                      | x12                 | x10 (A,B,              |:
+G,2) x10            | x12                      | x12                 |1 x12                  :|2 x10     FG        || 
+%
+A8)         z2 (EF  | A8)            z2  (3FEF | A12-                | A8-  (A2AB             |:
+G2)  x10            | x12                      | x12                 |1 x8  A,B,CD           :|2 x10               ||
+%
+x12 | x12 | x12 | x12         |:
+x12 | x12 | x12 |1 x8 zDEFGA :|2 x10 B,/c,/B,/c,/ ||
+%
+x12 | x12 | x12 | x12             |
+x12 | x12 | x12 | x10 B,/C/B,/C/  |]
+%
+%%begintext
+%%
+Ամէն սազի մէջըն գոված` դուն թամամ տասն իս, քամա՛նչա,
+Նաքազ մարդ քիզ չի կանայ տեսնի` դուն նըրա պասն իս, քամա՛նչա,
+Ղա՛ստ արա` է՛լ լաւ օրիրուն էդիվըն հասնիս, քամա՛նչա,
+Քիզ ինձնից ո՞վ կանայ խըլի` աշուղի բասն իս, քամա՛նչա:
+
+Անգաճըդ էրծաթէն պիտի, գըլուխըդ` ջավահիր քարած,
+Կութըդ շիրմայէմէն պիտի, փուրըդ` սադափով նաղշ արած,
+Սիմըդ օսկէն քաշած պիտի, էրկաթըդ` փանջարա արած,
+Օչով ղիմէթըդ չի գիդի` լալ ու ալմասն իս, քամա՛նչա:
+
+Ճիպուտըդ վարաղնած պիտի` թահր ունենայ հազար ռանգով.
+Ձարըդ ռաշի կուդէն պիտի, վուր դուն խօսիս քաղցըր հանգով.
+Շատին զարթուն կու լուսացնիս, շատին կու քընեցնիս բանգով.
+Անուշահամ գինով լիքըն` դուն օսկէ թասն իս, քամա՛նչա:
+
+Ածողիդ է՛րկու կու շինիս, առաջ չայի, ղափա գ'ուզիս.
+Կու մեձըրվիս այվընումըն, պարապ վախտի ռափա գ'ուզիս.
+Յիփ վիր գուքաս մէջլիսումըն` քաղցըր զօղ ու սափա գ'ուզիս,
+Բոլորքըդ գօզալնիր շարած` մէջլիսի կէսն իս, քամա՛նչա:
+
+Շատ տըխուր սիրտ կու խընդացնիս, կու կըտրիս հիվընդի դողըն,
+Յիփ քաղցըր ձայնըդ վիր կ'օնիս` բաց կու'լի հիդըդ խաղողըն.
+Խալխին էս իլթիմազն արա` ասին. «Ա՛պրի քու ածողըն»:
+Քանի սաղ է Սայաթ-Նովէն, շատ բան կու տեսնիս, քամա՛նչա:
+%%
+%%
+Ame'n sazi me'jy'n govac'` dun t'amam tasn is, qama՛ncha,
+Naqaz mard qiz chi kanay tesni` dun ny'ra pasn is, qama՛ncha,
+Gha՛st ara` e'՛l law orirun e'divy'n hasnis, qama՛ncha,
+Qiz indznic o՞v kanay xy'li` ashughi basn is, qama՛ncha:
+
+Angatshy'd e'rc'at'e'n piti, gy'luxy'd` javahir qarac',
+Kut'y'd shirmaye'me'n piti, p'ury'd` sadap'ov naghsh arac',
+Simy'd oske'n qashac' piti, e'rkat'y'd` p'anjara arac',
+Ochov ghime't'y'd chi gidi` lal u almasn is, qama՛ncha:
+
+Tshiputy'd varaghnac' piti` t'ahr unenay hazar rrangov.
+Dzary'd rrashi kude'n piti, vur dun xosis qaghcy'r hangov.
+Shatin zart'un ku lusacnis, shatin ku qy'necnis bangov.
+Anushaham ginov liqy'n` dun oske' t'asn is, qama՛ncha:
+
+Ac'oghid e'՛rku ku shinis, arraj chayi, ghap'a g'uzis.
+Ku medzy'rvis ayvy'numy'n, parap vaxti rrap'a g'uzis.
+Yip' vir guqas me'jlisumy'n` qaghcy'r zogh u sap'a g'uzis,
+Bolorqy'd gozalnir sharac'` me'jlisi ke'sn is, qama՛ncha:
+
+Shat ty'xur sirt ku xy'ndacnis, ku ky'tris hivy'ndi doghy'n,
+Yip' qaghcy'r dzayny'd vir k'onis` bac ku'li hidy'd xaghoghy'n.
+Xalxin e's ilt'imazn ara` asin. «A՛pri qu ac'oghy'n»:
+Qani sagh e' Sayat'-Nove'n, shat ban ku tesnis, qama՛ncha:
+%%
+%%endtext
+
+
+

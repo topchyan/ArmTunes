@@ -7,13 +7,15 @@
 %%footer       $IF
 
 X:13
-T:  Նուբարի բոյը չինար է
-T: Nubari Boye Chinar e
-C: Armenian Traditional
-K: Am
-M: 10/8
-L: 1/8
-Q: 1/4=120
+T: Նուբարի բոյը չինար է
+T:Nubari Boye Chinar e
+C:Armenian Traditional Song
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+K:Am
+M:10/8
+L:1/8
+Q:1/4=120
 %
 %%MIDI drum dzddddzdzd 50 37 37 37 50 37 54   
 %%MIDI drumon
