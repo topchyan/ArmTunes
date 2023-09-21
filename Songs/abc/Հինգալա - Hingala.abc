@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:19
+
+X:20
 T:Հինգալա
 T:Hingala
 C:ժողովրդական և Կարա-Մուրզա (Armenian folk and Karen Kara-Murza)
@@ -86,3 +87,4 @@ Chorus:
 %
 %-------------------------------------------------
 %
+

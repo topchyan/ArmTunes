@@ -1,11 +1,104 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
+
 X:1
+T:Ալմաստը շողում է
+T:Almaste Shoghum E
+C:Գուսան Շահեն (Gusan Shahen)
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+F:https://youtu.be/rDUYqnd62rc?t=18
+L:1/8
+Q:1/4=120
+M:9/8
+K:Dm
+%%MIDI program 20
+%%MIDI beatstring fpfpfmmfp
+%%MIDI bassprog 58
+%%MIDI bassvol 90
+%%MIDI chordprog 24
+%%MIDI chordvol 60
+%%MIDI gchord fczcfcz2c 
+%%MIDI drumon
+%%MIDI drum d2d2d2ddd 41 43 43 39 39 54 100 90 90 70 90 40
+|: "F"F2   .F.F  F2    (E/G/)    F2     |  "C"EF .G.A  "F"F2    (E/G/) F2        |
+w: Ալ-մաս-տը  շո-ղում * է               | գըլ--խիդ շա-լի վը--րա 
+w: Երկու սիր-ուն ա-ղավ-նի               | քո կըր-ծքի յա ֊֊լի վը ֊֊ րա
+   "Gm"EF   G(G/A/) "Dm"(F>E) F/G<(ED/) |  "Gm"DE "Bb"F(F/G/) "C"(E>D) .D "Dm"D2 ::
+w: Թուխ մա֊ զե֊ րդ փըռ֊վել են           | ե-րե-սիդ խա--լի * վը-րա
+w: Թա-ռել են դը--րախտ ծո-ցըդ,           | բաղ կը-րծքիդ շա--լի * վը-րա։
+|: "F"A2   GF    A2   "C".G    G2      :: "F"A2 GF    (A>c)   "C".G     G2      ::
+w: Աշ-խա-րհը ե-կել է,                   | կու- զե քեզ սեյր * ա-նի
+ "Gm".E.F  GA  "Dm"F2 .E   (DC)      |  "Bb"DE GF    "C"E2    .D     "Dm"D2   :|]
+w: Յար ջան, սա-րի եղ-նիկ ես,            | ինչ-պես հը-պարտ ջեյ-րա-նի։
+%
+%%multicol start
+%%begintext
+%%
+%%
+Ալմաստը շողում է գըլխիդ շալի վըրա,
+Թուխ մազերդ փըռվել են երեսիդ խալի վըրա,
+Երկու սիրուն աղավնի քո կըրծքի յալի վըրա,
+Թառել են դըրախտ ծոցըդ, բաղ կըրծքիդ շալի վըրա։
+    Աշխարհը եկել է, 
+    կուզե քեզ սեյր անի.
+    Յար ջան, սարի եղնիկ ես,
+    Ինչպես հըպարտ ջեյրանի։
+Իմ յարը նավակով լողում է գյոլի մեջ,
+Մեկ անթառամ ծաղիկ է բուսել սիրուն չոլի մեջ,
+Քո նըմանը չեմ տեսել, աշխարհի գոլի մեջ,
+Շահենի սըրտի գյոզալ, իմ սըրտի խալի վըրա։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Almasty' shoghum e' gy'lxid shali vy'ra,
+T'ux mazerd p'y'rrvel en eresid xali vy'ra,
+Yerku sirun aghavni qo ky'rc'qi yali vy'ra,
+T'arrel en dy'raxt c'ocy'd, bagh ky'rc'qid shali vy'ra։
+    Ashxarhy' ekel e', 
+    Kuze qez seyr ani.
+    Yar jan, sari eghnik es,
+    Inchpes hy'part jeyrani։
+Im yary' navakov loghum e' gyoli mej,
+Mek ant'arram c'aghik e' busel sirun choli mej,
+Qo ny'many' chem tesel, ashxarhi goli mej,
+Shaheni sy'rti gyozal, im sy'rti xali vy'ra։
+%%
+%%endtext
+%%multicol end
+%
+
+X:2
+T:Ապարանի Պար 
+T:Aparani Par
+Z:Ara Dinkjian (transcription)
+F:https://youtu.be/MApl2LgaDSs
+L:1/16
+Q:1/4=120
+K:Em
+M:4/4
+[M:5/8]               |: BAG2  GB      A2>B2 |  GFE2    EA   G2>A2  |  [M:4/8]      FGE2 A4         |
+[M:5/8] BAG2 GB A2>B2 |  GFE2  EA      G2>A2 |1 [M:4/8] FGE2 EFGA  :|2 FGE2"_Fine"  E4              |:
+[M:5/8] E2ED E2 B4    |  E=FED E2      B4    |  G2A2    BA   A4     |  A2BG         A2 B4          ::
+G2A2    B2 B4         |  B2B2  dB      B4    |  d^cdB   B2   B2>A2  |  A2BG         A2 B4          ::
+BAG2    GB A2>B2      |  GFE2  EA      G2>A2 |  [M:4/8] FGE2 A4     |
+[M:5/8] BAG2 GB A2>B2 |  GFE2  EA      G2>A2 |1 [M:4/8] FGE2 EFGA  :|2 FGE2         E4              |:
+[M:5/8] F2F2 FA G2>A2 |  F2F2  F2F^ED2       |  F2F2    FA   G2>A2  |  F2F2         F^E F4         ::
+F2G2    A2 A4         |  A_BAG AB^cBAG       |  F2G2    A2   A4     |  ^c_BAB"_D.С. al Fine" AG A4 :|
+%
+%
+
+X:3
 T:Առաքել Մուշեղ
 T:Arakel Mushegh 
 O:Armenia
@@ -72,7 +165,8 @@ w:   Ա- ~    վե -     րակ  ~   ջա ֊     | ղաց ~     հո - գի  ~ �
 %
 %-------------------------------------------------
 %
-X:2
+
+X:4
 T:Բինգյոլ
 T:Bingöl
 C:Folk Tune on a poem by Avetik Isahakyan
@@ -144,7 +238,8 @@ w:Յարս Էլ | գը ֊ նաց        | յայ-լա-|նե - րը  | Բին -գ
 %
 %-------------------------------------------------
 %
-X:3
+
+X:5
 T:Գառնան արավոտ եր
 T:Garnan Aravot Er
 C:Gusan Havasi
@@ -168,7 +263,8 @@ A2GAGF | A2>c2G2 | G2(3:(GAG)FE | z2 G2G2 | F2GEFD | (DF)E2(DF) | E2(GEFD) ||
 %
 %-------------------------------------------------
 %
-X:4
+
+X:6
 T:Գարմեր ֆըստան (Հելե֊հելե)
 T:Garmir Fstan (Hele Hele, Hele, Ninay E) 
 O:Mousa Dagh, Western Armenia
@@ -266,7 +362,8 @@ Ishinq cha՞ by'r y'ny' mir xol:
 %
 %-------------------------------------------------
 %
-X:5
+
+X:7
 T:Գարնան ծաղիկ ես
 T:Garnan Tsagik Es
 C:Gusan Havasi
@@ -340,7 +437,8 @@ c2          c4 Bc (B_A2G)    | (G6       _AGFE) z2              | z2  (dc)(cB) (
 %
 %-------------------------------------------------
 %
-X:6
+
+X:8
 T:Գյոզալս խռով է
 T:Gozals Khrov E
 C:Gusan Shahen
@@ -426,7 +524,29 @@ Gyozal jan, durs ari՝ patkerd tesnem։
 %
 %-------------------------------------------------
 %
-X:7
+
+X:9
+T:Զանգեզուրի Պար
+T:Zangezuri Par
+Z:Ara Dinkjian (transcription)
+F:https://youtu.be/_ZV_xe4bdWA
+L:1/8
+Q:1/4=140
+M:6/8
+K:none
+%%MIDI program 72       % Instrument
+|: A2   B2     A2   | B2          A           AGA  |  B2          A-            A G2  |  ^F>=F^F F D2     ::
+   ^FGA z      FG   | A2          G           A^FG |  A2          G             ^FAG  |  ^F>=F^F F D2     :|
+   A    A2     z BG | A>GA        GG^F             |  AAA         z             BG    |  A>GA    GG^F      |:
+   c>BA c      B2   | z3/2        A/2B        AAG  |  c>BA        c             B2    |  z3/2    A/2B AAG  |  B>AG  B A2        |
+   z3/2 G/2A   GG^F | A>G^F       GAG/2A/2         |1 G2          ^F            B2 A :|2 G2      ^F F3    ||  z3/2  ^F/2G A^A^c |  d6 |:
+   z3/2 ^c/2d  ddd  | d/2e/2d^c   c/2d/2c^A        |  ^c/2d/2c^A  (3A/2c/2A/2   =A2  :|
+   z3/2 ^A/2^c ccc  | ^c/2d/2c^A  (3A/2c/2A/2 =A2  |  ^A/2^c/2A=A (3A/2^A/2=A/2 G2    |
+   z3/2 A/2^A  AAA  | ^A/2^c/2A=A A/2^A/2=AG       |  A/2^A/2=AG  (3G/2A/2G/2   ^F2   |
+   z2   e      dd^c | edd         ^cc^A            |  ^A e       dd^c                |  edd     ^cc^A     |  ^A=Ad ^cc^A       |
+   d^cc ^AA=A       | G2          c           BBA  |  cBB         AAG                 |  ^FGA    z FG      |  A2    G ^F3       |]
+
+X:10
 T:Թամզարա (պար)
 T:Tamzara (Dance)
 O:Armenia
@@ -457,7 +577,8 @@ g2               g2             ^f2       g g z       | ^f/g/              a2/  
 %
 %-------------------------------------------------
 %
-X:8
+
+X:11
 T:Ի ննջմանէդ արքայական
 T:Ee nnjmaned arqayakan 
 C:Bagdasar Dpir, 18th century
@@ -528,7 +649,212 @@ w: Զար-թիր, | նա-զե - |լի իմ, |զար թիր։
 %
 %-------------------------------------------------
 %
-X:9
+
+X:12
+T:Ին Սրտի Յարըս
+T:Fresno Bar
+O:Fresno, CA, USA and West Armenia
+Z:Avetik Topchyan (edits, adaptation)
+Z:Jack Campin, http://www.campin.me.uk/
+N:Original Artie Barsamian, 1950, Armenian Treasures from the Vault of Artie Barsamian 
+F:https://youtu.be/QEOZSPCb_S4?t=1450 
+F:https://www.youtube.com/watch?v=xvPXsz182po
+F:Jack Campin's Nine-Note Tunebook
+M:10/8
+L:1/8
+Q:3/8=135
+K:Amin
+%%MIDI program 71 % Clarinet
+%%MIDI bassprog 58
+%%MIDI chordprog 24
+%%MIDI chordvol 39 % Volume
+%%MIDI gchord f3c2f2c3
+%%MIDI drumon
+%%MIDI drum dzddzdzdzd 41 35 41 35 37
+%
+"Am" e2d e2 A2      c2e   | "G"     d2c d2  G2  B2d  | "F"c2B   A2  "E"B2  c2     d   | e2d     e2  "Am"(ea) e3   |
+"Am" e2d e2 AA     cc e   | "G"     dd c d2  GG BB d | "Dm7"c2B A2  "E7"(BcAB^G)      | "Am"A3- A2- A2-    A3    ::
+"Am" A2B c2 B2      A3    | "E"     B2c d2  c2  B3   | "C"c2d   e2  "Dm"d2 c3         | "E" e3  E2 "Am"EA E3      |
+"Am" A2B c2 B2      A3    | "E"     B2c d2  c2  B3   | "Dm7"c2B A2  "E7"(BcAB^G)      | "Am"A3- A2- A2-    A3    ::
+"A7" e2f g2 f2      e3    | "Dm"f2e d2  (^ce d3)     | "G7"d2e  f2  e2     d3         | "C"     e2d c2   (Bd c3)  |
+"Am" c2d e2 "Am7"d2 (c2e) | "Dm"d2c B2  A2  (cBA)    | "E"      B2c d2     "E7"c2 B3  | "Am"c2B A2  ^G2    A3    :|]
+%
+%
+
+X: 13
+T:Լազ պար
+T:Laz Bar
+O:Սեւ Ծով (Black Sea)
+F: https://www.youtube.com/watch?v=eCff6LFIj-Y
+L:1/8
+M:7/8
+Q:1/4=200
+K:Am
+%%scale .64
+%%MIDI gchord f2f2f3
+%%MIDI beatstring fpppmpp
+[P:A]
+Bcdc~d2c | ~d2cBA2G | Bcdc~d2c | Td2cBA2z | z2dge2c  | ~d2cBA2G  | ABcd BAG | A2A2A3   | 
+BcdGd2G  |  d2cBA2G | BcdGd2G  |  dGcBA2z | z2dge2G  |  dGcBABG  | ABcd B2G | A2A2A3  || 
+[P:B]
+z2cde2e  | e2efedc  | dddedcB  |  ccdBc3  | cBcdeed  | .e2.a2edc | d2de dcB | cBdBc3   |
+d2d2dcB  | c2c2cBA  | ABcdBAG  | A2Bcd3   | d2d2dcB  | c2c2cBA   | B2B2BAG  | A2A2A3  || 
+[P:C]
+G2AB c2G | c2c2c3   | c2d2e2d  | edegd3   | GGAB ccG | cGcGccG   | cGcdeGd  | edegd2G  | 
+A2cdB2G  | A2A2B2A  | c2cdB2G  | A2cea3   | cBcdBAG  | AEAEBEA   | cAcdBAG  | AEAEA3  ||
+[P:D][K:D _B]
+d2c2BAG    | A2B2cde  | d2c2BAG  | A2A2A3   | dcBcBAG   | AEBEcde   | dcBcBAG  | A2BGA3  |
+dec2BAG    | AEGAcde  | dcBcBAG  | ABcde2A  | dcB2BAG   | A2B2cde   | dcB2BAG  | AEBGA3  |
+[P:E]
+z2cdd2d    | dcdedcB  | A2B2c2B  | A2E2A3   | z2cdddc   | dcdedcB   | A2B2c2B  | G2A2A3  |
+z2ABB2A    | B2c2BAG  | A2B2cde  | c2BAA2G  | z2ABBAG   | B2c2BAG   | A2B2cde  | cBBAA3 ||
+[P:F][K:Am _B ^c]
+z2abag^f   | g2a2gfe   | fefgfed  | e2a2e3   | g2g2gfe   | f2f2fed   | dcdedcB | A2a2a3   | 
+a^gaba=g^f | gzgagfe   | fefgfed  | e2a2e3   | g^fgag=fe | fefgfed   | dcdecdB | AeceA3   |:
+[P:G]
+c2B2BAG    | A2B2cde   | c2B2BAG  | AEBGA3  :: dcBcBAG   | AABBcde   | dcBcBAG | A2E2A3  :|]
+
+X:14
+T:Լախտի
+T:Lakhti
+C:arr. T. Altunian
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+L:1/8
+Q:1/4=220
+M:3/4
+K:D
+"^Allegro agitate"
+E2 EEEE | E2 EEEE | E2 EEEE | E2 EEEE | 
+|: (EAGAGF)  | (FGFGFE) | (EAGAGF) | (FGFGFE) | \
+   (EGFGFE)  | (EFEFED) | (DFEFED) | (DC) C4 :: 
+ E2 (ED)(DC) | D2 (DC)(CA,)  :: \
+ A2 (AG)(GF) | G2 (GF)(FD)   :: \ 
+    (EFGAGF) | G2 (GF)(FD)   :: \
+(BA)(AG)(GF) | (AG)(GF)(FD)  :: \ 
+    (EFGAGF) | (AG)(GF)(FD)  :: \
+     D2 AAAA | A,2 AAAA | (GA)(AG)(GF) | (AG)(GF)(FD) :: \
+    (EFGAGF) | (AG)(GF)(FD)  :: \ 
+ A2 (AG)(GF) | G2 (GF)(FD)   :: \
+ E2 (ED)(DC) | D2 (DC)(CA,)  :: \
+   (B,CDEDC) | D2 (DC)CA,    :: \
+(FE)(ED)(DC) | (ED)(DC)(CA,) :: \ 
+(B,CDEDC)    | (ED)(DC)(CA,) :: \
+    A,2 EEEE | z2 EEEE | (DE)(ED)(DC) | (ED)(DC)(CA,) :: \
+     B,CDEDC | (ED)(DC)(CA,) :: \ 
+E2 (ED)(DC)  | C2 (DC)CA,    :: \
+ A2 (AG)(GF) | G2 (GF)(FD)   :: \
+    (EFGAGF) | G2 (GF)(FD)   :: \
+(BA)(AG)(GF) | (AG)(GF)(FD)  :: \
+    (EFGAGF) | (AG)(GF)(FD)  :: \
+     D2 AAAA | A,2 AAAA | (GA)(AG)(GF) | (AG)(GF)(FD)  :: \ 
+    (EFGAGF) | (AG)(GF)(FD) :| D2 AAAA | A,2 AAAA | D2 AAAA | A, z A z z2 |] \ 
+!mp! (AdcdcB) | (BcBcBA) | (AdcdcB) | (BcBcBA) | (AcBcBA) | (ABABAG) | (GBABAG) | (GF) F4 :: \  
+!f! A2 (AG)(GF) | G2 (GF)(FD) :: \
+       (EFGAGF) | G2 (GF)(FD) :: \
+  (BA)(AG)(GF) | (AG)(GF)(FD) :: \
+      (EFGAGF) | (AG)(GF)(FD) :: \ 
+D2 AAAA | A,2 AAAA | (GA)(AG)(GF) | (AG)(GF)(FD) :: \
+(EFGAGF) | (AG)(GF)(FD) :| \
+D2 AAAA | A,2 AAAA | D2 AAAA | A,2 AAAA :: \
+!mp! (AdcdcB) | (BcBcBA) | (AdcdcB) | (BcBcBA) |  (AcBcBA) | (ABABAG) | (GBABAG) | (GF) F4 :: \
+ A2 (AG)(GF) | G2 (GF)(FD)  :: \
+    (EFGAGF) | G2 (GF)(FD)  :: \
+(BA)(AG)(GF) | (AG)(GF)(FD) :: \
+    (EFGAGF) | (AG)(GF)(FD) :| (EFGAGF) | (EFGAGF) | A2 (GABc) | d z D z z2   |] 
+
+X:15
+T:Լէփօ լէ֊լէ
+T:Lepo, le le
+P:(ABBCA)
+C:ժողովրդական և Կարա-Մուրզա
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+L:1/8
+K:Dm
+[P:A] [M:2/4] [Q: 1/4=120]
+%%MIDI program 66
+%%MIDI chordvol 80
+%%MIDI bassvol 100
+%%MIDI chordprog 25
+%%MIDI bassprog 25
+%%MIDI beatstring fpppmppp
+%%MIDI gchordbars 2
+%%MIDI gchord fczcfzc2
+%%MIDI drumbars 2
+%%MIDI drum dd2dd2d2 45 45 45 45 45 120 80 80 120 120
+%%MIDI drumon
+"F"F (F2 G) | A2 A2 | "C"G (E2 F) | G2 G2 | "Dm"F (D2 E) | F2  F2 | "Am"E D3   | "Dm"D4   :|
+%
+[P:B] [M:6/8] [Q: 1/4=180]
+%%MIDI drumoff
+%
+%%MIDI program 23
+%%MIDI beatstring fpppppfppppp
+%%MIDI gchordbars 3
+%%MIDI gchord fczfzcfczfzcfc2c3
+%%MIDI drumbars 3
+%%MIDI drum ddddd2ddddd2dd2d3 45 50 50 45 50 45 50 50 45 50 45 50 50 
+%%MIDI drumon
+"F"F<F2 (FGE)  |     G<F2 (FGE)     | "C"(GFE) "F"F2 z :: 
+"Dm"E<D2 E F2  | "Bb"E2>D "Gm"E F2  | "C7"E D2 "Dm"D3  ::
+[P:C]
+%%MIDI program 66
+"F"G3        A3 |    (c=Bc)    A3 |    G2 A    G A2  | "C7"(c=Bc) "F"A3  ::
+"Dm"D2>C (FEF)  | D2>C (FEF)      |    D2F EF2       | "C7"G2>D "Dm"D D2  :|] 
+%%MIDI drumoff
+%
+%%multicol start
+%%begintext
+%%
+%%
+Լէ փօ լէ լէ 
+լէ փօ լէ լէ 
+լէ փօ լէ լէ 
+լէ փօ լէ
+%%
+Հոդալլo ջան, հոդալլo ջան, հոդալլo
+Գիւզէլ շիրին, եարալլo ջան եարալլo։
+%%
+Հով, հով, հով լինի
+Հայրըս տունը թող ճգնի
+Հով, հով, հով լինի
+Մայրըս տունը թող չեղնի
+%%
+Թէ տղերք եկէք թոզը հանենք
+Չար թշնամու աչքը տանենք։
+%%
+Լէ փօ լէ լէ...
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Le' p'o le' le' 
+le' p'o le' le' 
+le' p'o le' le' 
+le' p'o le'
+%%
+Hodallo jan, hodallo jan, hodallo
+Guzel shirin, yarallo jan yarallo։
+%%
+Hov, hov, hov lini
+Hayry's tuny' t'ogh tshgni
+Hov, hov, hov lini
+Mayry's tuny' t'ogh cheghni
+%%
+T'e' tgherq eke'q t'ozy' hanenq
+Char t'shnamu achqy' tanenq։
+%%
+Le' p'o le' le'...
+%%
+%%endtext
+%%multicol end
+
+X:16
 T:Ծաղկեփունջ
 T:Tsaghkepunch
 O:Armenia
@@ -557,7 +883,322 @@ P: E
 %
 %-------------------------------------------------
 %
-X:10
+
+X:17
+T:Կարոտել եմ ես
+T:Karotel Em Es
+C:Գուսան Հավասի (Gusan Havasi)
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+L:1/16
+Q:1/4=80
+M:7/8
+K:none
+"^Allegretto"
+%%MIDI program 71
+%%MIDI beatstring fppmpmp
+%%MIDI drumbars 
+%%MIDI drum d2ddddd2ddd2dd 48 37 37 37 37 41 37 37 41 37 37 150 60 50 60 50 100 60 50 100 80 50 
+%%MIDI drumon
+P:Intro
+c2(c2>B2)  (cdcB) (B_A)(AG)    | B2(B2>_A2) (BcBA) (AG)(GF)  |
+_A2(A2>G2) (AcBA) (GF)(FE)     | G2G2>_A2   (GF)(EF) G4      |
+c2(c2>B2)  (B_A)(AG) (GF)(FE)  | G2(G2>F2)  (GF)(FE) E4     ||
+P:Verse
+E2         E4 {F2_G2}_F2=G2 G2F2  | _A2(A2>G2) (GA)(GF) G4      |   
+w:Գու-սան-նե-րի լեզ-վով                  | գո-վա--կան ~ աղ -ջիկ,      |
+_A2(A2>G2) (BA)(AG) (GF)(FE)    | G2(G2>F2)  (GF)(FE) E4      |
+w:Ո՞ւր ես, * խինդ * ու * խա - լիդ | կա-րո--տել * եմ * ես,      |
+=A2        A4 (Ac)(cB) (BA)A2   | (cB2)<(c2A)  A2(AG) (G2>F2)   |
+w:Սա- րի ան - մա - հա - կան       | քաղ - ցրա - բույր ծա - ղիկ,  |
+A2(A2>G2)  (_BA)(AG) (GF)(FE)   | G2(G2>_A2) (GF)(EF) G4      |
+w:Ա-ռա - վո - տյան * շա - ղիդ     | կա-րո - տել * եմ  *ես,         |  
+c2(c2>B2)  (dc)(B_A) (GF)(FE)   | G2(G2>F2)  (GF)(FE) E4      |]
+w:Ա-նուշ * երգ  * ու   * տա - ղիդ   | կա րո - տել  *  եմ  *  ես։                        
+%%
+%%multicol start
+%%begintext
+%%
+%%
+1. Գուսանների լեզվով գովական աղջիկ,
+   Ո՞ւր ես, խինդ ու խալիդ կարոտել եմ ես,
+   Սարի անմահական քաղցրաբույր ծաղիկ,
+   Առավոտյան շաղիդ կարոտել եմ ես,
+   Անուշ երգ ու տաղիդ կարոտել եմ ես։
+%%
+2. Հերոս, անվախ սիրտը չի սպասի բախտի,
+   Սիրունն իր նազերով քաջին կհաղթի,
+   Յար, ծոցիդ պարտեզն է անմահ դրախտի,
+   Սիրուն բախչա - բաղիդ կարոտել եմ ես,
+   Անուշ երգ ու տաղիդ կարոտել եմ ես։
+%%
+3. Հավասուս մի կյանք է մեկ բարև տալդ,
+   Կսպանե անտարբեր հեռուն ման գալդ,
+   Վաղուց է չեմ լսել խոսել, խնդալդ,
+   Նազելիս, ծիծաղիդ կարոտել եմ ես,
+   Անուշ երգ ու տաղիդ կարոտել եմ ես։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+1. Gusanneri lezvov govakan aghjik,
+   Vo՞wr es, xind u xalid karotel em es,
+   Sari anmahakan qaghcrabuyr c'aghik,
+   Arravotyan shaghid karotel em es,
+   Anush erg u taghid karotel em es։
+%%
+2. Heros, anvax sirty' chi spasi baxti,
+   Sirunn ir nazerov qajin khaght'i,
+   Yar, c'ocid partezn e' anmah draxti,
+   Sirun baxcha - baghid karotel em es,
+   Anush erg u taghid karotel em es։
+%%
+3. Havasus mi kyanq e' mek barev tald,
+   Kspane antarber herrun man gald,
+   Vaghuc e' chem lsel xosel, xndald,
+   Nazelis, c'ic'aghid karotel em es,
+   Anush erg u taghid karotel em es։
+%%
+%%endtext
+%%multicol end
+%
+%-------------------------------------------------
+%
+
+X:18
+T:Կաքավիկ
+T:The Partridge
+C:Կոմիտաս (Komitas), Հովհաննես Թումանյան (Hovannes Tumanyan)
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+L:1/8
+Q:1/4=120
+M:4/4
+K:F
+(cA) A2      (Ad) A2 | (cG) G2      (AF) F2 | (FD) D2   (DG) G2 | (FA) (AF) (GE) F2  |
+w: Ա -րև բաց -վեց | թուխ  * ամ-պե -րեն  | կա -քավ թը -ռավ | կա -նաչ * սա -րեն, |
+(cA) (Ad)    (dA) A2 | (cG) (Gc)    (AF) F2 | (FG) (AG) (AF) G2 | (FD) (AF) (GE) F2  |: 
+w: Կա -նաչ  * սա -րեն՝ | սա -րի * ծե -րեն,    | բա -րև * բե -րավ   | ծա -ղիկ -նե -րեն. |
+(FA) (G/A/F) (F3   C)  | (FA) (G/A/)F F4      | FG (AG) (Gc) A2 | (GF) (AF) F4      :|
+w: Սի -րու -- նի՜կ,     | սի -րու -- նի՜կ,       | սի-րու-նի՜կ, * նախ -շուն |կա -քա -վիկ։
+%%multicol start
+%%begintext
+%%
+%%
+1) Արև բացվեց թուխ ամպերեն,
+    Կաքավ թըռավ կանաչ սարեն,
+    Կանաչ սարեն՝ սարի ծերեն,
+    Բարև բերավ ծաղիկներեն.
+%%
+        Սիրունի՜կ, սիրունի՜կ,
+        Սիրունի՜կ, նախշուն կաքավիկ։
+%%
+2) Քո բուն հյուսած ծաղիկներով՝
+    Շուշան, նարգիզ, նունուֆարով,
+    Քո տեղ լըցված ցող ու շաղով,
+    Քընես, կելնես երգ ու տաղով.
+%%
+3) Քո թև փափուկ ու խատուտիկ,
+    Պըստի կըտուց, կարմիր տոտիկ,
+    Կարմիր-կարմիր տոտիկներով,
+    Կըշորորաս ճուտիկներով.
+%%
+4) Երբ կըկանգնես մամռոտ քարին,
+    Սաղմոս կասես ծաղիկներին,
+    Սարեր ձորեր զըվարթ կանես,
+    Դարդի ծովեն սիրտ կըհանես.
+%%
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+1) Arev bacvec t'ux amperen,
+   Kaqav t'y'rrav kanach saren,
+   Kanach saren՝ sari c'eren,
+   Barev berav c'aghikneren.
+%%
+     Siruni՜k, siruni՜k,
+     Siruni՜k, naxshun kaqavik։
+%%
+2) Qo bun hyusac' c'aghiknerov՝
+   Shushan, nargiz, nunufarov,
+   Qo tegh ly'cvac' cogh u shaghov,
+   Qy'nes, kelnes erg u taghov.
+%%
+3) Qo t'ev p'ap'uk u xatutik,
+   Py'sti ky'tuc, karmir totik,
+   Karmir-karmir totiknerov,
+   Ky'shororas tshutiknerov.
+%%
+4) Yerb ky'kangnes mamrrot qarin,
+   Saghmos kases c'aghiknerin,
+   Sarer dzorer zy'vart' kanes,
+   Dardi c'oven sirt ky'hanes.
+%%
+%%endtext
+%%multicol end%
+%-------------------------------------------------
+%
+
+X:19
+T:Հաց կթխեմ
+T:I'll bake a bread  
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+F:https://youtu.be/IOBgR8nz6-w?t=90 
+M:4/4
+L:1/8
+Q:1/4=180
+K:A
+A,2(A,E) E2(ED) | F2(FE) E2 z2    | EFED F2(FE)   | E4 E4 |
+w:Հաց կը -թը -խեմ, գա-րի * ա,    | Ե-րի, ե-րի, էր-վա, | օ՜յ, օ՜յ,|
+|: E2(ED) F2(FE)   | E2(DC) C2 z2 | CDE2 (EF)D2 | C4 C4 :|
+w:Էս ինչ  * ու -րախ  | տա-րի *  ա, | Շե-կո ջան,  էր-վա, | օ՜յ, օ՜յ: |
+%
+%%multicol start
+%%begintext
+%%
+%%
+Հաց կթխեմ, գարի ա,
+Երի, երի, էրվա, օ՜յ, օ՜յ,
+Էս ինչ ուրախ տարի ա,
+Շեկո ջան, էրվա, օ՜յ, օ՜յ:
+%%
+Կրակը թռավ քարից,
+Երի, երի, էրվա, օ՜յ, օ՜յ,
+Ես կմեռնեմ քո դարդից, 
+Շեկո ջան, էրվա, օ՜յ, օ՜յ:
+%%
+Երեսիդ կարոտել եմ,
+Երի, երի, էրվա, օ՜յ, օ՜յ,
+Ոնց որ վարդ մանիշակին, 
+Շեկո ջան, էրվա, օ՜յ, օ՜յ:   
+%%  
+Ծով ա դառե մեր դաշտը,
+Երի, երի, էրվա, օ՜յ, օ՜յ,
+Լիքը հաց ա մեր տաշտը, 
+Շեկո ջան, էրվա, օ՜յ, օ՜յ:
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Hac kt'xem, gari a,
+Yeri, eri, e'rva, o՜y, o՜y,
+E's inch urax tari a,
+Sheko jan, e'rva, o՜y, o՜y:
+%%
+Kraky' t'rrav qaric,
+Yeri, eri, e'rva, o՜y, o՜y,
+Yes kmerrnem qo dardic, 
+Sheko jan, e'rva, o՜y, o՜y:
+%%
+Yeresid karotel em,
+Yeri, eri, e'rva, o՜y, o՜y,
+Vonc or vard manishakin, 
+Sheko jan, e'rva, o՜y, o՜y:   
+%%  
+C'ov a darre mer dashty',
+Yeri, eri, e'rva, o՜y, o՜y,
+Liqy' hac a mer tashty', 
+Sheko jan, e'rva, o՜y, o՜y:
+%%
+%%endtext
+%%multicol end
+
+X:20
+T:Հինգալա
+T:Hingala
+C:ժողովրդական և Կարա-Մուրզա (Armenian folk and Karen Kara-Murza)
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+L:1/4
+Q:1/4=180
+M:3/4
+K:Gm
+%%MIDI program 71
+%%MIDI gchordbars 2 
+%%MIDI gchord f2cfc2
+%%MIDI chordprog 24
+%%MIDI bassprog 58 
+"Gm"D D D | D C B, | "Cm"C3-  | C3          | "D"C D E     | D C (B,/A,/) | "Gm"B,3- | B,3 :| 
+w:  Հո-վի-վը | սա-րում տը-  | խրեց,      | * |  սի-րո եր-  | գը նը-վա-   | գեց | * |
+"Gm" G, B, D | "D"C B, A,     | "Gm"G, B, D | G D B,      | G, B, D     | "D7"(C B,) A, | "Gm"G,3- | G,3 |  
+w: Եր-գը վառ | այ-տե-րին,    | եր-գը բոց     | ա-չքե-րին,  | եր-գը վարդ  | օ-րե-   |րին։           | *   |
+|: "Eb"[G3E3]- | [G3E3] | "Bb"G F F | "Eb"G E E |
+w: Ա՛յ  ~ | խեղճ  հո-վիվ, | քեզ    բա-ժին, 
+ "Bb"F D D | "Cm"E C C | "Gm"D B, B, | "D7"C A, A, |
+w: խոր  ձո-րեր  | մը-նա-ցին, | հին-գա-լա, | հին-գա-լա, |
+"Gm"G, B, D | "D"C B, A, | "Gm"G, B, D | G D B,  | "Cm"G, B, D | "D7"(C B,) A, | "Gm"G,3- | G,3 :|] 
+w:Եր-գը վառ | այ-տե-րին, | եր-գը բոց  | ա-չքե-րին, | եր-գը վարդ |օ--րե-|րին | ։
+%
+%%multicol start
+%%begintext
+%%
+%%
+1) Հովիվը սարում տխրեց,
+   Սիրո երգը նվագեց՝
+   Երդը վառ այտերին,
+   Երգը բոց աչքերին, 
+   Երգը վարդ օրերին։
+%%
+Chorus:
+        Ա՛յ, խե՛ղճ հովիվ, քեզ բաժին
+        Խոր ձորեր մնացին,
+        Հինգալա, հինգալա,
+        Երգը վառ այտերին,
+        Երգը բոց աչքերին,
+        Երգը վարդ օրերին։
+%%
+2) Ահա եկավ նոր գարուն՝
+   Ծաղիկներով զարդարուն,
+   Գույն-գույն ծաղիկները
+   Սիրում եմ, հա՛, հա՛, հա՛,
+   Գույն-գույն ծաղիկները։
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+1) Hovivy' sarum txrec,
+   Siro ergy' nvagec՝
+   Yerdy' varr ayterin,
+   Yergy' boc achqerin, 
+   Yergy' vard orerin։
+%%
+Chorus:
+        A՛y, xe՛ghtsh hoviv, qez bazhin
+        Xor dzorer mnacin,
+        Hingala, hingala,
+        Yergy' varr ayterin,
+        Yergy' boc achqerin,
+        Yergy' vard orerin։
+%%
+2) Aha ekav nor garun՝
+   C'aghiknerov zardarun,
+   Guyn-guyn c'aghiknery'
+   Sirum em, ha՛, ha՛, ha՛,
+   Guyn-guyn c'aghiknery'։
+%%endtext
+%%multicol end
+%
+%-------------------------------------------------
+%
+
+X:21
 T:Հիջազ
 T:Hijaz
 C:Аlexandr Spendiarov
@@ -583,7 +1224,25 @@ E2->)E2!>!{/G}F2     | (FEFEDC)       | D3D3              | !>!A2>(A2GF)        
 %
 %-------------------------------------------------
 %
-X:11
+
+X:22
+T:Հոյ Նազան
+T:Hoy Nazan
+C:Կոմիտաս (Komitas)
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+L:1/4
+Q:1/4=250
+M:3/4
+K:F
+(A/c/) A2 | (A/c/) A2 | (G3/2 F/) G | A A2 | 
+(A/c/) A2 | (A/d/) A2 | (G3/2 F/) G | A A2 :: 
+  A A F | G2 A | (F3/2 G/) E | (F/D/) D2 | 
+G (G E) | F2 G | (E3/2 F/) D | D (D E)   | 
+F (F D) | (E2 F)             | D3        |1 D A2 :|2 D D2 |]
+%
+
+X:23
 T:Հով սարեր, մով սարեր
 T:Ov Sarer, Mov Sarer
 C:Gusan Ashot Գուսան Աշոտ (Աշոտ Հայրապետի Դադալյան)
@@ -679,7 +1338,472 @@ Chorus:
 %
 %-------------------------------------------------
 %
-X:12
+
+X:24
+T:Մաճկալ ես
+T:Machkal es
+C:Armenian Trad. Melody
+O:Armenia
+Z:Avetik Topchyan (adaptation) 
+F:https://youtu.be/iIs1gajPhm4
+L:1/8
+Q:1/4=60
+M:none
+K:none
+%%MIDI program 68
+%%MIDI drone 70 64 64 60 60
+%%MIDI droneon
+z4 G4  ((7_ABAGFEF E8) z4 E F2 (5GAGFG-G8 z4  
+(F G4)  (6(B_AGFEF E4) z4 (E F2 (3GAF) {A}G8 z4 
+G c B4 c2 ((8dcBcBABA G4) 
+B4 (d2<c2) B4 c2 ((8dcBcBABA G4) 
+(5AFGAB- B4 (A G4) ((7ABAGFEF E8) z4 
+G6 (AF E4) z4"^gliss." {Gc}(B4 A) G4 ({ABAG}F2)>E2 G F4 E2 ({FED}E2) E8   
+%%MIDI droneoff
+%%multicol start
+%%begintext
+%%
+%%
+Մաճկալ ես, բեզարած ես,
+Առը շուռ տուր, շուտ արի,
+Ծովի պես քրտնած ես,
+Եզներդ արձկի, տուն արի։
+%%
+Կաթի սերը քաշել եմ,
+Դրել եմ հովին՝ սառի,
+Ալ գոգնոցս կապել եմ,
+Արի, թառլա՛ն, թը՜ռռ, արի։
+%%
+Տեղ եմ գցել շվաքում,
+Քամին կուգա, զով կանի։
+Լուսնի շողքն է մեր ծոցում,
+Չափ տուր, չափ առ, շուտ արի։
+%%
+Դադրած, բեզարած յար ջան,
+Ամպերն ելան, դե՜հ, արի,
+Բեզարած ջանիդ ղուրբան,
+Ծտից թև առ, թեզ արի։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Matshkal es, bezarac' es,
+Arry' shurr tur, shut ari,
+C'ovi pes qrtnac' es,
+Yeznerd ardzki, tun ari։
+%%
+Kat'i sery' qashel em,
+Drel em hovin՝ sarri,
+Al gognocs kapel em,
+Ari, t'arrla՛n, t'y'՜rrrr, ari։
+%%
+Tegh em gcel shvaqum,
+Qamin kuga, zov kani։
+Lusni shoghqn e' mer c'ocum,
+Chap' tur, chap' arr, shut ari։
+%%
+Dadrac', bezarac' yar jan,
+Ampern elan, de՜h, ari,
+Bezarac' janid ghurban,
+C'tic t'ev arr, t'ez ari։
+%%
+%%endtext
+%%multicol end
+%
+%
+
+X:25
+T:Մարալիկ
+T:Maralik
+C:Հայ ավանդական եղանակ (Armenian Traditional Melody)
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+F:https://youtu.be/67W0F5OsHRQ
+L:1/32
+Q:1/4=160
+M:6/8
+K:F
+%%MIDI program 68
+%%MIDI drone 70 62 62 50 50
+%%MIDI droneon
+%%MIDI beatstring fppmpp
+%%MIDI drumbars 3
+%%%%MIDI drum d2d2d2d2ddddddd2d2  50 66 65  48 66 65 66 65  47 65 66 66  120 70 70  120 70 50 70 50  120 50 70 70
+%%MIDI   drum d2d2d2d2ddddddd2d2  41 50 50  43 50 50 50 50  45 50 50 50  120 70 70  120 70 50 70 50  120 50 70 70
+%%MIDI drumon
+D8 A4 G4A4F4- | F4>E4 G4 F4G4E4- | E4>D4F4 E4 F8 | 
+D8 z4 G4 F8 | G4 E8 (F4D4E4) | F4 D8 D8 C4 :: 
+D8 A8 A4G4 | (G4F4) (A4G4) (G4F4) | F4E4 G8 G4F4 | 
+(F4E4) (G4F4) (F4E4) | z8 F8 F4E4 | (E4D4) (F4E4) (D4C4) ::
+D8 z4 G4 F8 | G4 E8 (F4D4E4) | F4 D8 D8 C4 ::
+D8 A8 A8- | A4>F4A4 (G4A4F4) | G4A4 A4D4 A4 z4 | 
+z8 A4 (G4A4F4) | (F4E4)G4- G4 G8- | G4F4 G4A4 F8 | 
+z6 E2G4 (F4G4E4) | (F4E4F4) G4 E8 | z8 F4 (E4F4D4) ::
+D8 A4 (G4A4F4) | (F4>E4G4) (F4G4E4) | (E4>D4F4) (E4F4C4) :: 
+D8 z4 G4 F8 | G4 E8 (F4D4E4) | F4 D8 D8 C4 ::
+D4E4 F4G4 A8- | A4D4 F4E4 D4C4 | D8 z4 D4 (G8 |1 G4)D4 F4E4 D4C4 :|2 D24 |] 
+%%MIDI droneoff
+
+X:26
+T:Մետաքսի թաշկինակ
+T:Medax Tashginag
+O:Yerzinka, West Armenia
+Z:Avetik Topchyan (adaptation)
+S:Francis Ajoian (Research. Fresno, CA), Tom Bozigian (Presenter), Deborah Jones (VIFD Book)  
+M:4/4
+L:1/8
+Q:1/4=120
+K:Dm
+%%MIDI program 24
+%%MIDI bassprog 32
+%%MIDI chordprog 28
+%%MIDI beatstring fpppmppp
+%%MIDI gchord fczcf2c2
+"Dm" D~c =Bc  A2 d2          |\
+w:Մե-տաքս թաշ-կի-նա-կըս 
+      zA2 G  A>G  F2          |
+w:քեզ կը-նը-վի-րեմ,
+    Ac =Bc .A2 d2           |\
+w:Մե-տաքս թաշ-կի-նա-կըս
+ zA2G (A/B/G/A/) F2          |
+w:քեզ կը-նը--վի--րեմ,
+"Bb" GG FG "C"(.E.F) G2      |\
+w:Գի-շեր ցե-րեգ ես *քո 
+"Dm" zD2 C   FE D2          |
+w:սի-րով կը-մա- շեմ
+"Gm" G>G FG "Bb"(.E.F) G2    |\
+w:Գի-շեր ցե-րեգ ես *քո
+"C"  zD2C "Dm"(F/G/E/F/) D2 :|
+w:սի֊ րով կը--մա--շեմ
+%
+%%multicol start
+%%begintext
+%%
+%%
+Մետաքս թաշկինակս քեզ կ'նվիրեմ,
+Գիշեր ցերեգ ես քո սիրով կ'մաշեմ։
+Ախ երանի ես քեզ տեսա չըլլայի,
+Գիշեր ցերեգ միտքս խաղաղ պահեի։
+Անգութ աղջիկ, ինչո՞ւ քովէս հերացար,
+Սիրող սիրտս կոտրեցեր ու հերացար։
+Ամեն ատեն ես քեզ կ'հիշեմ,
+Սրտիս խորեն ախուվախ կ'քաշեմ։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Medaqs t'ashkinags qez g'nvirem,
+Kisher cereg es qo sirov g'mashem։
+Ax erani es qez desa chy'llayi,
+Kisher cereg midqs xaghagh bahei։
+Angut' aghjik, inchu qove's heracar,
+Sirogh sirds godrecer u heracar։
+Amen aden es qez gy'hishem,
+Srdis xoren axuvax gy'qashem։
+%%
+%%endtext
+%%multicol end
+
+X:27
+T:Մշու Գորանի (արագ)
+T:Mshou Gorani (fast)
+C:Ժողովորդական
+Z:A.T.
+F:https://www.youtube.com/watch?v=7WsTQCPI8A0
+L:1/8
+Q:1/4=100
+M:4/4
+K:G
+%%MIDI program 72       % Instrument
+(G>D) (GG/A/) (FF/G/)    (GG/D/)      | G2 (A/B/G/A/) (F>A)      G2   |:
+w:Էն * Մը- շո * դաշտ  ու * դու-րան    | յա-րըմ * գո - րա--նի
+        zF GA (A/B/G/A/) (F/G/E)      | zG (G/A/F)    (F/G/E)    E2  :|] 
+w:  Սուրբ Կաս- պեր կիչ - նե * վե-- րա | Մը- շո * գո-րա -- նի
+%
+%
+%%multicol start
+%%begintext
+%%
+%%
+Էն Մշո դաշտ ու դուրան
+Յարմ գորանի
+Սուրբ Կասպեր կիչնե վերան
+Մշո գորանի
+Յարմ գորանի, մշո գորանի
+Յարմ գորանի վայ վայ 
+Մշո գորանի
+Ջուխտ անգոգնոց աղջիկներ
+Յարմ գորանի
+Կերթան վեր Սասնա սարին
+Մշո գորանի
+Յարմ գորանի...
+Քառսուն լուսնակ ուր կերթան
+Յարմ գորանի
+Կերթան կելնին Ծովասար
+Մշո գորանի
+Յարմ գորանի...
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+E'n Msho dasht u duran
+Yarm gorani
+Surb Kasper kichne veran
+Msho gorani
+Yarm gorani, msho gorani
+Yarm gorani vay vay 
+Msho gorani
+Juxt angognoc aghjikner
+Yarm gorani
+Kert'an ver Sasna sarin
+Msho gorani
+Yarm gorani...
+Qarrsun lusnak ur kert'an
+Yarm gorani
+Kert'an kelnin C'ovasar
+Msho gorani
+Yarm gorani...
+%%
+%%endtext
+%%multicol end
+
+%
+X:28
+T:Մշու Գորանի (դանդաղ)
+T:Mshou Gorani (slow)
+C:Ժողովորդական
+Z:A.T.
+F:https://www.youtube.com/watch?v=-totStkMT04
+L:1/8
+Q:1/4=80
+M:6/8
+K:Em
+%%MIDI program 72       % Instrument
+e3   ec2      | d3 dB2          |  c2B dB(c/A/)       | A3 A2 z   | 
+w: Ըդ ան-դեր  | Մը-շու դաշտ     | հի-նգ հար -իր       | գեղ էր
+w: Յար է-հո,  | յար է-հո,       |յա-ար֊ ըմ գո-        |րա-նի
+d3 dB2        | de2 (c/A/)AB    | c2B (d/B/) B (c/A/) | A3 A2 z :|] 
+w: Ուր ջու֊րը | կը-խմեր         | հի-ի ֊վան - դի      | դեղ էր։
+w: Յար է-հո,  | յար էհո,        | մշու գո-            |րա-նի
+%
+%%multicol start
+%%begintext
+%%
+%%
+Ըդ անդեր Մըշու դաշտ հինգ հարիր գեղ էր,
+Ուր ջուրը կխմեր հիվանդի դեղ էր։
+    Յար էհո, յար էհո, յարըմ գորանի
+    Յար էհո, յար էհո, մշու գորանի
+Էս տարվա տարին ցորեն էր գարին,
+Էրթամ ու հասնիմ իմ խորոդ յարին։
+Ցորյան իմ ցանիլ իմ առվի պռնկան,
+Էրիլ է, թխիլ է դեպ արեգական։
+Ալաշկերտ, Մանազկերտ բարձան ու գացին,
+Մուշ ու Բուլանուխ նստան ու լացին։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Ed ander My'shu dasht hing harir gegh e'r,
+Ur jury' kxmer hivandi degh e'r։
+    Yar e'ho, yar e'ho, yary'm gorani
+    Yar e'ho, yar e'ho, mshu gorani
+E's tarva tarin coren e'r garin,
+E'rt'am u hasnim im xorod yarin։ | 
+Coryan im canil im arrvi prrnkan,
+E'ril e', t'xil e' dep aregakan։
+Alashkert, Manazkert bardzan u gacin,
+Mush u Bulanux nstan u lacin։
+%%
+%%endtext
+%%multicol end
+
+
+
+X:29
+T:Յարիմօ
+T:Yarimo
+L:1/16
+Q:1/4=120
+M:7/8
+P:ABACAB
+I:linebreak $
+K:Gm ^F
+[P:A] |: B2B2B2 B2>d2 cBAG      |[M:9/8] FGAG BcBA B2AG FG A4  |$
+[M:7/8]  G2G2G2 G2>B2 AGFE      |[M:9/8] D2AG AGFE G2FE FE D4 !fine! :|$
+[M:7/8]  G2G2G2 G2>A2 GFG2      |[M:9/8] FGA2 AGFE G2FE FE D4  |$ 
+[M:7/8]  G2G2G2 G2>F2 FED2      |[M:9/8] D2AG AGFE G2FE FE D4  |$
+[M:7/8]  G2G2G2 G2>A2 GFG2      |[M:9/8] FGBA GFE2 GFE2 FE D4  |$
+[M:7/8]  G2G2E2 F2>G2 FED2      |[M:9/8] D2AG AGFE G2FE FE D4 ::$ 
+[P:B]
+[M:8/8]  d2d2d2 d2>e2 c_Bc2 c2  |[M:9/8] ABc_B dcBA B2AG FG A4 !D.C.!:|$
+[P:C]
+[M:8/8] =B2B2B2 B2>c2 B^AB2 B2  |[M:9/8] =Bcdc e2cB c2cB ccB2 B2 |$
+[M:8/8] =B2B2B2 B2>c2 B^AB2 B2- |[M:9/8] =Bcde d2cB c2cB dcB2 B2 !D.C.!|] 
+
+X:30
+T:Նազ Պար 
+T:Naz Bаг
+C:Armenian Trad. Dance
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+Z:WWW.duduk.com
+L:1/8
+Q:1/4=120
+M:6/8
+K:Gm
+%%MIDI program 24
+%%MIDI beatstring fpmpmpfpmpmp
+%%MIDI drumon
+%%MIDI drum d3dd2d2d2d2 41 41 43 41 43 43 
+^F/G/A z ABG       | (B>AG) (^F/E/ D2)  | A>(^FG) (AcB)        | (TA2G) A3            | 
+ D>DE (^FGA)       | (B>AG (^F/)E/ D2)  | A>BG (c=Bc)          | (TA2G) A3            | 
+ c>=Bc (dBc)       | (Td2c)  (B/A/ G2)  | c>=Bc BcA            | (TA2G) A3            | 
+ c>=Bc (dec)       | (d2 c)  (B/A/ G2)  | (d2 c) =BcA          | A>^FG A3             | 
+ z z  B BBB        |   B>Ac  (B/A/ G2   | G>)^FG (ABG)         | A>GB (A/G/) ^F2-     | 
+ F z  G GGG        |   G>^FA (G/F/ E2)  | ^F>GE (FGA)          | B/(A/B/A/G) A3       | 
+ B BBB z2          |  B>Ac (B/A/) G2-   | G>^FG ABG            | A>GB (A/G/) ^F2-     | 
+ F z G GGG         | G>^FA (G/F/ E2)    | ^F>GE (AGA)          | (T^F2 E) (DEF        | 
+ E) z z z3         | z z (G AGA)        | G>AG (A/G/ ^F2-)     | F z (^F GFG)         | 
+^F>GF (G/F/ E2-)   | E z (G AGA)        | G>AG (A/G/ ^F2-)     | F z (^F GFG)         | 
+^F>(GF) (G/F/) E2- | E z (^F GAB)       | A>BA (B/A/) (G>A)    | G>(AG) (A/G/) (^F>G) | 
+^F>(GF) (G/F/) E2- | E z (E ^FGA)       | G>(AG) (A/G/) (^F>G) | ^F>(GF) (G/F/) (E>F) | 
+E>(^FE) (F/E/ D2-) | D2 (D E^FG)        | A^FG EFD             | G>(E^F) (DEC)        | D2 G D2 z |] 
+%
+%
+%
+
+X:31
+T:Նազանի
+T:Nazani 
+C:Սայաթ Նովա (Sayat-Nova)
+L:1/16
+Q:1/4=60
+M:6/8
+K:Bb
+I:linebreak $
+%
+[P:Նվագ]  
+         (d2c2c2) (Pc2>B2A2) | [M:5/8] (c2B2) (PB2>A2G2) | (A2B2 Pc2BAG2)  |1 $ 
+[M:6/8]  (PA2G2 A^FG2) (GABc) :|2 (A2G2 A^FG2) z4 || $
+%
+[P:Երգ]
+[M:5/8] S(AB) (AG) A2 d4 | [M:3/8] (^cB) (3(ABAG2) |{AB} A2 G2 A^F | G2 z4     |  $ 
+w:Դուն * էն * հու-րին | իս, ** վուր | գէ-մի կու զաւ|թէ,
+[M:5/8]  (AB) (AG) A2 d4 | [M:3/8] (^cB) (3(ABAG2) |{AB} A2 G2 A^F | G2 (GABc) |: $ 
+w:Չուն--քի * ինձ զաւ-|թե--ցիր | խա-փով, նա-զա՛|նի,
+(3(ded) c2 c2 | {cd}c3 B A2 | [M:5/8] (3(cdc) B2 B3 A G2 | $ 
+w:Ա---րի-վիլք, | ա-րիվ-մուտ, | հա---րաւ ու հիւ-սիս
+A2 B2 {cd} c2 B A G2 |1 [M:6/8] (3(ABA) (G2 A ^F G2) (GABc) :|2 (3(ABA) G2 A ^F G2 z4 || $ 
+w:Չը-կայ քի-զի նը-ման |         չա---փով, նա-զա-նի: | չա---փով, նա-զա-նի:
+%
+[P:Նվագ]
+z2 (B2A2) (PB2>A2G2) | z2 (c2=B2) (Pc2>_B2A2) |[M:3/8] z (!>!ABcde) |$[M:6/8] (Pd2cB) (Pc2BA) (BAG2) | 
+[M:3/8] (A2 c2 (BA) | BA G2) (A^F | G2) z4 S:|]
+%%multicol start
+%%begintext
+%%
+%%
+Դուն էն հուրին իս, վուր գէմի կու զաւթէ,
+Չունքի ինձ զաւթեցիր խափով, նազա՛նի,
+Արիվիլք, արիվմուտ, հարաւ ու հիւսիս
+Չըկայ քիզի նըման չափով, նազա՛նի:
+Շատ մարդ քու էշխէմէն կու դառնայ յիզիդ,
+Արի մէ ռա՛հմ արա, լա՛ւ կացի միզիդ,
+Գ'ուզիմ, թէ համաշա դամ անիմ քիզիդ`
+Սանթուրով, քամանչով, դափով, նազա՛նի:
+Դարդիրըս շատացաւ` ասիլ իմ ուզում.
+Աչքէմէս արտասունք հուսիլ իմ ուզում.
+Համաշա, եա~ր, քիզիդ խօսիլ իմ ուզում,
+Սիրտըս չէ կըշտանում գափով, նազա՛նի:
+Հայալու իս, ադաբ ունիս, ար ունիս,
+Ձեռիդ` դաստա կապած սուսանբար ունիս,
+Տո՛ւր, ինձի սըպանէ` իխտիար ունիս.
+Հէնչաք ըլի` կէնաս բափով, նազա՛նի:
+Սայաթ-Նովէն ասաց` արզ անիմ Խանին.
+Ղաբուլ ունիմ` քու խաթրու ինձ սըպանին.
+Հէնչաք ըլի, եա~ր, գաս իմ գերեզմանին,
+Ածիս խուղըն վըրէս ափով, նազա՛նի:
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Dun e'n hurin is, vur ge'mi ku zawt'e',
+Chunqi indz zawt'ecir xap'ov, naza՛ni,
+Arivilq, arivmut, haraw u hiusis
+Chy'kaհ qizi ny'man chap'ov, naza՛ni:
+Shat mard qu e'shxe'me'n ku darrnah yizid,
+Ari me' rra՛hm ara, la՛w kaci mizid,
+G'uzim, t'e' hamasha dam anim qizid`
+Sant'urov, qamanchov, dap'ov, naza՛ni:
+Dardiry's shatacaw` asil im uzum.
+Achqe'me's artasunq husil im uzum.
+Hamasha, yar, qizid xosil im uzum,
+Sirty's che' ky'shtanum gap'ov, naza՛ni:
+Hayalu is, adab unis, ar unis,
+Dzerrid` dasta kapac' susanbar unis,
+Tur, indzi sy'pane'` ixtiar unis.
+He'nchaq y'li` ke'nas bap'ov, naza՛ni:
+Sayat'-Nove'n asac` arz anim Xanin.
+Ghabul unim` qu xat'ru indz sy'panin.
+He'nchaq y'li, yar, gas im gerezmanin,
+Ac'is xughy'n vy're's ap'ov, naza՛ni:
+%%
+%%endtext
+%%multicol end
+ 
+
+X:32
+T:Նազելի
+T:Nazeli
+C:Armenian Trad. Dance
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+L:1/8
+Q:1/4=120
+M:6/8
+U:t=tenuto
+K:G
+%%MIDI program 73
+%%MIDI drumon
+%%MIDI drumbars 2
+%%MIDI drum d2d2ddz2dddd 41 37 37 37 37 37 37 37 
+   z2       (B,/C/) (^DEF)  | (G>BA) (GFE)             |  G>(FE)  (^DEG)       | 
+   F>(AG) F3-               | F        z       F (GAc) | (~B2   A)     (GFE)   |  
+   E>(^DF) (EDC)            | B,6                      | B,>(B,C) (^DEF)       | G>(BA) (GFE)          |  
+   G>(FE)  (^DEG)           | F>(AG) F3-               |F      z       F (GAc) | 
+  (~B2   A)     (GFE)   |  G>(FG)  (FE^D)       | EF^D   E2 z          :|
+   E>(^DE)  (FGA)           | tB     z      tB- tB B2  |: B>(AB)   (B/c/   A2) | 
+   A>(GA) (A/B/  G2)        |  G>(FG)  (G/A/) F2-      | F      z (F GAB)      |
+   A>(GA)   (A/B/   G2)     | G>(FG) (G/A/  F2) z/     |  F>(EF)  (G E2-)      | 
+   E      z (G FEF)         | G>(FG)   (G/A/   F2-)    | F      z   (A GFG)    |  
+   A>(GA)  (A/B/ G2-)       | G      z (G ABc)         | B>(cB)   (c/B/) (A>B) | 
+   A>(BA) (B/A/) (G>A)      |  G>(AG)  (A/G/) (F>G)    | F>(GF) (G/F/) (E>^D)  |1
+   E>(cB)   (AGF)           | E      z      tB- tB B2 :|2 E>(cB   (A)GF)       | E>F^D  E2 z           |]
+%
+%
+
+X:33
 T:Նորից Գարուն Եկաւ (Ջէյրանի պէս)
 T:Norits Garoon Yekav (Jeyrani Pes) 
 C:Gusan Sheram [Գուսան Շերամ]
@@ -703,29 +1827,50 @@ w: Կար-միր է - իր ~ հա - գել, վար-դի պէս վառ-ման
 w: Ջէյ-րա-նի ~ պէս ~ սա-րե-րով ե-կար ու ~ ան - ցար  
    "D"z2AB     (cB)(AG)  | (^F3G)A4    | "Cm"(AG)(GA)  (^FE)(ED)    | "D"D8               :|
 w: Մէկ բա-րեւ ~ էիր ~ տա - լիս, այն ~ էլ ~ մո - ռա - ցար:
-W:
-W:Verse 1: 
-W:Նորից գարուն եկաւ, գարուն աննման,
-W:Նորից ես քեզ տեսայ, ով իմ սիրուն եար,
-W:Կարմիր էիր հագել, վարդի պէս վառման:
-W:
-W:Chorus: 
-W:Ջէյրանի պէս սարերով եկար ու անցար,
-W:Մէկ բարեւ էիր տալիս, այն էլ մոռացար:
-W:
-W:Verse 2:
-W:Թուխ մազերդ էիր փռել, եար քո թիկունքին,
-W:Ալ ժպիտն էր շողում, եար քո շուրթերին,
-W:Երբեմն զուր տեղ փչում, սէրը շուրթերին:
-W:
-W:Verse 3:
-W:Աշխարհի մէջ դուն սիրուն, ո՞վ է քեզ ժպտում,
-W:Ինձ արել ես դատարկուն, վարմունքով հազար,
-W:Ես լալիս եմ դու խնդում, ու չես նայում եար:
+%
+%%multicol start
+%%begintext
+%%
+%%
+Նորից գարուն եկաւ, գարուն աննման,
+Նորից ես քեզ տեսայ, ով իմ սիրուն եար,
+Կարմիր էիր հագել, վարդի պէս վառման:
+
+| Ջէյրանի պէս սարերով եկար ու անցար,
+| Մէկ բարեւ էիր տալիս, այն էլ մոռացար:
+Թուխ մազերդ էիր փռել, եար քո թիկունքին,
+Ալ ժպիտն էր շողում, եար քո շուրթերին,
+Երբեմն զուր տեղ փչում, սէրը շուրթերին:
+Աշխարհի մէջ դուն սիրուն, ո՞վ է քեզ ժպտում,
+Ինձ արել ես դատարկուն, վարմունքով հազար,
+Ես լալիս եմ դու խնդում, ու չես նայում եար:
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Noric garun ekaw, garun annman,
+Noric es qez tesay, ov im sirun ear,
+Karmir e'ir hagel, vardi pe's varrman:
+| Je'yrani pe's sarerov ekar u ancar,
+| Me'k barev e'ir talis, ayn e'l morracar:
+T'ux mazerd e'ir p'rrel, ear qo t'ikunqin,
+Al zhpitn e'r shoghum, ear qo shurt'erin,
+Yerbemn zur tegh p'chum, se'ry' shurt'erin:
+Ashxarhi me'j dun sirun, o՞v e' qez zhptum,
+Indz arel es datarkun, varmunqov hazar,
+Yes lalis em du xndum, u ches nayum ear:
+%%
+%%endtext
+%%multicol end
+%
 %
 %-------------------------------------------------
 %
-X:13
+X:34
 T: Նուբարի բոյը չինար է
 T:Nubari Boye Chinar e
 C:Armenian Traditional Song
@@ -832,7 +1977,111 @@ Unqery' kerr u kamar e'։
 %
 %-------------------------------------------------
 %
-X:14
+
+X:35
+T:Չինար ես
+T:Chinar es
+C:Ըստ Կոմիտասի
+L:1/8
+Q:1/4=100
+M:6/4
+K:Gm
+%%MIDI program 68
+%%MIDI chordprog 45
+%%MIDI gchord GIHJHI
+%
+z2     B2 B2 "Bb" B6    | (dc)(cB- -) B2 (dc)(cB-) B2 | (d6  "F"(3(cde c3 B)    | "Bb"B12) ::
+w:     Զի-նար ես,       | կե--ռա -- նալ * մի          | յա՛ր, * յա՛ր,           | յա՛ր
+w:     Մեր դըռ-նեն      | հե--ռա -- նալ * մի          | յա՛ր, * յա՛ր,           | յա՛ր
+w:    Յար, քո աստ-      | ված * կը **    սի - րես     | յա՛ր, * յա՛ր,           | յա՛ր
+w:    Հե-ռու ես,        | մո - ռա -- նալ *  մի        | յա՛ր, * յա՛ր,           | յա՛ր
+% 
+ "Cm"((c>B)   c   (B2 A)    (BA) A4)    | (c6  "Eb"(3(Bcd B3A ) | (BA) (B2 cA) "F"(A/B/G) G4     | "Gm"G12) :|]
+w:    Յա՜ր  * նա  նա֊ ա՜յ   նայ * նա՜յ  | նա՜յ       նա - նա՜յ  |  նա՜յ *  նա՜յ ** նա՜յ ** նա՜յ  |  նա՜յ
+%
+%
+
+X:36
+T:Սարերի հովին մեռնեմ
+T:Sareri Hovin Mernem
+C:Armenian Traditional Song
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+L:1/16
+Q:1/8=180
+M:6/8
+K:Cm
+%%MIDI program 71 
+%%MIDI gchord f3с3с
+%%MIDI chordprog 24
+%%MIDI chordvol 100
+%%MIDI bassprog 58 
+    z6 (C2 G4) | "Cm"(G2>F2GA) (GF2<)(F2E)   | G4 (GA) (GF2<)(F2E)          | "Fm"(F2>E2FG) (FE2<)(E2D) | "Cm"E6
+w:Սա ֊րե֊ րի հո -- վին * մեռ-|նեմ, հո - վին մեռ-|նեմ, հո -- վին * մեռ - նեմ,  
+       (C2 G4) | (B2>G2)(GA) (GF) (F2>E2)    | G4 (GA) (GF2<)(F2E)          | "Fm"(F2>E2F)G (FE2<)(E2D) | "Cm"E6
+w:Իմ յա-|րի բո -- յին * մեռ- |նեմ, բո - յին մեռ-|նեմ, բո -- յին * մեռ - նեմ։  
+       (DE F4) | "Fm"(F2>E2F)G (FE2<)(E2D)   | (F4 EF) (ED2<)(D2C)          | "Cm"(E2>C2DE) (DC) C4     | "F" F6
+w:Մի տա-|րի * է * չեմ տե-      |սել, * տես -- նողի,   | յա՛ր,* աչ-քին մեռ-|նեմ։  
+       (DE F4) | "Fm"(B4 AG) (FE2<)(E2D)     | (F4 EF) (ED2<)(D2C)          | "Ab"(E2>C2"Bb"DE) (DC) C4 | "Cm"C6
+w:Մի տա-|րի * է * չեմ տե-      |սել, * տես -- նողի,   |յա՛ր,* աչ-քին  մեռ-|նեմ։   
+       (=AB c4)|  (c2>B2c_d) (cB2<)(B2=A)    | "C7"(B2>=A2B_d) (cB2<)(_A2G) | "Fm"(A2>G2AB) (AG2<)(G2F) | "Cm"G6
+w:Կայն-|ել եմ՝ գալ չեմ կա-|րող, գալ չեմ կա-|րող, գալ չեմ կա-|րող,  
+       (=AB c4)|  (c2>B2ce) (_dc2<)(B2=A)    | "C7"B2>=A2(B_d) (cB2<)(_A2G) | "Fm"(A2>G2AB) (AG2<)(G2F) | "Cm"G6
+w:Լցվել |եմ՝ լալ չեմ կա-|րող, լալ չեմ կա-|րող, լալ չեմ կա-|րող,  
+       (C2 G4) |  (B2>G2)(GA) (GF2<)(F2E)    | G4 (GA) (GF2<)(F2E)          | "Fm"(F2>E2FG) (FE2<)(E2D) | "Cm"E6
+w:Մի տա-|րի է չեմ տե-|սել, տեսնողի, |յա՛ր, աչքին մեռ-|նեմ։  
+       (DE F4) | "F"(F2>E2FG) (FE2<)(E2D)    | "Fm"(F4 EF) (ED2<)(D2C)      | "Ab"(E2>C2"Bb"DE) (DC C4) | "F" F6
+w:Մի տա-|րի է չեմ տե-|սել, տեսնողի, |յա՛ր, աչքին մեռ-|նեմ։  
+       (DE F4) | "Bb"(B4 AG) (FE2<)(E2D)     | "Fm"(F4 EF) (ED2<)(D2C)      | "Ab"(E2>C2"Bb"DE) (DC) C4 | "Cm"C6 z6 |] 
+w:Մի տա-|րի է չեմ տե-|սել, տեսնողի, |յա՛ր, աչքին մեռ-|նեմ։
+%%multicol start
+%%begintext
+%%
+%%
+Սարերի հովին մեռնեմ,
+Հովին մեռնեմ, հովին մեռնեմ,
+Իմ յարի բոյին մեռնեմ,
+Բոյին մեռնեմ, բոյին մեռնեմ։
+    Կայնել եմ՝ գալ չեմ կարող,
+    Գալ չեմ կարող, գալ չեմ կարող,
+    Լցվել եմ՝ լալ չեմ կարող,
+    Լալ չեմ կարող, լալ չեմ կարող,
+    Մի տարի է չեմ տեսել,
+    Տեսնողի, յա՛ր, աչքին մեռնեմ։
+Գետերը ջուր չեն բերում,
+Քեզանից լուր չեն բերում,
+Չըլնի՞ սերդ սառել է,
+Քո սերը, յա՛ր, զուր չեն բերում։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Sareri hovin merrnem,
+Hovin merrnem, hovin merrnem,
+Im yari boyin merrnem,
+Boyin merrnem, boyin merrnem։
+    Kaynel em՝ gal chem karogh,
+    Gal chem karogh, gal chem karogh,
+    Lcvel em՝ lal chem karogh,
+    Lal chem karogh, lal chem karogh,
+    Mi tari e' chem tesel,
+    Tesnoghi, ya՛r, achqin merrnem։
+Getery' jur chen berum,
+Qezanic lur chen berum,
+Chy'lni՞ serd sarrel e',
+Qo sery', ya՛r, zur chen berum։
+%%
+%%endtext
+%%multicol end
+%
+
+
+
+X:37
 T:Սեւանի ձկնորսները (Պար)
 T:Sevani Tsgnorsner (Dance)
 O:Armenia
@@ -864,7 +2113,8 @@ P: D
 %
 %-------------------------------------------------
 %
-X:15
+
+X:38
 T:Սիրահար եմ
 T:Sirahar Yem
 O:Armenia
@@ -948,7 +2198,29 @@ w:Թե որ չը֊      |      տան, յա-րո ջան, | կը-փախ - ցը-  
 %
 %-------------------------------------------------
 %
-X:16
+
+X:39
+T:Սիրելիս
+T:Sirelis
+C:Գուսան Շահեն (Gusan Shahen)
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+L:1/8
+Q:1/4=120
+M:3/4
+K:F
+DE (F>E) (F>E) | DE (F>E) F2 | (G/F/)(G/A/) (F>E) (F>E) | (F/E/)(F/G/) (E>D) D2 | 
+DE (F>E) (F>E) | DE (F>E) F2 | (G/F/)(G/A/) (F>E) F2    | 
+%
+FG (A>G) A2    | FG (A>G) (A>G) | FG (A>G) A2 | dd (d>A) (A>G) | 
+FG (A>G) A2    | FG (A>G) (A>G) | FG (A>G) A2 | 
+%
+B(B/c/) (A>G) A>G | F(F/G/) F2 E2  | (!fermata!F2 G2- G/F/E/D/ | C6) | 
+%
+DE (F>E) (F>E) | DE (F>E) F2 | (G/F/)(G/A/) (F>E) (F>E) | (F/E/)(F/G/) (E>D) D2 | 
+DE (F>E) (F>E) | DE (F>E) F2 | (G/F/)(G/A/) (F>E) F2    | (F/E/)(F/G/) (EF/D/) !fermata!D2 |] 
+
+X:40
 T:Սիրիր, երգիր
 T:Sirir, yerkir ("Sirdes","Armenian Misirlou")
 Z:John Chambers <jc@trillian.mit.edu> http://trillian.mit.edu/~jc/music/
@@ -1031,7 +2303,157 @@ w:~Ինչ որ ա--նես էն կը մը ֊նայ, ~ցը-նորք -նե-րի մ�
 %
 %-------------------------------------------------
 %
-X:17
+
+X:41
+T:Սիրո երգ
+T:Siro erg
+F:https://www.youtube.com/watch?v=6WV1i7zf41E
+C:ժողովրդական / Folk
+C:Արմենակ Սարգսյան / Armenak Sargsyan
+K:Am
+M:4/4
+Q:1/4=80
+L:1/8
+M:6/8
+%%MIDI program 65
+%%MIDI chordvol 80
+%%MIDI gchord fcc
+"Am"z cd ee2        | "Ab+"(e>d)e ((3d/2e/2d/2 c2) | "Am7" (e>d)e (d>c)d  | "Am6"(c>B)c (BA2)      |
+w:Աշ-խա-րհում սի-   | րել * եմ քեզ,           | իմ * ան - գի՛ն, իմ    | լուս - ե - րե՛ս,
+"G"z Bc dd2         | "Dm7"(d>c)d (cBA)       | (d>c)d "F"(c>B)c      | "G"(B>A)c "Am"A3         ::
+w:Մին-չև ե՞րբ, ա՜խ, | մին - չև  ե՞րբ          | իմ սիր - տը պի-       | տի վա - ռես։
+"C"(e>d)e    (dc2)  |    (e>d)e    (dc2)      | "Am"(e>d)e "Dm"(d>c)d | "Em"(c>B)c "Am"(BA2)       | 
+w:Դո՛ւ ես իմ        | սերն ան - մար,          | ապ - րում եմ * ես     | քեզ հա - մար.
+"G"z Bc (d/c/)d2    | "F"(d>c)d (c>B)A        | "Dm"(d>c)d "F"(c>B)c  | "Em"(B>A) (c/2A/2) "Am"A3 :|
+w:Հա-զար տա -րի     | կը -սպա - սեմ,          | մի -այն թե գաս,       | ա - նո՛ւշ յար։
+%
+%
+%%multicol start
+%%begintext
+%%
+%%
+Աշխարհում սիրել եմ քեզ,
+Իմ անգի՛ն, իմ լուսերե՛ս,
+Մինչև ե՞րբ, ա՜խ, մինչև ե՞րբ
+Իմ սիրտը պիտի վառես։
+%%
+	Դո՛ւ ես իմ սերն անմար,
+	Ապրում եմ ես քեզ համար.
+	Հազար տարի կսպասեմ,
+	Միայն թե գաս, անո՛ւշ յար։
+%%
+Մեր ձեռքից կանցնեն-կերթան
+Օրերը ջահելության,
+Սեր անենք, անգի՛ն ընկեր,
+Ժամն է մեր ուրախության։
+%%
+Լեյլիի սիրո նման
+Իմ սերն է կրակ վառման.
+Առանց սեր, դատարկ սրտով
+Չեմ ապրի ոչ մի վայրկյան։
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Ashxarhum sirel em qez,
+Im angi՛n, im lusere՛s,
+Minchev e՞rb, a՜x, minchev e՞rb
+Im sirty' piti varres։
+%%
+	Du es im sern anmar,
+	Aprum em es qez hamar.
+	Hazar tari kspasem,
+	Miayn t'e gas, ano՛wsh yar։
+%%
+Mer dzerrqic kancnen-kert'an
+Orery' jahelut'yan,
+Ser anenq, angi՛n y'nker,
+Zhamn e' mer uraxut'yan։
+%%
+Leylii siro nman
+Im sern e' krak varrman.
+Arranc ser, datark srtov
+Chem apri och mi vayrkyan։
+%%
+%%endtext
+%%multicol end
+
+
+
+
+X:42
+T:Սիրուն Ախջիկ, Սիրուն Եար
+T:Siroun Akhchig, Siroun Yar
+C:Ուդի Հրանդ Քենքուլեան (Udi Hrant Kenkulian)
+O:West Armenia, Turkey, Constantinopole, Ottoman Empire
+Z:Avetik Topchyan (adaptation)
+L:1/16
+Q:1/4=75
+M:4/4
+K:Em 
+%%MIDI drumon
+%%MIDI drum d3d3ddd3d3d2 41 50 35 35 41 50 37
+%%MIDI program 24
+%%MIDI transpose -12
+[P:Intro]
+         .E z FG A2 A2 BABG A4          | AGBG      GFAF FEGF E2 (E/2G/2F/2E/2)           |
+         .D z FG A2 A2 ~BABG A4         | AGBG      GFAF FE/2F/2GF E2 (A/2B/2^c/2d/2)     |
+[P:Song]
+         .e z ^cd e2 e2 (de)(cd) (B3A)  | A2(FG)    (BA)(AG) (GF)(FE) E2 (A/2B/2^c/2d/2)  |
+w: * Սի-րուն ախ-ջիկ, սի--րուն * յար     | ե -կուր   ե -կուր, * հո -գիս * ար *             |
+         .e z ^cd e2 (ef)(de)(cd) (B3A) | A2(FG)    (BA)(AG) (GF)(FE) E2 (E/2G/2F/2E/2)   |
+w: * Սի-րուն ախ-ջիկ, սի--րուն * յար     | ե -կուր   ե -կուր, * հո -գիս * ար *             |
+         .D z FG A2 A2 (~BA)(BG) A4     | (AG)(BG)  (GF)(AF) (FE)(GF) .E z (D/2E/2F/2G/2) |
+w: * Ա-ռանց քե-զի չեմ * գըր -նար        | ուր * որ  * եր -թաս * հե -տդ * տար *            |
+         .A z FG A2 A2 (~BA)(BG) A4     | (~AG)(BG) (GF)(AF) (FE)(GF) .E4                 |]
+w: * Ա-ռանց քե-զի չեմ * գըր -նար        | ուր * որ  * եր -թաս * հե -տդ * տար *            |
+%%multicol start
+%%begintext
+%%
+%%
+Սիրուն ախջիկ, սիրուն եար  
+Եկուր, եկուր, հոգիս ար          
+Առանց քեզի չեմ գըրնար         
+Ուր որ երթաս հետդ տար։
+Հետդ տար ինձ նունուշիկ
+Նազ մի ըներ  աղվոր ղուշիկ
+Շաքար ես դուն անուշիկ
+Ըլլամ ոդկերիդ կոշիկ։
+Ես մատանիդ ըլլայի
+Մատնեմատդ անցնեի
+Պաչիկ մը քեզի տայի
+Հետո կեանքս հանձնեի։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Siroun axchig, siroun yar  
+Yegur, yegur, hokis ar          
+Arranc qezi chem gy'rnar         
+Ur vor yertas hedet dar
+Heted dar indz nunushig
+Naz mi y'ner  aghvor ghushig
+Shaqar es tun anushig
+Y'llam votkerit goshig
+Yes madanit y'llayi
+Madnemadet ancnei
+Bachig my' qezi dayi
+Hedo gyanqs handznei։
+%%
+%%endtext
+%%multicol end
+%
+%
+
+
+X:43
 T:Սրտիս վրայ քար մը կայ 
 T:Srdis Vra Kʿar Mě Ga
 C:Udi Hrant Kenkulian
@@ -1113,941 +2535,51 @@ w: Քա-րեն ~ քար-սիրտ                      | յար մը կայ։
 %
 %-------------------------------------------------
 %
-X:18
-T:Ֆինջան Պար
-T:Dance "Finjan"
-C:Armenian Traditional Melody
-O:Armenia
-Z:Avetik Topchyan (adaptation)
-F:Score adapted from www.duduk.com; Video: https://youtu.be/QzS9zU6SceY
-L:1/16
+
+X:44
+T:Տալ տալա
+T:Tal tala
+N:Balu Armenian Song
+C:Ժողովորդական
+L:1/8
 Q:1/4=100
-M:2/4
-I:linebreak $
-K:F
-%%MIDI program 75
-%%MIDI drum dzddzddz 45 36 36 36 36
-%%MIDI drumon 
-%%MIDI drone 69 50 57 35 30
-%%MIDI droneon
-D2 z2 D2A2- | A2(Ac) A4 | (D_EDC) D2A2- | A2(Ac) A4 | $ 
-%%MIDI droneoff
-%%MIDI drone 69 53 48 35 30
-%%MIDI droneon
-|: (ABAG) (GA)F2- | F2F2G2A2 | (ABAG) (GA)F2 | F2(EG) F4 :|$ 
-%%MIDI droneoff
-%%MIDI drone 69 50 57 35 30
-%%MIDI droneon
-(D_EDC) D2A2- | A2(Ac) A4 | D2(DC) D2A2- | A2(Ac) A4 |$ 
-%%MIDI droneoff
-%%MIDI drone 69 53 48 35 30
-%%MIDI droneon
-|: (ABAG) (GAGF | F2)F2G2A2 | (ABAG) (GAGF) | F2(EG) F4 :| 
-%%MIDI droneoff
-%
-%-------------------------------------------------
-%
-X:19
-T:Հինգալա
-T:Hingala
-C:ժողովրդական և Կարա-Մուրզա (Armenian folk and Karen Kara-Murza)
-O:Armenia
-Z:Avetik Topchyan (adaptation)
-L:1/4
-Q:1/4=180
-M:3/4
-K:Gm
-%%MIDI program 71
-%%MIDI gchordbars 2 
-%%MIDI gchord f2cfc2
-%%MIDI chordprog 24
-%%MIDI bassprog 58 
-"Gm"D D D | D C B, | "Cm"C3-  | C3          | "D"C D E     | D C (B,/A,/) | "Gm"B,3- | B,3 :| 
-w:  Հո-վի-վը | սա-րում տը-  | խրեց,      | * |  սի-րո եր-  | գը նը-վա-   | գեց | * |
-"Gm" G, B, D | "D"C B, A,     | "Gm"G, B, D | G D B,      | G, B, D     | "D7"(C B,) A, | "Gm"G,3- | G,3 |  
-w: Եր-գը վառ | այ-տե-րին,    | եր-գը բոց     | ա-չքե-րին,  | եր-գը վարդ  | օ-րե-   |րին։           | *   |
-|: "Eb"[G3E3]- | [G3E3] | "Bb"G F F | "Eb"G E E |
-w: Ա՛յ  ~ | խեղճ  հո-վիվ, | քեզ    բա-ժին, 
- "Bb"F D D | "Cm"E C C | "Gm"D B, B, | "D7"C A, A, |
-w: խոր  ձո-րեր  | մը-նա-ցին, | հին-գա-լա, | հին-գա-լա, |
-"Gm"G, B, D | "D"C B, A, | "Gm"G, B, D | G D B,  | "Cm"G, B, D | "D7"(C B,) A, | "Gm"G,3- | G,3 :|] 
-w:Եր-գը վառ | այ-տե-րին, | եր-գը բոց  | ա-չքե-րին, | եր-գը վարդ |օ--րե-|րին | ։
-%
-%%multicol start
-%%begintext
-%%
-%%
-1) Հովիվը սարում տխրեց,
-   Սիրո երգը նվագեց՝
-   Երդը վառ այտերին,
-   Երգը բոց աչքերին, 
-   Երգը վարդ օրերին։
-%%
-Chorus:
-        Ա՛յ, խե՛ղճ հովիվ, քեզ բաժին
-        Խոր ձորեր մնացին,
-        Հինգալա, հինգալա,
-        Երգը վառ այտերին,
-        Երգը բոց աչքերին,
-        Երգը վարդ օրերին։
-%%
-2) Ահա եկավ նոր գարուն՝
-   Ծաղիկներով զարդարուն,
-   Գույն-գույն ծաղիկները
-   Սիրում եմ, հա՛, հա՛, հա՛,
-   Գույն-գույն ծաղիկները։
-%%endtext
-%%multicol new
-%%leftmargin 12cm
-%%rightmargin 1cm
-%%begintext
-%%
-%%
-1) Hovivy' sarum txrec,
-   Siro ergy' nvagec՝
-   Yerdy' varr ayterin,
-   Yergy' boc achqerin, 
-   Yergy' vard orerin։
-%%
-Chorus:
-        A՛y, xe՛ghtsh hoviv, qez bazhin
-        Xor dzorer mnacin,
-        Hingala, hingala,
-        Yergy' varr ayterin,
-        Yergy' boc achqerin,
-        Yergy' vard orerin։
-%%
-2) Aha ekav nor garun՝
-   C'aghiknerov zardarun,
-   Guyn-guyn c'aghiknery'
-   Sirum em, ha՛, ha՛, ha՛,
-   Guyn-guyn c'aghiknery'։
-%%endtext
-%%multicol end
-%
-%-------------------------------------------------
-%
-X:20
-T:Կարոտել եմ ես
-T:Karotel Em Es
-C:Գուսան Հավասի (Gusan Havasi)
-O:Armenia
-Z:Avetik Topchyan (adaptation)
-L:1/16
-Q:1/4=80
-M:7/8
-K:none
-"^Allegretto"
-%%MIDI program 71
-%%MIDI beatstring fppmpmp
-%%MIDI drumbars 
-%%MIDI drum d2ddddd2ddd2dd 48 37 37 37 37 41 37 37 41 37 37 150 60 50 60 50 100 60 50 100 80 50 
-%%MIDI drumon
-P:Intro
-c2(c2>B2)  (cdcB) (B_A)(AG)    | B2(B2>_A2) (BcBA) (AG)(GF)  |
-_A2(A2>G2) (AcBA) (GF)(FE)     | G2G2>_A2   (GF)(EF) G4      |
-c2(c2>B2)  (B_A)(AG) (GF)(FE)  | G2(G2>F2)  (GF)(FE) E4     ||
-P:Verse
-E2         E4 {F2_G2}_F2=G2 G2F2  | _A2(A2>G2) (GA)(GF) G4      |   
-w:Գու-սան-նե-րի լեզ-վով                  | գո-վա--կան ~ աղ -ջիկ,      |
-_A2(A2>G2) (BA)(AG) (GF)(FE)    | G2(G2>F2)  (GF)(FE) E4      |
-w:Ո՞ւր ես, * խինդ * ու * խա - լիդ | կա-րո--տել * եմ * ես,      |
-=A2        A4 (Ac)(cB) (BA)A2   | (cB2)<(c2A)  A2(AG) (G2>F2)   |
-w:Սա- րի ան - մա - հա - կան       | քաղ - ցրա - բույր ծա - ղիկ,  |
-A2(A2>G2)  (_BA)(AG) (GF)(FE)   | G2(G2>_A2) (GF)(EF) G4      |
-w:Ա-ռա - վո - տյան * շա - ղիդ     | կա-րո - տել * եմ  *ես,         |  
-c2(c2>B2)  (dc)(B_A) (GF)(FE)   | G2(G2>F2)  (GF)(FE) E4      |]
-w:Ա-նուշ * երգ  * ու   * տա - ղիդ   | կա րո - տել  *  եմ  *  ես։                        
-%%
-%%multicol start
-%%begintext
-%%
-%%
-1. Գուսանների լեզվով գովական աղջիկ,
-   Ո՞ւր ես, խինդ ու խալիդ կարոտել եմ ես,
-   Սարի անմահական քաղցրաբույր ծաղիկ,
-   Առավոտյան շաղիդ կարոտել եմ ես,
-   Անուշ երգ ու տաղիդ կարոտել եմ ես։
-%%
-2. Հերոս, անվախ սիրտը չի սպասի բախտի,
-   Սիրունն իր նազերով քաջին կհաղթի,
-   Յար, ծոցիդ պարտեզն է անմահ դրախտի,
-   Սիրուն բախչա - բաղիդ կարոտել եմ ես,
-   Անուշ երգ ու տաղիդ կարոտել եմ ես։
-%%
-3. Հավասուս մի կյանք է մեկ բարև տալդ,
-   Կսպանե անտարբեր հեռուն ման գալդ,
-   Վաղուց է չեմ լսել խոսել, խնդալդ,
-   Նազելիս, ծիծաղիդ կարոտել եմ ես,
-   Անուշ երգ ու տաղիդ կարոտել եմ ես։
-%%
-%%endtext
-%%multicol new
-%%leftmargin 12cm
-%%rightmargin 1cm
-%%begintext
-%%
-%%
-1. Gusanneri lezvov govakan aghjik,
-   Vo՞wr es, xind u xalid karotel em es,
-   Sari anmahakan qaghcrabuyr c'aghik,
-   Arravotyan shaghid karotel em es,
-   Anush erg u taghid karotel em es։
-%%
-2. Heros, anvax sirty' chi spasi baxti,
-   Sirunn ir nazerov qajin khaght'i,
-   Yar, c'ocid partezn e' anmah draxti,
-   Sirun baxcha - baghid karotel em es,
-   Anush erg u taghid karotel em es։
-%%
-3. Havasus mi kyanq e' mek barev tald,
-   Kspane antarber herrun man gald,
-   Vaghuc e' chem lsel xosel, xndald,
-   Nazelis, c'ic'aghid karotel em es,
-   Anush erg u taghid karotel em es։
-%%
-%%endtext
-%%multicol end
-%
-%-------------------------------------------------
-%
-X:21
-T:Օրօր
-T:Lullaby
-C:Գեորգ Արմենյան (Gevorg Armenian)
-O:Armenia
-Z:Avetik Topchyan (adaptation)
-L:1/8
-Q:1/4=120
-M:4/4
-I:linebreak $
-K:Dm
-D2 A2   G2  (AF) | (GE) (FG) A4     | D2 A2   A2 (c=B) | (cA) A2   A4  |  $
-A2 (Ac) B2  (AG) | G2   (FE) F4     | A2 (Ac) B2 (AG)  | G2   (FE) F4  |  $
-G2 (GF) G2  A2   | F2   (GE) F2  G2 | E2 (FD) E2 F2    | (GD) D2   D4  |: $
-G2 (GE) (F3 E)   | (GF) (GE) (F3 E) | F2 (GA) F2 (GE)  | D2   (FE) D4 :|
-%
-%-------------------------------------------------
-%
-X:22
-T:Կաքավիկ
-T:The Partridge
-C:Կոմիտաս (Komitas), Հովհաննես Թումանյան (Hovannes Tumanyan)
-O:Armenia
-Z:Avetik Topchyan (adaptation)
-L:1/8
-Q:1/4=120
-M:4/4
-K:F
-(cA) A2      (Ad) A2 | (cG) G2      (AF) F2 | (FD) D2   (DG) G2 | (FA) (AF) (GE) F2  |
-w: Ա -րև բաց -վեց | թուխ  * ամ-պե -րեն  | կա -քավ թը -ռավ | կա -նաչ * սա -րեն, |
-(cA) (Ad)    (dA) A2 | (cG) (Gc)    (AF) F2 | (FG) (AG) (AF) G2 | (FD) (AF) (GE) F2  |: 
-w: Կա -նաչ  * սա -րեն՝ | սա -րի * ծե -րեն,    | բա -րև * բե -րավ   | ծա -ղիկ -նե -րեն. |
-(FA) (G/A/F) (F3   C)  | (FA) (G/A/)F F4      | FG (AG) (Gc) A2 | (GF) (AF) F4      :|
-w: Սի -րու -- նի՜կ,     | սի -րու -- նի՜կ,       | սի-րու-նի՜կ, * նախ -շուն |կա -քա -վիկ։
-%%multicol start
-%%begintext
-%%
-%%
-1) Արև բացվեց թուխ ամպերեն,
-    Կաքավ թըռավ կանաչ սարեն,
-    Կանաչ սարեն՝ սարի ծերեն,
-    Բարև բերավ ծաղիկներեն.
-%%
-        Սիրունի՜կ, սիրունի՜կ,
-        Սիրունի՜կ, նախշուն կաքավիկ։
-%%
-2) Քո բուն հյուսած ծաղիկներով՝
-    Շուշան, նարգիզ, նունուֆարով,
-    Քո տեղ լըցված ցող ու շաղով,
-    Քընես, կելնես երգ ու տաղով.
-%%
-3) Քո թև փափուկ ու խատուտիկ,
-    Պըստի կըտուց, կարմիր տոտիկ,
-    Կարմիր-կարմիր տոտիկներով,
-    Կըշորորաս ճուտիկներով.
-%%
-4) Երբ կըկանգնես մամռոտ քարին,
-    Սաղմոս կասես ծաղիկներին,
-    Սարեր ձորեր զըվարթ կանես,
-    Դարդի ծովեն սիրտ կըհանես.
-%%
-%%
-%%endtext
-%%multicol new
-%%leftmargin 12cm
-%%rightmargin 1cm
-%%begintext
-%%
-%%
-1) Arev bacvec t'ux amperen,
-   Kaqav t'y'rrav kanach saren,
-   Kanach saren՝ sari c'eren,
-   Barev berav c'aghikneren.
-%%
-     Siruni՜k, siruni՜k,
-     Siruni՜k, naxshun kaqavik։
-%%
-2) Qo bun hyusac' c'aghiknerov՝
-   Shushan, nargiz, nunufarov,
-   Qo tegh ly'cvac' cogh u shaghov,
-   Qy'nes, kelnes erg u taghov.
-%%
-3) Qo t'ev p'ap'uk u xatutik,
-   Py'sti ky'tuc, karmir totik,
-   Karmir-karmir totiknerov,
-   Ky'shororas tshutiknerov.
-%%
-4) Yerb ky'kangnes mamrrot qarin,
-   Saghmos kases c'aghiknerin,
-   Sarer dzorer zy'vart' kanes,
-   Dardi c'oven sirt ky'hanes.
-%%
-%%endtext
-%%multicol end%
-%-------------------------------------------------
-%
-X:23
-T:Լախտի
-T:Lakhti
-C:arr. T. Altunian
-O:Armenia
-Z:Avetik Topchyan (adaptation)
-L:1/8
-Q:1/4=220
-M:3/4
-K:D
-"^Allegro agitate"
-E2 EEEE | E2 EEEE | E2 EEEE | E2 EEEE | 
-|: (EAGAGF)  | (FGFGFE) | (EAGAGF) | (FGFGFE) | \
-   (EGFGFE)  | (EFEFED) | (DFEFED) | (DC) C4 :: 
- E2 (ED)(DC) | D2 (DC)(CA,)  :: \
- A2 (AG)(GF) | G2 (GF)(FD)   :: \ 
-    (EFGAGF) | G2 (GF)(FD)   :: \
-(BA)(AG)(GF) | (AG)(GF)(FD)  :: \ 
-    (EFGAGF) | (AG)(GF)(FD)  :: \
-     D2 AAAA | A,2 AAAA | (GA)(AG)(GF) | (AG)(GF)(FD) :: \
-    (EFGAGF) | (AG)(GF)(FD)  :: \ 
- A2 (AG)(GF) | G2 (GF)(FD)   :: \
- E2 (ED)(DC) | D2 (DC)(CA,)  :: \
-   (B,CDEDC) | D2 (DC)CA,    :: \
-(FE)(ED)(DC) | (ED)(DC)(CA,) :: \ 
-(B,CDEDC)    | (ED)(DC)(CA,) :: \
-    A,2 EEEE | z2 EEEE | (DE)(ED)(DC) | (ED)(DC)(CA,) :: \
-     B,CDEDC | (ED)(DC)(CA,) :: \ 
-E2 (ED)(DC)  | C2 (DC)CA,    :: \
- A2 (AG)(GF) | G2 (GF)(FD)   :: \
-    (EFGAGF) | G2 (GF)(FD)   :: \
-(BA)(AG)(GF) | (AG)(GF)(FD)  :: \
-    (EFGAGF) | (AG)(GF)(FD)  :: \
-     D2 AAAA | A,2 AAAA | (GA)(AG)(GF) | (AG)(GF)(FD)  :: \ 
-    (EFGAGF) | (AG)(GF)(FD) :| D2 AAAA | A,2 AAAA | D2 AAAA | A, z A z z2 |] \ 
-!mp! (AdcdcB) | (BcBcBA) | (AdcdcB) | (BcBcBA) | (AcBcBA) | (ABABAG) | (GBABAG) | (GF) F4 :: \  
-!f! A2 (AG)(GF) | G2 (GF)(FD) :: \
-       (EFGAGF) | G2 (GF)(FD) :: \
-  (BA)(AG)(GF) | (AG)(GF)(FD) :: \
-      (EFGAGF) | (AG)(GF)(FD) :: \ 
-D2 AAAA | A,2 AAAA | (GA)(AG)(GF) | (AG)(GF)(FD) :: \
-(EFGAGF) | (AG)(GF)(FD) :| \
-D2 AAAA | A,2 AAAA | D2 AAAA | A,2 AAAA :: \
-!mp! (AdcdcB) | (BcBcBA) | (AdcdcB) | (BcBcBA) |  (AcBcBA) | (ABABAG) | (GBABAG) | (GF) F4 :: \
- A2 (AG)(GF) | G2 (GF)(FD)  :: \
-    (EFGAGF) | G2 (GF)(FD)  :: \
-(BA)(AG)(GF) | (AG)(GF)(FD) :: \
-    (EFGAGF) | (AG)(GF)(FD) :| (EFGAGF) | (EFGAGF) | A2 (GABc) | d z D z z2   |] 
-
-X:24
-T:Հաց կթխեմ
-T:I'll bake a bread  
-O:Armenia
-Z:Avetik Topchyan (adaptation)
-F:https://youtu.be/IOBgR8nz6-w?t=90 
-M:4/4
-L:1/8
-Q:1/4=180
-K:A
-A,2(A,E) E2(ED) | F2(FE) E2 z2    | EFED F2(FE)   | E4 E4 |
-w:Հաց կը -թը -խեմ, գա-րի * ա,    | Ե-րի, ե-րի, էր-վա, | օ՜յ, օ՜յ,|
-|: E2(ED) F2(FE)   | E2(DC) C2 z2 | CDE2 (EF)D2 | C4 C4 :|
-w:Էս ինչ  * ու -րախ  | տա-րի *  ա, | Շե-կո ջան,  էր-վա, | օ՜յ, օ՜յ: |
-%
-%%multicol start
-%%begintext
-%%
-%%
-Հաց կթխեմ, գարի ա,
-Երի, երի, էրվա, օ՜յ, օ՜յ,
-Էս ինչ ուրախ տարի ա,
-Շեկո ջան, էրվա, օ՜յ, օ՜յ:
-%%
-Կրակը թռավ քարից,
-Երի, երի, էրվա, օ՜յ, օ՜յ,
-Ես կմեռնեմ քո դարդից, 
-Շեկո ջան, էրվա, օ՜յ, օ՜յ:
-%%
-Երեսիդ կարոտել եմ,
-Երի, երի, էրվա, օ՜յ, օ՜յ,
-Ոնց որ վարդ մանիշակին, 
-Շեկո ջան, էրվա, օ՜յ, օ՜յ:   
-%%  
-Ծով ա դառե մեր դաշտը,
-Երի, երի, էրվա, օ՜յ, օ՜յ,
-Լիքը հաց ա մեր տաշտը, 
-Շեկո ջան, էրվա, օ՜յ, օ՜յ:
-%%
-%%endtext
-%%multicol new
-%%leftmargin 12cm
-%%rightmargin 1cm
-%%begintext
-%%
-%%
-Hac kt'xem, gari a,
-Yeri, eri, e'rva, o՜y, o՜y,
-E's inch urax tari a,
-Sheko jan, e'rva, o՜y, o՜y:
-%%
-Kraky' t'rrav qaric,
-Yeri, eri, e'rva, o՜y, o՜y,
-Yes kmerrnem qo dardic, 
-Sheko jan, e'rva, o՜y, o՜y:
-%%
-Yeresid karotel em,
-Yeri, eri, e'rva, o՜y, o՜y,
-Vonc or vard manishakin, 
-Sheko jan, e'rva, o՜y, o՜y:   
-%%  
-C'ov a darre mer dashty',
-Yeri, eri, e'rva, o՜y, o՜y,
-Liqy' hac a mer tashty', 
-Sheko jan, e'rva, o՜y, o՜y:
-%%
-%%endtext
-%%multicol end
-
-X:25
-T:Լէփօ լէ֊լէ
-T:Lepo, le le
-P:(ABBCA)
-C:ժողովրդական և Կարա-Մուրզա
-O:Armenia
-Z:Avetik Topchyan (adaptation)
-L:1/8
-K:Dm
-[P:A] [M:2/4] [Q: 1/4=120]
-%%MIDI program 66
-%%MIDI chordvol 80
-%%MIDI bassvol 100
-%%MIDI chordprog 25
-%%MIDI bassprog 25
-%%MIDI beatstring fpppmppp
-%%MIDI gchordbars 2
-%%MIDI gchord fczcfzc2
-%%MIDI drumbars 2
-%%MIDI drum dd2dd2d2 45 45 45 45 45 120 80 80 120 120
-%%MIDI drumon
-"F"F (F2 G) | A2 A2 | "C"G (E2 F) | G2 G2 | "Dm"F (D2 E) | F2  F2 | "Am"E D3   | "Dm"D4   :|
-%
-[P:B] [M:6/8] [Q: 1/4=180]
-%%MIDI drumoff
-%
-%%MIDI program 23
-%%MIDI beatstring fpppppfppppp
-%%MIDI gchordbars 3
-%%MIDI gchord fczfzcfczfzcfc2c3
-%%MIDI drumbars 3
-%%MIDI drum ddddd2ddddd2dd2d3 45 50 50 45 50 45 50 50 45 50 45 50 50 
-%%MIDI drumon
-"F"F<F2 (FGE)  |     G<F2 (FGE)     | "C"(GFE) "F"F2 z :: 
-"Dm"E<D2 E F2  | "Bb"E2>D "Gm"E F2  | "C7"E D2 "Dm"D3  ::
-[P:C]
-%%MIDI program 66
-"F"G3        A3 |    (c=Bc)    A3 |    G2 A    G A2  | "C7"(c=Bc) "F"A3  ::
-"Dm"D2>C (FEF)  | D2>C (FEF)      |    D2F EF2       | "C7"G2>D "Dm"D D2  :|] 
-%%MIDI drumoff
-%
-%%multicol start
-%%begintext
-%%
-%%
-Լէ փօ լէ լէ 
-լէ փօ լէ լէ 
-լէ փօ լէ լէ 
-լէ փօ լէ
-%%
-Հոդալլo ջան, հոդալլo ջան, հոդալլo
-Գիւզէլ շիրին, եարալլo ջան եարալլo։
-%%
-Հով, հով, հով լինի
-Հայրըս տունը թող ճգնի
-Հով, հով, հով լինի
-Մայրըս տունը թող չեղնի
-%%
-Թէ տղերք եկէք թոզը հանենք
-Չար թշնամու աչքը տանենք։
-%%
-Լէ փօ լէ լէ...
-%%
-%%endtext
-%%multicol new
-%%leftmargin 12cm
-%%rightmargin 1cm
-%%begintext
-%%
-%%
-Le' p'o le' le' 
-le' p'o le' le' 
-le' p'o le' le' 
-le' p'o le'
-%%
-Hodallo jan, hodallo jan, hodallo
-Guzel shirin, yarallo jan yarallo։
-%%
-Hov, hov, hov lini
-Hayry's tuny' t'ogh tshgni
-Hov, hov, hov lini
-Mayry's tuny' t'ogh cheghni
-%%
-T'e' tgherq eke'q t'ozy' hanenq
-Char t'shnamu achqy' tanenq։
-%%
-Le' p'o le' le'...
-%%
-%%endtext
-%%multicol end
-
-
-X:26
-T:Սիրելիս
-T:Sirelis
-C:Գուսան Շահեն (Gusan Shahen)
-O:Armenia
-Z:Avetik Topchyan (adaptation)
-L:1/8
-Q:1/4=120
-M:3/4
-K:F
-DE (F>E) (F>E) | DE (F>E) F2 | (G/F/)(G/A/) (F>E) (F>E) | (F/E/)(F/G/) (E>D) D2 | 
-DE (F>E) (F>E) | DE (F>E) F2 | (G/F/)(G/A/) (F>E) F2    | 
-%
-FG (A>G) A2    | FG (A>G) (A>G) | FG (A>G) A2 | dd (d>A) (A>G) | 
-FG (A>G) A2    | FG (A>G) (A>G) | FG (A>G) A2 | 
-%
-B(B/c/) (A>G) A>G | F(F/G/) F2 E2  | (!fermata!F2 G2- G/F/E/D/ | C6) | 
-%
-DE (F>E) (F>E) | DE (F>E) F2 | (G/F/)(G/A/) (F>E) (F>E) | (F/E/)(F/G/) (E>D) D2 | 
-DE (F>E) (F>E) | DE (F>E) F2 | (G/F/)(G/A/) (F>E) F2    | (F/E/)(F/G/) (EF/D/) !fermata!D2 |] 
-
-
-X:27
-T:Մաճկալ ես
-T:Machkal es
-C:Armenian Trad. Melody
-O:Armenia
-Z:Avetik Topchyan (adaptation) 
-F:https://youtu.be/iIs1gajPhm4
-L:1/8
-Q:1/4=60
-M:none
-K:none
-%%MIDI program 68
-%%MIDI drone 70 64 64 60 60
-%%MIDI droneon
-z4 G4  ((7_ABAGFEF E8) z4 E F2 (5GAGFG-G8 z4  
-(F G4)  (6(B_AGFEF E4) z4 (E F2 (3GAF) {A}G8 z4 
-G c B4 c2 ((8dcBcBABA G4) 
-B4 (d2<c2) B4 c2 ((8dcBcBABA G4) 
-(5AFGAB- B4 (A G4) ((7ABAGFEF E8) z4 
-G6 (AF E4) z4"^gliss." {Gc}(B4 A) G4 ({ABAG}F2)>E2 G F4 E2 ({FED}E2) E8   
-%%MIDI droneoff
-%%multicol start
-%%begintext
-%%
-%%
-Մաճկալ ես, բեզարած ես,
-Առը շուռ տուր, շուտ արի,
-Ծովի պես քրտնած ես,
-Եզներդ արձկի, տուն արի։
-%%
-Կաթի սերը քաշել եմ,
-Դրել եմ հովին՝ սառի,
-Ալ գոգնոցս կապել եմ,
-Արի, թառլա՛ն, թը՜ռռ, արի։
-%%
-Տեղ եմ գցել շվաքում,
-Քամին կուգա, զով կանի։
-Լուսնի շողքն է մեր ծոցում,
-Չափ տուր, չափ առ, շուտ արի։
-%%
-Դադրած, բեզարած յար ջան,
-Ամպերն ելան, դե՜հ, արի,
-Բեզարած ջանիդ ղուրբան,
-Ծտից թև առ, թեզ արի։
-%%
-%%endtext
-%%multicol new
-%%leftmargin 12cm
-%%rightmargin 1cm
-%%begintext
-%%
-%%
-Matshkal es, bezarac' es,
-Arry' shurr tur, shut ari,
-C'ovi pes qrtnac' es,
-Yeznerd ardzki, tun ari։
-%%
-Kat'i sery' qashel em,
-Drel em hovin՝ sarri,
-Al gognocs kapel em,
-Ari, t'arrla՛n, t'y'՜rrrr, ari։
-%%
-Tegh em gcel shvaqum,
-Qamin kuga, zov kani։
-Lusni shoghqn e' mer c'ocum,
-Chap' tur, chap' arr, shut ari։
-%%
-Dadrac', bezarac' yar jan,
-Ampern elan, de՜h, ari,
-Bezarac' janid ghurban,
-C'tic t'ev arr, t'ez ari։
-%%
-%%endtext
-%%multicol end
-%
-%
-X:28
-T:Մարալիկ
-T:Maralik
-C:Հայ ավանդական եղանակ (Armenian Traditional Melody)
-O:Armenia
-Z:Avetik Topchyan (adaptation)
-F:https://youtu.be/67W0F5OsHRQ
-L:1/32
-Q:1/4=160
-M:6/8
-K:F
-%%MIDI program 68
-%%MIDI drone 70 62 62 50 50
-%%MIDI droneon
-%%MIDI beatstring fppmpp
-%%MIDI drumbars 3
-%%%%MIDI drum d2d2d2d2ddddddd2d2  50 66 65  48 66 65 66 65  47 65 66 66  120 70 70  120 70 50 70 50  120 50 70 70
-%%MIDI   drum d2d2d2d2ddddddd2d2  41 50 50  43 50 50 50 50  45 50 50 50  120 70 70  120 70 50 70 50  120 50 70 70
-%%MIDI drumon
-D8 A4 G4A4F4- | F4>E4 G4 F4G4E4- | E4>D4F4 E4 F8 | 
-D8 z4 G4 F8 | G4 E8 (F4D4E4) | F4 D8 D8 C4 :: 
-D8 A8 A4G4 | (G4F4) (A4G4) (G4F4) | F4E4 G8 G4F4 | 
-(F4E4) (G4F4) (F4E4) | z8 F8 F4E4 | (E4D4) (F4E4) (D4C4) ::
-D8 z4 G4 F8 | G4 E8 (F4D4E4) | F4 D8 D8 C4 ::
-D8 A8 A8- | A4>F4A4 (G4A4F4) | G4A4 A4D4 A4 z4 | 
-z8 A4 (G4A4F4) | (F4E4)G4- G4 G8- | G4F4 G4A4 F8 | 
-z6 E2G4 (F4G4E4) | (F4E4F4) G4 E8 | z8 F4 (E4F4D4) ::
-D8 A4 (G4A4F4) | (F4>E4G4) (F4G4E4) | (E4>D4F4) (E4F4C4) :: 
-D8 z4 G4 F8 | G4 E8 (F4D4E4) | F4 D8 D8 C4 ::
-D4E4 F4G4 A8- | A4D4 F4E4 D4C4 | D8 z4 D4 (G8 |1 G4)D4 F4E4 D4C4 :|2 D24 |] 
-%%MIDI droneoff
-
-
-X:29
-T:Նազ Պար 
-T:Naz Bаг
-C:Armenian Trad. Dance
-O:Armenia
-Z:Avetik Topchyan (adaptation)
-Z:WWW.duduk.com
-L:1/8
-Q:1/4=120
-M:6/8
-K:Gm
-%%MIDI program 24
-%%MIDI beatstring fpmpmpfpmpmp
-%%MIDI drumon
-%%MIDI drum d3dd2d2d2d2 41 41 43 41 43 43 
-^F/G/A z ABG       | (B>AG) (^F/E/ D2)  | A>(^FG) (AcB)        | (TA2G) A3            | 
- D>DE (^FGA)       | (B>AG (^F/)E/ D2)  | A>BG (c=Bc)          | (TA2G) A3            | 
- c>=Bc (dBc)       | (Td2c)  (B/A/ G2)  | c>=Bc BcA            | (TA2G) A3            | 
- c>=Bc (dec)       | (d2 c)  (B/A/ G2)  | (d2 c) =BcA          | A>^FG A3             | 
- z z  B BBB        |   B>Ac  (B/A/ G2   | G>)^FG (ABG)         | A>GB (A/G/) ^F2-     | 
- F z  G GGG        |   G>^FA (G/F/ E2)  | ^F>GE (FGA)          | B/(A/B/A/G) A3       | 
- B BBB z2          |  B>Ac (B/A/) G2-   | G>^FG ABG            | A>GB (A/G/) ^F2-     | 
- F z G GGG         | G>^FA (G/F/ E2)    | ^F>GE (AGA)          | (T^F2 E) (DEF        | 
- E) z z z3         | z z (G AGA)        | G>AG (A/G/ ^F2-)     | F z (^F GFG)         | 
-^F>GF (G/F/ E2-)   | E z (G AGA)        | G>AG (A/G/ ^F2-)     | F z (^F GFG)         | 
-^F>(GF) (G/F/) E2- | E z (^F GAB)       | A>BA (B/A/) (G>A)    | G>(AG) (A/G/) (^F>G) | 
-^F>(GF) (G/F/) E2- | E z (E ^FGA)       | G>(AG) (A/G/) (^F>G) | ^F>(GF) (G/F/) (E>F) | 
-E>(^FE) (F/E/ D2-) | D2 (D E^FG)        | A^FG EFD             | G>(E^F) (DEC)        | D2 G D2 z |] 
-%
-%
-%
-X:30
-T:Հոյ Նազան
-T:Hoy Nazan
-C:Կոմիտաս (Komitas)
-O:Armenia
-Z:Avetik Topchyan (adaptation)
-L:1/4
-Q:1/4=250
-M:3/4
-K:F
-(A/c/) A2 | (A/c/) A2 | (G3/2 F/) G | A A2 | 
-(A/c/) A2 | (A/d/) A2 | (G3/2 F/) G | A A2 :: 
-  A A F | G2 A | (F3/2 G/) E | (F/D/) D2 | 
-G (G E) | F2 G | (E3/2 F/) D | D (D E)   | 
-F (F D) | (E2 F)             | D3        |1 D A2 :|2 D D2 |]
-%
-X:31
-T:Մետաքսի թաշկինակ
-T:Medax Tashginag
-O:Yerzinka, West Armenia
-Z:Avetik Topchyan (adaptation)
-S:Francis Ajoian (Research. Fresno, CA), Tom Bozigian (Presenter), Deborah Jones (VIFD Book)  
-M:4/4
-L:1/8
-Q:1/4=120
-K:Dm
-%%MIDI program 24
-%%MIDI bassprog 32
-%%MIDI chordprog 28
-%%MIDI beatstring fpppmppp
-%%MIDI gchord fczcf2c2
-"Dm" D~c =Bc  A2 d2          |\
-w:Մե-տաքս թաշ-կի-նա-կըս 
-      zA2 G  A>G  F2          |
-w:քեզ կը-նը-վի-րեմ,
-    Ac =Bc .A2 d2           |\
-w:Մե-տաքս թաշ-կի-նա-կըս
- zA2G (A/B/G/A/) F2          |
-w:քեզ կը-նը--վի--րեմ,
-"Bb" GG FG "C"(.E.F) G2      |\
-w:Գի-շեր ցե-րեգ ես *քո 
-"Dm" zD2 C   FE D2          |
-w:սի-րով կը-մա- շեմ
-"Gm" G>G FG "Bb"(.E.F) G2    |\
-w:Գի-շեր ցե-րեգ ես *քո
-"C"  zD2C "Dm"(F/G/E/F/) D2 :|
-w:սի֊ րով կը--մա--շեմ
-%%multicol start
-%%begintext
-%%
-%%
-Մետաքս թաշկինակս քեզ կ'նվիրեմ,
-Գիշեր ցերեգ ես քո սիրով կ'մաշեմ։
-
-Ախ երանի ես քեզ տեսա չըլլայի,
-Գիշեր ցերեգ միտքս խաղաղ պահեի։
- 
-Անգութ աղջիկ, ինչո՞ւ քովէս հերացար,
-Սիրող սիրտս կոտրեցեր ու հերացար։
-
-Ամեն ատեն ես քեզ կ'հիշեմ,
-Սրտիս խորեն ախուվախ կ'քաշեմ։
-%%
-%%endtext
-%%multicol new
-%%leftmargin 12cm
-%%rightmargin 1cm
-%%begintext
-%%
-%%
-Medaqs t'ashkinags qez g'nvirem,
-Kisher cereg es qo sirov g'mashem։
-
-Ax erani es qez desa chy'llayi,
-Kisher cereg midqs xaghagh bahei։
- 
-Angut' aghjik, inchu qove's heracar,
-Sirogh sirds godrecer u heracar։
-
-Amen aden es qez gy'hishem,
-Srdis xoren axuvax gy'qashem։
-%%
-%%endtext
-%%multicol end
-X:32
-T:Նազելի
-T:Nazeli
-C:Armenian Trad. Dance
-O:Armenia
-Z:Avetik Topchyan (adaptation)
-L:1/8
-Q:1/4=120
-M:6/8
-U:t=tenuto
-K:G
-%%MIDI program 73
-%%MIDI drumon
-%%MIDI drumbars 2
-%%MIDI drum d2d2ddz2dddd 41 37 37 37 37 37 37 37 
-   z2       (B,/C/) (^DEF)  | (G>BA) (GFE)             |  G>(FE)  (^DEG)       | 
-   F>(AG) F3-               | F        z       F (GAc) | (~B2   A)     (GFE)   |  
-   E>(^DF) (EDC)            | B,6                      | B,>(B,C) (^DEF)       | G>(BA) (GFE)          |  
-   G>(FE)  (^DEG)           | F>(AG) F3-               |F      z       F (GAc) | 
-  (~B2   A)     (GFE)   |  G>(FG)  (FE^D)       | EF^D   E2 z          :|
-   E>(^DE)  (FGA)           | tB     z      tB- tB B2  |: B>(AB)   (B/c/   A2) | 
-   A>(GA) (A/B/  G2)        |  G>(FG)  (G/A/) F2-      | F      z (F GAB)      |
-   A>(GA)   (A/B/   G2)     | G>(FG) (G/A/  F2) z/     |  F>(EF)  (G E2-)      | 
-   E      z (G FEF)         | G>(FG)   (G/A/   F2-)    | F      z   (A GFG)    |  
-   A>(GA)  (A/B/ G2-)       | G      z (G ABc)         | B>(cB)   (c/B/) (A>B) | 
-   A>(BA) (B/A/) (G>A)      |  G>(AG)  (A/G/) (F>G)    | F>(GF) (G/F/) (E>^D)  |1
-   E>(cB)   (AGF)           | E      z      tB- tB B2 :|2 E>(cB   (A)GF)       | E>F^D  E2 z           |]
-%
-%
-X:33
-T:Սարերի հովին մեռնեմ
-T:Sareri Hovin Mernem
-C:Armenian Traditional Song
-O:Armenia
-Z:Avetik Topchyan (adaptation)
-L:1/16
-Q:1/8=180
-M:6/8
-K:Cm
-%%MIDI program 71 
-%%MIDI gchord f3с3с
-%%MIDI chordprog 24
-%%MIDI chordvol 100
-%%MIDI bassprog 58 
-    z6 (C2 G4) | "Cm"(G2>F2GA) (GF2<)(F2E)   | G4 (GA) (GF2<)(F2E)          | "Fm"(F2>E2FG) (FE2<)(E2D) | "Cm"E6
-w:Սա ֊րե֊ րի հո -- վին * մեռ-|նեմ, հո - վին մեռ-|նեմ, հո -- վին * մեռ - նեմ,  
-       (C2 G4) | (B2>G2)(GA) (GF) (F2>E2)    | G4 (GA) (GF2<)(F2E)          | "Fm"(F2>E2F)G (FE2<)(E2D) | "Cm"E6
-w:Իմ յա-|րի բո -- յին * մեռ- |նեմ, բո - յին մեռ-|նեմ, բո -- յին * մեռ - նեմ։  
-       (DE F4) | "Fm"(F2>E2F)G (FE2<)(E2D)   | (F4 EF) (ED2<)(D2C)          | "Cm"(E2>C2DE) (DC) C4     | "F" F6
-w:Մի տա-|րի * է * չեմ տե-      |սել, * տես -- նողի,   | յա՛ր,* աչ-քին մեռ-|նեմ։  
-       (DE F4) | "Fm"(B4 AG) (FE2<)(E2D)     | (F4 EF) (ED2<)(D2C)          | "Ab"(E2>C2"Bb"DE) (DC) C4 | "Cm"C6
-w:Մի տա-|րի * է * չեմ տե-      |սել, * տես -- նողի,   |յա՛ր,* աչ-քին  մեռ-|նեմ։   
-       (=AB c4)|  (c2>B2c_d) (cB2<)(B2=A)    | "C7"(B2>=A2B_d) (cB2<)(_A2G) | "Fm"(A2>G2AB) (AG2<)(G2F) | "Cm"G6
-w:Կայն-|ել եմ՝ գալ չեմ կա-|րող, գալ չեմ կա-|րող, գալ չեմ կա-|րող,  
-       (=AB c4)|  (c2>B2ce) (_dc2<)(B2=A)    | "C7"B2>=A2(B_d) (cB2<)(_A2G) | "Fm"(A2>G2AB) (AG2<)(G2F) | "Cm"G6
-w:Լցվել |եմ՝ լալ չեմ կա-|րող, լալ չեմ կա-|րող, լալ չեմ կա-|րող,  
-       (C2 G4) |  (B2>G2)(GA) (GF2<)(F2E)    | G4 (GA) (GF2<)(F2E)          | "Fm"(F2>E2FG) (FE2<)(E2D) | "Cm"E6
-w:Մի տա-|րի է չեմ տե-|սել, տեսնողի, |յա՛ր, աչքին մեռ-|նեմ։  
-       (DE F4) | "F"(F2>E2FG) (FE2<)(E2D)    | "Fm"(F4 EF) (ED2<)(D2C)      | "Ab"(E2>C2"Bb"DE) (DC C4) | "F" F6
-w:Մի տա-|րի է չեմ տե-|սել, տեսնողի, |յա՛ր, աչքին մեռ-|նեմ։  
-       (DE F4) | "Bb"(B4 AG) (FE2<)(E2D)     | "Fm"(F4 EF) (ED2<)(D2C)      | "Ab"(E2>C2"Bb"DE) (DC) C4 | "Cm"C6 z6 |] 
-w:Մի տա-|րի է չեմ տե-|սել, տեսնողի, |յա՛ր, աչքին մեռ-|նեմ։
-%%multicol start
-%%begintext
-%%
-%%
-Սարերի հովին մեռնեմ,
-Հովին մեռնեմ, հովին մեռնեմ,
-Իմ յարի բոյին մեռնեմ,
-Բոյին մեռնեմ, բոյին մեռնեմ։
-
-    Կայնել եմ՝ գալ չեմ կարող,
-    Գալ չեմ կարող, գալ չեմ կարող,
-    Լցվել եմ՝ լալ չեմ կարող,
-    Լալ չեմ կարող, լալ չեմ կարող,
-    Մի տարի է չեմ տեսել,
-    Տեսնողի, յա՛ր, աչքին մեռնեմ։
-
-Գետերը ջուր չեն բերում,
-Քեզանից լուր չեն բերում,
-Չըլնի՞ սերդ սառել է,
-Քո սերը, յա՛ր, զուր չեն բերում։
-
-%%
-%%endtext
-%%multicol new
-%%leftmargin 12cm
-%%rightmargin 1cm
-%%begintext
-%%
-%%
-Sareri hovin merrnem,
-Hovin merrnem, hovin merrnem,
-Im yari boyin merrnem,
-Boyin merrnem, boyin merrnem։
-
-    Kaynel em՝ gal chem karogh,
-    Gal chem karogh, gal chem karogh,
-    Lcvel em՝ lal chem karogh,
-    Lal chem karogh, lal chem karogh,
-    Mi tari e' chem tesel,
-    Tesnoghi, ya՛r, achqin merrnem։
-
-Getery' jur chen berum,
-Qezanic lur chen berum,
-Chy'lni՞ serd sarrel e',
-Qo sery', ya՛r, zur chen berum։
-%%
-%%endtext
-%%multicol end
-%
-X:34
-T:Ին Սրտի Յարըս
-T:Fresno Bar
-O:Fresno, CA, USA and West Armenia
-Z:Avetik Topchyan (edits, adaptation)
-Z:Jack Campin, http://www.campin.me.uk/
-N:Original Artie Barsamian, 1950, Armenian Treasures from the Vault of Artie Barsamian 
-F:https://youtu.be/QEOZSPCb_S4?t=1450 
-F:https://www.youtube.com/watch?v=xvPXsz182po
-F:Jack Campin's Nine-Note Tunebook
 M:10/8
-L:1/8
-Q:3/8=135
-K:Amin
-%%MIDI program 71 % Clarinet
-%%MIDI bassprog 58
-%%MIDI chordprog 24
-%%MIDI chordvol 39 % Volume
-%%MIDI gchord f3c2f2c3
-%%MIDI drumon
-%%MIDI drum dzddzdzdzd 41 35 41 35 37
-%
-"Am" e2d e2 A2      c2e   | "G"     d2c d2  G2  B2d  | "F"c2B   A2  "E"B2  c2     d   | e2d     e2  "Am"(ea) e3   |
-"Am" e2d e2 AA     cc e   | "G"     dd c d2  GG BB d | "Dm7"c2B A2  "E7"(BcAB^G)      | "Am"A3- A2- A2-    A3    ::
-"Am" A2B c2 B2      A3    | "E"     B2c d2  c2  B3   | "C"c2d   e2  "Dm"d2 c3         | "E" e3  E2 "Am"EA E3      |
-"Am" A2B c2 B2      A3    | "E"     B2c d2  c2  B3   | "Dm7"c2B A2  "E7"(BcAB^G)      | "Am"A3- A2- A2-    A3    ::
-"A7" e2f g2 f2      e3    | "Dm"f2e d2  (^ce d3)     | "G7"d2e  f2  e2     d3         | "C"     e2d c2   (Bd c3)  |
-"Am" c2d e2 "Am7"d2 (c2e) | "Dm"d2c B2  A2  (cBA)    | "E"      B2c d2     "E7"c2 B3  | "Am"c2B A2  ^G2    A3    :|]
-%
-%
-X:35
-T:Սիրուն Ախջիկ, Սիրուն Եար
-T:Siroun Akhchig, Siroun Yar
-C:Ուդի Հրանդ Քենքուլեան (Udi Hrant Kenkulian)
-O:West Armenia, Turkey, Constantinopole, Ottoman Empire
-Z:Avetik Topchyan (adaptation)
-L:1/16
-Q:1/4=75
-M:4/4
-K:Em 
-%%MIDI drumon
-%%MIDI drum d3d3ddd3d3d2 41 50 35 35 41 50 37
-%%MIDI program 24
-%%MIDI transpose -12
-[P:Intro]
-         .E z FG A2 A2 BABG A4          | AGBG      GFAF FEGF E2 (E/2G/2F/2E/2)           |
-         .D z FG A2 A2 ~BABG A4         | AGBG      GFAF FE/2F/2GF E2 (A/2B/2^c/2d/2)     |
-[P:Song]
-         .e z ^cd e2 e2 (de)(cd) (B3A)  | A2(FG)    (BA)(AG) (GF)(FE) E2 (A/2B/2^c/2d/2)  |
-w: * Սի-րուն ախ-ջիկ, սի--րուն * յար     | ե -կուր   ե -կուր, * հո -գիս * ար *             |
-         .e z ^cd e2 (ef)(de)(cd) (B3A) | A2(FG)    (BA)(AG) (GF)(FE) E2 (E/2G/2F/2E/2)   |
-w: * Սի-րուն ախ-ջիկ, սի--րուն * յար     | ե -կուր   ե -կուր, * հո -գիս * ար *             |
-         .D z FG A2 A2 (~BA)(BG) A4     | (AG)(BG)  (GF)(AF) (FE)(GF) .E z (D/2E/2F/2G/2) |
-w: * Ա-ռանց քե-զի չեմ * գըր -նար        | ուր * որ  * եր -թաս * հե -տդ * տար *            |
-         .A z FG A2 A2 (~BA)(BG) A4     | (~AG)(BG) (GF)(AF) (FE)(GF) .E4                 |]
-w: * Ա-ռանց քե-զի չեմ * գըր -նար        | ուր * որ  * եր -թաս * հե -տդ * տար *            |
+K:Am
+e2e e2  d2d A2                 | e2  e      e2   (d>c) e3    |
+w:Տալ տա-լա, տալ տա-լա         | տալ պո-յիդ ղուր - պան։
+e2e (e>c) d2d A2               | e2 (e/g/) (e>d) (d>c) (e2d) |
+w:Տալ տա-լա, * տալ տա-լա       | տալ պո - յիդ * ղուր - պան։
+(dc)d e>d (c>d)(B/c/) (A>G)    | (c>B)(c/d/) (B>A) (A>G) d3  |
+w:Մէջ - քու-կըդ բա-րակ էր      | գըր - կե - լուդ * հայ - րան,
+(dc)d (e>d) (c>d)(B/c/) (A>G)  | (c>B)(c/d/) (B>A) A2 A3         |]  
+w:Ե - րե- սըդ * կար - միր * էր,| պագ - նե - լուդ * ղուր- պան։
 %%multicol start
 %%begintext
 %%
 %%
-Սիրուն ախջիկ, սիրուն եար  
-Եկուր, եկուր, հոգիս ար          
-Առանց քեզի չեմ գըրնար         
-Ուր որ երթաս հետդ տար։
-
-Հետդ տար ինձ նունուշիկ
-Նազ մի ըներ  աղվոր ղուշիկ
-Շաքար ես դուն անուշիկ
-Ըլլամ ոդկերիդ կոշիկ։
-
-Ես մատանիդ ըլլայի
-Մատնեմատդ անցնեի
-Պաչիկ մը քեզի տայի
-Հետո կեանքս հանձնեի։
+Տալ տալա, տալ տալա,
+Տալ պոյիդ ղուրպան։
+էջքուկըդ բարակ էր,
+Գըրկելուդ հայրան,
+Երեսըդ կարմիր էր,
+Պագնելուդ ղուրպան։
+%%
+Օր կ՝ըսեն Իստամբուլ,
+Սիրտըս կը թընդայ.
+Վախնամ՝ էրթաս, չի գաս,
+Տուշմանըս խընդայ։
+%%
+Տալ տալա, տալ տալա,
+Տալ պոյիդ ղուրպան...
+%%
+Գըցի փոստախանան,
+Նամակ ձըգեցի,
+Տասնհինգ օր սպասեցի,
+Ճուղապը չառի։
+%%
+Աղջի, Եղսօ ջան,
+Փոստաճին էկաւ,
+Կողակցէդ խապարներ բերաւ։
 %%
 %%endtext
 %%multicol new
@@ -2056,101 +2588,35 @@ w: * Ա-ռանց քե-զի չեմ * գըր -նար        | ուր * որ  * ե�
 %%begintext
 %%
 %%
-Siroun axchig, siroun yar  
-Yegur, yegur, hokis ar          
-Arranc qezi chem gy'rnar         
-Ur vor yertas hedet dar
-
-Heted dar indz nunushig
-Naz mi y'ner  aghvor ghushig
-Shaqar es tun anushig
-Y'llam votkerit goshig
-
-Yes madanit y'llayi
-Madnemadet ancnei
-Bachig my' qezi dayi
-Hedo gyanqs handznei։
+Tal tala, tal tala,
+Tal poyid ghurpan։
+e'jquky'd barak e'r,
+Gy'rkelud hayran,
+Yeresy'd karmir e'r,
+Pagnelud ghurpan։
+%%
+Or k՝y'sen Istambul,
+Sirty's ky' t'y'nday.
+Vaxnam՝ e'rt'as, chi gas,
+Tushmany's xy'nday։
+%%
+Tal tala, tal tala,
+Tal poyid ghurpan...
+%%
+Gy'ci p'ostaxanan,
+Namak dzy'geci,
+Tasnhing or spaseci,
+Tshughapy' charri։
+%%
+Aghji, Yeghso jan,
+P'ostatshin e'kaw,
+Koghakce'd xaparner beraw։
 %%
 %%endtext
 %%multicol end
-%
-%
-X:36
-T:Ալմաստը շողում է
-T:Almaste Shoghum E
-C:Գուսան Շահեն (Gusan Shahen)
-O:Armenia
-Z:Avetik Topchyan (adaptation)
-F:https://youtu.be/rDUYqnd62rc?t=18
-L:1/8
-Q:1/4=120
-M:9/8
-K:Dm
-%%MIDI program 20
-%%MIDI beatstring fpfpfmmfp
-%%MIDI bassprog 58
-%%MIDI bassvol 90
-%%MIDI chordprog 24
-%%MIDI chordvol 60
-%%MIDI gchord fczcfcz2c 
-%%MIDI drumon
-%%MIDI drum d2d2d2ddd 41 43 43 39 39 54 100 90 90 70 90 40
-|: "F"F2   .F.F  F2    (E/G/)    F2     |  "C"EF .G.A  "F"F2    (E/G/) F2        |
-w: Ալ-մաս-տը  շո-ղում * է               | գըլ--խիդ շա-լի վը--րա 
-w: Երկու սիր-ուն ա-ղավ-նի               | քո կըր-ծքի յա ֊֊լի վը ֊֊ րա
-   "Gm"EF   G(G/A/) "Dm"(F>E) F/G<(ED/) |  "Gm"DE "Bb"F(F/G/) "C"(E>D) .D "Dm"D2 ::
-w: Թուխ մա֊ զե֊ րդ փըռ֊վել են           | ե-րե-սիդ խա--լի * վը-րա
-w: Թա-ռել են դը--րախտ ծո-ցըդ,           | բաղ կը-րծքիդ շա--լի * վը-րա։
-|: "F"A2   GF    A2   "C".G    G2      :: "F"A2 GF    (A>c)   "C".G     G2      ::
-w: Աշ-խա-րհը ե-կել է,                   | կու- զե քեզ սեյր * ա-նի
- "Gm".E.F  GA  "Dm"F2 .E   (DC)      |  "Bb"DE GF    "C"E2    .D     "Dm"D2   :|]
-w: Յար ջան, սա-րի եղ-նիկ ես,            | ինչ-պես հը-պարտ ջեյ-րա-նի։
-%
-%%multicol start
-%%begintext
-%%
-%%
-Ալմաստը շողում է գըլխիդ շալի վըրա,
-Թուխ մազերդ փըռվել են երեսիդ խալի վըրա,
-Երկու սիրուն աղավնի քո կըրծքի յալի վըրա,
-Թառել են դըրախտ ծոցըդ, բաղ կըրծքիդ շալի վըրա։
 
-    Աշխարհը եկել է, 
-    կուզե քեզ սեյր անի.
-    Յար ջան, սարի եղնիկ ես,
-    Ինչպես հըպարտ ջեյրանի։
 
-Իմ յարը նավակով լողում է գյոլի մեջ,
-Մեկ անթառամ ծաղիկ է բուսել սիրուն չոլի մեջ,
-Քո նըմանը չեմ տեսել, աշխարհի գոլի մեջ,
-Շահենի սըրտի գյոզալ, իմ սըրտի խալի վըրա։
-%%
-%%endtext
-%%multicol new
-%%leftmargin 12cm
-%%rightmargin 1cm
-%%begintext
-%%
-%%
-Almasty' shoghum e' gy'lxid shali vy'ra,
-T'ux mazerd p'y'rrvel en eresid xali vy'ra,
-Yerku sirun aghavni qo ky'rc'qi yali vy'ra,
-T'arrel en dy'raxt c'ocy'd, bagh ky'rc'qid shali vy'ra։
-
-    Ashxarhy' ekel e', 
-    Kuze qez seyr ani.
-    Yar jan, sari eghnik es,
-    Inchpes hy'part jeyrani։
-
-Im yary' navakov loghum e' gyoli mej,
-Mek ant'arram c'aghik e' busel sirun choli mej,
-Qo ny'many' chem tesel, ashxarhi goli mej,
-Shaheni sy'rti gyozal, im sy'rti xali vy'ra։
-%%
-%%endtext
-%%multicol end
-%
-X:37
+X:45
 T:Փափուռի
 T:Pompooree
 C:Karin, West Armenia
@@ -2170,378 +2636,9 @@ Q:1/4=120
    GcB     A2   B   | c2       B     A3   | ABA      G2    A    | B2         A     c G2  | 
    GcB     A2   B   | cdB      A3         | z        BA    G2 A | B2         A     G3   :|
 %
-X:38
-T:Չինար ես
-T:Chinar es
-C:Ըստ Կոմիտասի
-L:1/8
-Q:1/4=100
-M:6/4
-K:Gm
-%%MIDI program 68
-%%MIDI chordprog 45
-%%MIDI gchord GIHJHI
-%
-z2     B2 B2 "Bb" B6    | (dc)(cB- -) B2 (dc)(cB-) B2 | (d6  "F"(3(cde c3 B)    | "Bb"B12) ::
-w:     Զի-նար ես,       | կե--ռա -- նալ * մի          | յա՛ր, * յա՛ր,           | յա՛ր
-w:     Մեր դըռ-նեն      | հե--ռա -- նալ * մի          | յա՛ր, * յա՛ր,           | յա՛ր
-w:    Յար, քո աստ-      | ված * կը **    սի - րես     | յա՛ր, * յա՛ր,           | յա՛ր
-w:    Հե-ռու ես,        | մո - ռա -- նալ *  մի        | յա՛ր, * յա՛ր,           | յա՛ր
-% 
- "Cm"((c>B)   c   (B2 A)    (BA) A4)    | (c6  "Eb"(3(Bcd B3A ) | (BA) (B2 cA) "F"(A/B/G) G4     | "Gm"G12) :|]
-w:    Յա՜ր  * նա  նա֊ ա՜յ   նայ * նա՜յ  | նա՜յ       նա - նա՜յ  |  նա՜յ *  նա՜յ ** նա՜յ ** նա՜յ  |  նա՜յ
-%
-%
-X:39
-T:Սիրո երգ
-T:Siro erg
-F:https://www.youtube.com/watch?v=6WV1i7zf41E
-C:ժողովրդական / Folk
-C:Արմենակ Սարգսյան / Armenak Sargsyan
-K:Am
-M:4/4
-Q:1/4=80
-L:1/8
-M:6/8
-%%MIDI program 65
-%%MIDI chordvol 80
-%%MIDI gchord fcc
-"Am"z cd ee2        | "Ab+"(e>d)e ((3d/2e/2d/2 c2) | "Am7" (e>d)e (d>c)d  | "Am6"(c>B)c (BA2)      |
-w:Աշ-խա-րհում սի-   | րել * եմ քեզ,           | իմ * ան - գի՛ն, իմ    | լուս - ե - րե՛ս,
-"G"z Bc dd2         | "Dm7"(d>c)d (cBA)       | (d>c)d "F"(c>B)c      | "G"(B>A)c "Am"A3         ::
-w:Մին-չև ե՞րբ, ա՜խ, | մին - չև  ե՞րբ          | իմ սիր - տը պի-       | տի վա - ռես։
-"C"(e>d)e    (dc2)  |    (e>d)e    (dc2)      | "Am"(e>d)e "Dm"(d>c)d | "Em"(c>B)c "Am"(BA2)       | 
-w:Դո՛ւ ես իմ        | սերն ան - մար,          | ապ - րում եմ * ես     | քեզ հա - մար.
-"G"z Bc (d/c/)d2    | "F"(d>c)d (c>B)A        | "Dm"(d>c)d "F"(c>B)c  | "Em"(B>A) (c/2A/2) "Am"A3 :|
-w:Հա-զար տա -րի     | կը -սպա - սեմ,          | մի -այն թե գաս,       | ա - նո՛ւշ յար։
-%
-%
-%%multicol start
-%%begintext
-%%
-%%
-Աշխարհում սիրել եմ քեզ,
-Իմ անգի՛ն, իմ լուսերե՛ս,
-Մինչև ե՞րբ, ա՜խ, մինչև ե՞րբ
-Իմ սիրտը պիտի վառես։
 
-	Դո՛ւ ես իմ սերն անմար,
-	Ապրում եմ ես քեզ համար.
-	Հազար տարի կսպասեմ,
-	Միայն թե գաս, անո՛ւշ յար։
 
-Մեր ձեռքից կանցնեն-կերթան
-Օրերը ջահելության,
-Սեր անենք, անգի՛ն ընկեր,
-Ժամն է մեր ուրախության։
-
-Լեյլիի սիրո նման
-Իմ սերն է կրակ վառման.
-Առանց սեր, դատարկ սրտով
-Չեմ ապրի ոչ մի վայրկյան։
-%%
-%%endtext
-%%multicol new
-%%leftmargin 12cm
-%%rightmargin 1cm
-%%begintext
-%%
-%%
-Ashxarhum sirel em qez,
-Im angi՛n, im lusere՛s,
-Minchev e՞rb, a՜x, minchev e՞rb
-Im sirty' piti varres։
-
-	Du es im sern anmar,
-	Aprum em es qez hamar.
-	Hazar tari kspasem,
-	Miayn t'e gas, ano՛wsh yar։
-
-Mer dzerrqic kancnen-kert'an
-Orery' jahelut'yan,
-Ser anenq, angi՛n y'nker,
-Zhamn e' mer uraxut'yan։
-
-Leylii siro nman
-Im sern e' krak varrman.
-Arranc ser, datark srtov
-Chem apri och mi vayrkyan։
-%%
-%%endtext
-%%multicol end
-
-X:40
-T:Ապարանի Պար 
-T:Aparani Par
-Z:Ara Dinkjian (transcription)
-F:https://youtu.be/MApl2LgaDSs
-L:1/16
-Q:1/4=120
-K:Em
-M:4/4
-[M:5/8]               |: BAG2  GB      A2>B2 |  GFE2    EA   G2>A2  |  [M:4/8]      FGE2 A4         |
-[M:5/8] BAG2 GB A2>B2 |  GFE2  EA      G2>A2 |1 [M:4/8] FGE2 EFGA  :|2 FGE2"_Fine"  E4              |:
-[M:5/8] E2ED E2 B4    |  E=FED E2      B4    |  G2A2    BA   A4     |  A2BG         A2 B4          ::
-G2A2    B2 B4         |  B2B2  dB      B4    |  d^cdB   B2   B2>A2  |  A2BG         A2 B4          ::
-BAG2    GB A2>B2      |  GFE2  EA      G2>A2 |  [M:4/8] FGE2 A4     |
-[M:5/8] BAG2 GB A2>B2 |  GFE2  EA      G2>A2 |1 [M:4/8] FGE2 EFGA  :|2 FGE2         E4              |:
-[M:5/8] F2F2 FA G2>A2 |  F2F2  F2F^ED2       |  F2F2    FA   G2>A2  |  F2F2         F^E F4         ::
-F2G2    A2 A4         |  A_BAG AB^cBAG       |  F2G2    A2   A4     |  ^c_BAB"_D.С. al Fine" AG A4 :|
-%
-%
-X:41
-T:Զանգեզուրի Պար
-T:Zangezuri Par
-Z:Ara Dinkjian (transcription)
-F:https://youtu.be/_ZV_xe4bdWA
-L:1/8
-Q:1/4=140
-M:6/8
-K:none
-%%MIDI program 72       % Instrument
-|: A2   B2     A2   | B2          A           AGA  |  B2          A-            A G2  |  ^F>=F^F F D2     ::
-   ^FGA z      FG   | A2          G           A^FG |  A2          G             ^FAG  |  ^F>=F^F F D2     :|
-   A    A2     z BG | A>GA        GG^F             |  AAA         z             BG    |  A>GA    GG^F      |:
-   c>BA c      B2   | z3/2        A/2B        AAG  |  c>BA        c             B2    |  z3/2    A/2B AAG  |  B>AG  B A2        |
-   z3/2 G/2A   GG^F | A>G^F       GAG/2A/2         |1 G2          ^F            B2 A :|2 G2      ^F F3    ||  z3/2  ^F/2G A^A^c |  d6 |:
-   z3/2 ^c/2d  ddd  | d/2e/2d^c   c/2d/2c^A        |  ^c/2d/2c^A  (3A/2c/2A/2   =A2  :|
-   z3/2 ^A/2^c ccc  | ^c/2d/2c^A  (3A/2c/2A/2 =A2  |  ^A/2^c/2A=A (3A/2^A/2=A/2 G2    |
-   z3/2 A/2^A  AAA  | ^A/2^c/2A=A A/2^A/2=AG       |  A/2^A/2=AG  (3G/2A/2G/2   ^F2   |
-   z2   e      dd^c | edd         ^cc^A            |  ^A e       dd^c                |  edd     ^cc^A     |  ^A=Ad ^cc^A       |
-   d^cc ^AA=A       | G2          c           BBA  |  cBB         AAG                 |  ^FGA    z FG      |  A2    G ^F3       |]
-
-X:42
-T:Մշու Գորանի (դանդաղ)
-T:Mshou Gorani (slow)
-C:Ժողովորդական
-Z:A.T.
-F:https://www.youtube.com/watch?v=-totStkMT04
-L:1/8
-Q:1/4=80
-M:6/8
-K:Em
-%%MIDI program 72       % Instrument
-e3   ec2      | d3 dB2          |  c2B dB(c/A/)       | A3 A2 z   | 
-w: Ըդ ան-դեր  | Մը-շու դաշտ     | հի-նգ հար -իր       | գեղ էր
-w: Յար է-հո,  | յար է-հո,       |յա-ար֊ ըմ գո-        |րա-նի
-d3 dB2        | de2 (c/A/)AB    | c2B (d/B/) B (c/A/) | A3 A2 z :|] 
-w: Ուր ջու֊րը | կը-խմեր         | հի-ի ֊վան - դի      | դեղ էր։
-w: Յար է-հո,  | յար էհո,        | մշու գո-            |րա-նի
-%
-%%multicol start
-%%begintext
-%%
-%%
-Ըդ անդեր Մըշու դաշտ հինգ հարիր գեղ էր,
-Ուր ջուրը կխմեր հիվանդի դեղ էր։
-
-    Յար էհո, յար էհո, յարըմ գորանի
-    Յար էհո, յար էհո, մշու գորանի
-
-Էս տարվա տարին ցորեն էր գարին,
-Էրթամ ու հասնիմ իմ խորոդ յարին։
-
-Ցորյան իմ ցանիլ իմ առվի պռնկան,
-Էրիլ է, թխիլ է դեպ արեգական։
-
-Ալաշկերտ, Մանազկերտ բարձան ու գացին,
-Մուշ ու Բուլանուխ նստան ու լացին։
-%%
-%%endtext
-%%multicol new
-%%leftmargin 12cm
-%%rightmargin 1cm
-%%begintext
-%%
-%%
-Ed ander My'shu dasht hing harir gegh e'r,
-Ur jury' kxmer hivandi degh e'r։
-
-    Yar e'ho, yar e'ho, yary'm gorani
-    Yar e'ho, yar e'ho, mshu gorani
-
-E's tarva tarin coren e'r garin,
-E'rt'am u hasnim im xorod yarin։ | 
-
-Coryan im canil im arrvi prrnkan,
-E'ril e', t'xil e' dep aregakan։
-
-Alashkert, Manazkert bardzan u gacin,
-Mush u Bulanux nstan u lacin։
-%%
-%%endtext
-%%multicol end
-
-X:43
-T:Մշու Գորանի (արագ)
-T:Mshou Gorani (fast)
-C:Ժողովորդական
-Z:A.T.
-F:https://www.youtube.com/watch?v=7WsTQCPI8A0
-L:1/8
-Q:1/4=100
-M:4/4
-K:G
-%%MIDI program 72       % Instrument
-(G>D) (GG/A/) (FF/G/)    (GG/D/)      | G2 (A/B/G/A/) (F>A)      G2   |:
-w:Էն * Մը- շո * դաշտ  ու * դու-րան    | յա-րըմ * գո - րա--նի
-        zF GA (A/B/G/A/) (F/G/E)      | zG (G/A/F)    (F/G/E)    E2  :|] 
-w:  Սուրբ Կաս- պեր կիչ - նե * վե-- րա | Մը- շո * գո-րա -- նի
-%
-%
-%%multicol start
-%%begintext
-%%
-%%
-Էն Մշո դաշտ ու դուրան
-Յարմ գորանի
-Սուրբ Կասպեր կիչնե վերան
-Մշո գորանի
-
-Յարմ գորանի, մշո գորանի
-Յարմ գորանի վայ վայ 
-Մշո գորանի
-
-Ջուխտ անգոգնոց աղջիկներ
-Յարմ գորանի
-Կերթան վեր Սասնա սարին
-Մշո գորանի
-
-Յարմ գորանի...
-
-Քառսուն լուսնակ ուր կերթան
-Յարմ գորանի
-Կերթան կելնին Ծովասար
-Մշո գորանի
-
-Յարմ գորանի...
-%%
-%%endtext
-%%multicol new
-%%leftmargin 12cm
-%%rightmargin 1cm
-%%begintext
-%%
-%%
-E'n Msho dasht u duran
-Yarm gorani
-Surb Kasper kichne veran
-Msho gorani
-
-Yarm gorani, msho gorani
-Yarm gorani vay vay 
-Msho gorani
-
-Juxt angognoc aghjikner
-Yarm gorani
-Kert'an ver Sasna sarin
-Msho gorani
-
-Yarm gorani...
-
-Qarrsun lusnak ur kert'an
-Yarm gorani
-Kert'an kelnin C'ovasar
-Msho gorani
-
-Yarm gorani...
-%%
-%%endtext
-%%multicol end
-
-X:44
-T:Նազանի
-T:Nazani 
-C:Սայաթ Նովա (Sayat-Nova)
-L:1/16
-Q:1/4=60
-M:6/8
-K:Bb
-I:linebreak $
-%
-[P:Նվագ]  
-         (d2c2c2) (Pc2>B2A2) | [M:5/8] (c2B2) (PB2>A2G2) | (A2B2 Pc2BAG2)  |1 $ 
-[M:6/8]  (PA2G2 A^FG2) (GABc) :|2 (A2G2 A^FG2) z4 || $
-%
-[P:Երգ]
-[M:5/8] S(AB) (AG) A2 d4 | [M:3/8] (^cB) (3(ABAG2) |{AB} A2 G2 A^F | G2 z4     |  $ 
-w:Դուն * էն * հու-րին | իս, ** վուր | գէ-մի կու զաւ|թէ,
-[M:5/8]  (AB) (AG) A2 d4 | [M:3/8] (^cB) (3(ABAG2) |{AB} A2 G2 A^F | G2 (GABc) |: $ 
-w:Չուն--քի * ինձ զաւ-|թե--ցիր | խա-փով, նա-զա՛|նի,
-(3(ded) c2 c2 | {cd}c3 B A2 | [M:5/8] (3(cdc) B2 B3 A G2 | $ 
-w:Ա---րի-վիլք, | ա-րիվ-մուտ, | հա---րաւ ու հիւ-սիս
-A2 B2 {cd} c2 B A G2 |1 [M:6/8] (3(ABA) (G2 A ^F G2) (GABc) :|2 (3(ABA) G2 A ^F G2 z4 || $ 
-w:Չը-կայ քի-զի նը-ման |         չա---փով, նա-զա-նի: | չա---փով, նա-զա-նի:
-%
-[P:Նվագ]
-z2 (B2A2) (PB2>A2G2) | z2 (c2=B2) (Pc2>_B2A2) |[M:3/8] z (!>!ABcde) |$[M:6/8] (Pd2cB) (Pc2BA) (BAG2) | 
-[M:3/8] (A2 c2 (BA) | BA G2) (A^F | G2) z4 S:|] 
-
-%%multicol start
-%%begintext
-%%
-%%
-Դուն էն հուրին իս, վուր գէմի կու զաւթէ,
-Չունքի ինձ զաւթեցիր խափով, նազա՛նի,
-Արիվիլք, արիվմուտ, հարաւ ու հիւսիս
-Չըկայ քիզի նըման չափով, նազա՛նի:
-
-Շատ մարդ քու էշխէմէն կու դառնայ յիզիդ,
-Արի մէ ռա՛հմ արա, լա՛ւ կացի միզիդ,
-Գ'ուզիմ, թէ համաշա դամ անիմ քիզիդ`
-Սանթուրով, քամանչով, դափով, նազա՛նի:
-
-Դարդիրըս շատացաւ` ասիլ իմ ուզում.
-Աչքէմէս արտասունք հուսիլ իմ ուզում.
-Համաշա, եա~ր, քիզիդ խօսիլ իմ ուզում,
-Սիրտըս չէ կըշտանում գափով, նազա՛նի:
-
-Հայալու իս, ադաբ ունիս, ար ունիս,
-Ձեռիդ` դաստա կապած սուսանբար ունիս,
-Տո՛ւր, ինձի սըպանէ` իխտիար ունիս.
-Հէնչաք ըլի` կէնաս բափով, նազա՛նի:
-
-Սայաթ-Նովէն ասաց` արզ անիմ Խանին.
-Ղաբուլ ունիմ` քու խաթրու ինձ սըպանին.
-Հէնչաք ըլի, եա~ր, գաս իմ գերեզմանին,
-Ածիս խուղըն վըրէս ափով, նազա՛նի:
-%%
-%%endtext
-%%multicol new
-%%leftmargin 12cm
-%%rightmargin 1cm
-%%begintext
-%%
-%%
-Dun e'n hurin is, vur ge'mi ku zawt'e',
-Chunqi indz zawt'ecir xap'ov, naza՛ni,
-Arivilq, arivmut, haraw u hiusis
-Chy'kaհ qizi ny'man chap'ov, naza՛ni:
-
-Shat mard qu e'shxe'me'n ku darrnah yizid,
-Ari me' rra՛hm ara, la՛w kaci mizid,
-G'uzim, t'e' hamasha dam anim qizid`
-Sant'urov, qamanchov, dap'ov, naza՛ni:
-
-Dardiry's shatacaw` asil im uzum.
-Achqe'me's artasunq husil im uzum.
-Hamasha, yar, qizid xosil im uzum,
-Sirty's che' ky'shtanum gap'ov, naza՛ni:
-
-Hayalu is, adab unis, ar unis,
-Dzerrid` dasta kapac' susanbar unis,
-Tur, indzi sy'pane'` ixtiar unis.
-He'nchaq y'li` ke'nas bap'ov, naza՛ni:
-
-Sayat'-Nove'n asac` arz anim Xanin.
-Ghabul unim` qu xat'ru indz sy'panin.
-He'nchaq y'li, yar, gas im gerezmanin,
-Ac'is xughy'n vy're's ap'ov, naza՛ni:
-%%
-%%endtext
-%%multicol end
-
-X:45
+X:46
 T:Քամանչա
 T:Kamancha
 C:Սայաթ Նովա (Sayat-Nova)
@@ -2551,6 +2648,7 @@ M:6/8
 K:Ephr =f^g
 %%map color_blue * color=#0000ff 
 %%score ( 1 2 )
+%%scale 0.7
 %
 [P:Նվագ]
 [V:1]
@@ -2599,22 +2697,22 @@ x12 | x12 | x12 | x10 B,/C/B,/C/  |]
 Նաքազ մարդ քիզ չի կանայ տեսնի` դուն նըրա պասն իս, քամա՛նչա,
 Ղա՛ստ արա` է՛լ լաւ օրիրուն էդիվըն հասնիս, քամա՛նչա,
 Քիզ ինձնից ո՞վ կանայ խըլի` աշուղի բասն իս, քամա՛նչա:
-
+%%
 Անգաճըդ էրծաթէն պիտի, գըլուխըդ` ջավահիր քարած,
 Կութըդ շիրմայէմէն պիտի, փուրըդ` սադափով նաղշ արած,
 Սիմըդ օսկէն քաշած պիտի, էրկաթըդ` փանջարա արած,
 Օչով ղիմէթըդ չի գիդի` լալ ու ալմասն իս, քամա՛նչա:
-
+%%
 Ճիպուտըդ վարաղնած պիտի` թահր ունենայ հազար ռանգով.
 Ձարըդ ռաշի կուդէն պիտի, վուր դուն խօսիս քաղցըր հանգով.
 Շատին զարթուն կու լուսացնիս, շատին կու քընեցնիս բանգով.
 Անուշահամ գինով լիքըն` դուն օսկէ թասն իս, քամա՛նչա:
-
+%%
 Ածողիդ է՛րկու կու շինիս, առաջ չայի, ղափա գ'ուզիս.
 Կու մեձըրվիս այվընումըն, պարապ վախտի ռափա գ'ուզիս.
 Յիփ վիր գուքաս մէջլիսումըն` քաղցըր զօղ ու սափա գ'ուզիս,
 Բոլորքըդ գօզալնիր շարած` մէջլիսի կէսն իս, քամա՛նչա:
-
+%%
 Շատ տըխուր սիրտ կու խընդացնիս, կու կըտրիս հիվընդի դողըն,
 Յիփ քաղցըր ձայնըդ վիր կ'օնիս` բաց կու'լի հիդըդ խաղողըն.
 Խալխին էս իլթիմազն արա` ասին. «Ա՛պրի քու ածողըն»:
@@ -2625,22 +2723,22 @@ Ame'n sazi me'jy'n govac'` dun t'amam tasn is, qama՛ncha,
 Naqaz mard qiz chi kanay tesni` dun ny'ra pasn is, qama՛ncha,
 Gha՛st ara` e'՛l law orirun e'divy'n hasnis, qama՛ncha,
 Qiz indznic o՞v kanay xy'li` ashughi basn is, qama՛ncha:
-
+%%
 Angatshy'd e'rc'at'e'n piti, gy'luxy'd` javahir qarac',
 Kut'y'd shirmaye'me'n piti, p'ury'd` sadap'ov naghsh arac',
 Simy'd oske'n qashac' piti, e'rkat'y'd` p'anjara arac',
 Ochov ghime't'y'd chi gidi` lal u almasn is, qama՛ncha:
-
+%%
 Tshiputy'd varaghnac' piti` t'ahr unenay hazar rrangov.
 Dzary'd rrashi kude'n piti, vur dun xosis qaghcy'r hangov.
 Shatin zart'un ku lusacnis, shatin ku qy'necnis bangov.
 Anushaham ginov liqy'n` dun oske' t'asn is, qama՛ncha:
-
+%%
 Ac'oghid e'՛rku ku shinis, arraj chayi, ghap'a g'uzis.
 Ku medzy'rvis ayvy'numy'n, parap vaxti rrap'a g'uzis.
 Yip' vir guqas me'jlisumy'n` qaghcy'r zogh u sap'a g'uzis,
 Bolorqy'd gozalnir sharac'` me'jlisi ke'sn is, qama՛ncha:
-
+%%
 Shat ty'xur sirt ku xy'ndacnis, ku ky'tris hivy'ndi doghy'n,
 Yip' qaghcy'r dzayny'd vir k'onis` bac ku'li hidy'd xaghoghy'n.
 Xalxin e's ilt'imazn ara` asin. «A՛pri qu ac'oghy'n»:
@@ -2648,5 +2746,279 @@ Qani sagh e' Sayat'-Nove'n, shat ban ku tesnis, qama՛ncha:
 %%
 %%endtext
 
+X:47
+T:Օրօր
+T:Lullaby
+C:Գեորգ Արմենյան (Gevorg Armenian)
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+L:1/8
+Q:1/4=120
+M:4/4
+I:linebreak $
+K:Dm
+D2 A2   G2  (AF) | (GE) (FG) A4     | D2 A2   A2 (c=B) | (cA) A2   A4  |  $
+A2 (Ac) B2  (AG) | G2   (FE) F4     | A2 (Ac) B2 (AG)  | G2   (FE) F4  |  $
+G2 (GF) G2  A2   | F2   (GE) F2  G2 | E2 (FD) E2 F2    | (GD) D2   D4  |: $
+G2 (GE) (F3 E)   | (GF) (GE) (F3 E) | F2 (GA) F2 (GE)  | D2   (FE) D4 :|
+%
+%-------------------------------------------------
+%
 
+X:48
+T:Ֆինջան Պար
+T:Dance "Finjan"
+C:Armenian Traditional Melody
+O:Armenia
+Z:Avetik Topchyan (adaptation)
+F:Score adapted from www.duduk.com; Video: https://youtu.be/QzS9zU6SceY
+L:1/16
+Q:1/4=100
+M:2/4
+I:linebreak $
+K:F
+%%MIDI program 75
+%%MIDI drum dzddzddz 45 36 36 36 36
+%%MIDI drumon 
+%%MIDI drone 69 50 57 35 30
+%%MIDI droneon
+D2 z2 D2A2- | A2(Ac) A4 | (D_EDC) D2A2- | A2(Ac) A4 | $ 
+%%MIDI droneoff
+%%MIDI drone 69 53 48 35 30
+%%MIDI droneon
+|: (ABAG) (GA)F2- | F2F2G2A2 | (ABAG) (GA)F2 | F2(EG) F4 :|$ 
+%%MIDI droneoff
+%%MIDI drone 69 50 57 35 30
+%%MIDI droneon
+(D_EDC) D2A2- | A2(Ac) A4 | D2(DC) D2A2- | A2(Ac) A4 |$ 
+%%MIDI droneoff
+%%MIDI drone 69 53 48 35 30
+%%MIDI droneon
+|: (ABAG) (GAGF | F2)F2G2A2 | (ABAG) (GAGF) | F2(EG) F4 :| 
+%%MIDI droneoff
+%
+%-------------------------------------------------
+%
+X:49
+T:Կատակային Պար
+T:Gadagayin Bar (Humoresuqe dance)
+C:ժողովորդական
+F:https://www.youtube.com/watch?v=HrPq4KFGYXQ
+L:1/16
+Q:1/4=100
+M:4/4
+K:A
+ee2e2d c2dcBA | B2cBAG AGABcd | ee2e2d c2dcBA | B2cBAG ABGA3 :|
+FF2FcB BAcB2G | A2GABG FcBABG | FF2FcA BAcB2G | AGBABG ABGF3 :|
+EEE2FG ABcde2 | e2dc2B AGBAGF | EEE2FG ABcde2 | e2dc2B AGBA3 :|
 
+X:50
+T:Տղա Զավեն
+T:Dgha Zaven
+C:ժողովորդական
+F:https://www.youtube.com/watch?v=o7gcU1Krm8o
+L:1/16
+Q:1/4=100
+M:4/4
+K:none
+[P:A] "Intro"
+|: g^fgafge2 |  fefgefd2 | dge2 efd2 |1 dcec d2e^f :|2 dcec d4 ||
+ fefgefd2 |  edefdec2 | dec2 cdB2 | BGBc d2de    |
+ fefgefd2 |  edefdec2 | dcdg dedc | dccB B4     ::
+[P:B] "Song"
+c2d2 (ec)d2 (dc)(cB) B4 | d2d2 (ec)d2 (ed)d2 (ec)d2  | d4 (ec)d2 (dc)(cB) B4 ::
+[P:C] "Interlude"
+Gg^fg e=fed d2(ce) d4   | d2(dc) e2(ed) (dc)(cB) B4 ::
+%
+[P:D][M:3/8] "Song 2: women"
+GG2 AB2 | B2B B3 | B2d ^cdB | B2B AB2 | AG2 G2D  | 
+G2B ABD | G2B A3 | d2B BB2  | B2B AB2 | AG2 G2D ::
+%
+[P:E] "Song 2: men"
+BB2 cd2 | d2d d3 | e2e dd2  | d2d de2 | d2c d3   |
+BB2 cd2 | d2c d3 | e2e dec  | d2d d2c | dec B3  ::
+%
+[P:F] "Outro"
+dcd e2d | cBc d2c | BAB c2B |1 AG^F GAB :|2 AG^F G3|]
+  
+  
+X:51
+T:Պարտեզում վարդեր բացված
+T:Partezum varder bats'vats
+C:Աշուղ Շերամ (Ashugh Sheram)
+L:1/8
+Q:1/4=100
+M:6/8
+K:Ephr ^G
+z2 (A/G/) A B2    | B2c AB2            | (A/G/) A B A (d>c)    | (B3 (c/B/) A) z |:
+w:Պար - տե-զում   | վար-դեր բաց-ված    | կը - սպա- սեն սո- խա- | կի
+z2 c B A2         | Pc2 B A  (GF)      |   E>B A G (FE)        |  E3- E  z2     :|
+w:Ա-ռանց սո-      | խակ թա - ռա- մած   | կա-րոտ են պը֊ սա֊     |կի
+A2 A (A/G/) F z   | A2 A (A/G/) F z    | (A/G/) A B A (PcB)    | (B3 (c/B/) A) z |:  
+w:Ար-դյոք ո՞վ *է, | դուռն է թա - կում  | Ա՜խ, * սիր-տս * կը֊դո-|ղա
+z2 c B A2         | Pc2 B A  GF        |   E>B A G (FE)        |  E3- E  z2     :|] 
+w:Իմ սի-րու-      | հիս ո՞ւր է գը-նում | Ա՜խ, սիր-տըս կը- խա-  |ղա
+%%multicol start
+%%begintext
+%%
+%%
+Պարտեզում վարդեր բացված,
+Կսպասեն սոխակի,
+Առանց սոխակ թառամած,
+Կարոտ են պսակի։
+
+|	Արդյոք ո՞վ է, դուռն է թակում,
+|	Ա՜խ, սիրտս կդողա,
+|	Իմ սիրուհիս ո՞ւր է գնում,
+|	Ա՜խ, սիրտս կխաղա։
+
+Գետակի ալիքները
+Գնում են խայտալով,
+Սիրահարի աչքերից
+Արտասուք թափելով։
+
+Սիրուհին տանը նստած՝
+Սպասում է յարին,
+Քնարը ձեռքին բռնած՝
+Նվագում լալագին։
+
+Թիթեռը ճրագի մոտ
+Շրջում է անդադար,
+Մինչ իր վերջ սիրակարոտ
+Չունի նա օր, դադար։
+
+Սիրուհին տանը նստած
+Գրում է նամակներ,
+Խիստ տրտում կանցկացնե
+Իր գեղեցիկ օրեր։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Partezum varder bacvac',
+Kspasen soxaki,
+Arranc soxak t'arramac',
+Karot en psaki։
+
+|	Ardyoq o՞v e', durrn e' t'akum,
+|	A՜x, sirts kdogha,
+|	Im siruhis o՞wr e' gnum,
+|	A՜x, sirts kxagha։
+
+Getaki aliqnery'
+Gnum en xaytalov,
+Sirahari achqeric
+Artasuq t'ap'elov։
+
+Siruhin tany' nstac'՝
+Spasum e' yarin,
+Qnary' dzerrqin brrnac'՝
+Nvagum lalagin։
+
+T'it'erry' tshragi mot
+Shrjum e' andadar,
+Minch ir verj sirakarot
+Chuni na or, dadar։
+
+Siruhin tany' nstac'
+Grum e' namakner,
+Xist trtum kanckacne
+Ir geghecik orer։
+%%
+%%endtext
+%%multicol end
+%
+X:52
+T:Քելե, քելե
+T:Kele, kele
+C:Կոմիտաս
+C:Gomidas
+L:1/8
+M:4/4
+Q:1/4=80
+K:Am
+CD EE (E/G/D) (D/E/C)         | (E>D) (D2 G4)                | 
+w: Քե-լե՛, քե-լե՛, քել -- քիդ | մեռ - նեմ
+CD EE (E/G/D) (D/E/C)         | (E>D) D4 z2                  |: 
+w:Քո գո-վա-կան   խել -- քիդ   | մեռ - նեմ,
+(E>D) (E/D/)(E/C/) (E>D) D2   | (E>D) (E/D/)(E/C/) (E>D) D2  |
+w:Սի--րա--վոր * լո--րիկ,      | վի--րա--վոր * լո--րիկ
+(E>D) (E/C/D/B,/)  (D>E) C2   | (D>C) (D/B,/C/A,/) (C>D) B,2 |
+w: Լո--------րիկ, | սև--ա--վոր *  լո--րիկ
+(CA,) A,2 A,4 :|]
+w: Լո--րիկ ջան: 
+%%multicol start
+%%begintext
+%%
+%%
+Քելե՛, քելե՛, քելքիդ մեռնեմ,
+Քո գովական խելքիդ մեռնեմ,
+ 
+    Սիրավոր լորիկ,
+    Վիրավոր լորիկ,
+    Լորիկ, 
+    Սևավոր լորիկ,
+    Լորիկ ջան:
+ 
+Քելե՛, քելե՛, քողիդ մեռնեմ,
+Քո լուսընկա շողիդ մեռնեմ:
+ 
+Քելե՛, քելե՛, բերնիդ մեռնեմ,
+Քո սիրունիկ ձենիդ մեռնեմ:
+ 
+Քելե՛, քելե՛, ձենիդ մեռնեմ,
+Քո հուր-կրակ սերիդ մեռնեմ,
+ 
+Քելե՛, քելե՛, աչիդ մեռնեմ,
+Քո անուշիկ պաչիդ մեռնեմ:
+
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Qele՛, qele՛, qelqid merrnem,
+Qo govakan xelqid merrnem,
+ 
+    Siravor lorik,
+    Viravor lorik,
+    Lorik, 
+    Sevavor lorik,
+    Lorik jan:
+ 
+Qele՛, qele՛, qoghid merrnem,
+Qo lusy'nka shoghid merrnem:
+ 
+Qele՛, qele՛, bernid merrnem,
+Qo sirunik dzenid merrnem:
+ 
+Qele՛, qele՛, dzenid merrnem,
+Qo hur-krak serid merrnem,
+ 
+Qele՛, qele՛, achid merrnem,
+Qo anushik pachid merrnem:
+
+%%
+%%endtext
+%%multicol end
+
+X:53
+T:Sheykhani
+O:Assyria, Armenia
+M:4/4
+L:1/16
+Q:1/4=100
+K:Am
+edec dBcA AcBc A3E   | ABcA Bc d2 dccB A4 ::
+cdec Td4   cdec dBcA | cdeg Td4 decd Bc A2 | ABcB cBcd TB3A A3A ::
+A^GAG AGAB BccB Ae2e | efde cdBc dccB A3E ::
+cdec Td4   cde2 dBcA | cdeg Td4 dg2d ecdB  | AccB cBcd TB3A A3A :|] 
+ 
+ 

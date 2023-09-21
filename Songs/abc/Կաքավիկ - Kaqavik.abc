@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:22
+
+X:18
 T:Կաքավիկ
 T:The Partridge
 C:Կոմիտաս (Komitas), Հովհաննես Թումանյան (Hovannes Tumanyan)
@@ -84,3 +85,4 @@ w: Սի -րու -- նի՜կ,     | սի -րու -- նի՜կ,       | սի-րու
 %%multicol end%
 %-------------------------------------------------
 %
+

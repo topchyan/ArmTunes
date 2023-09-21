@@ -1,0 +1,89 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+
+X:44
+T:Տալ տալա
+T:Tal tala
+N:Balu Armenian Song
+C:Ժողովորդական
+L:1/8
+Q:1/4=100
+M:10/8
+K:Am
+e2e e2  d2d A2                 | e2  e      e2   (d>c) e3    |
+w:Տալ տա-լա, տալ տա-լա         | տալ պո-յիդ ղուր - պան։
+e2e (e>c) d2d A2               | e2 (e/g/) (e>d) (d>c) (e2d) |
+w:Տալ տա-լա, * տալ տա-լա       | տալ պո - յիդ * ղուր - պան։
+(dc)d e>d (c>d)(B/c/) (A>G)    | (c>B)(c/d/) (B>A) (A>G) d3  |
+w:Մէջ - քու-կըդ բա-րակ էր      | գըր - կե - լուդ * հայ - րան,
+(dc)d (e>d) (c>d)(B/c/) (A>G)  | (c>B)(c/d/) (B>A) A2 A3         |]  
+w:Ե - րե- սըդ * կար - միր * էր,| պագ - նե - լուդ * ղուր- պան։
+%%multicol start
+%%begintext
+%%
+%%
+Տալ տալա, տալ տալա,
+Տալ պոյիդ ղուրպան։
+էջքուկըդ բարակ էր,
+Գըրկելուդ հայրան,
+Երեսըդ կարմիր էր,
+Պագնելուդ ղուրպան։
+%%
+Օր կ՝ըսեն Իստամբուլ,
+Սիրտըս կը թընդայ.
+Վախնամ՝ էրթաս, չի գաս,
+Տուշմանըս խընդայ։
+%%
+Տալ տալա, տալ տալա,
+Տալ պոյիդ ղուրպան...
+%%
+Գըցի փոստախանան,
+Նամակ ձըգեցի,
+Տասնհինգ օր սպասեցի,
+Ճուղապը չառի։
+%%
+Աղջի, Եղսօ ջան,
+Փոստաճին էկաւ,
+Կողակցէդ խապարներ բերաւ։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Tal tala, tal tala,
+Tal poyid ghurpan։
+e'jquky'd barak e'r,
+Gy'rkelud hayran,
+Yeresy'd karmir e'r,
+Pagnelud ghurpan։
+%%
+Or k՝y'sen Istambul,
+Sirty's ky' t'y'nday.
+Vaxnam՝ e'rt'as, chi gas,
+Tushmany's xy'nday։
+%%
+Tal tala, tal tala,
+Tal poyid ghurpan...
+%%
+Gy'ci p'ostaxanan,
+Namak dzy'geci,
+Tasnhing or spaseci,
+Tshughapy' charri։
+%%
+Aghji, Yeghso jan,
+P'ostatshin e'kaw,
+Koghakce'd xaparner beraw։
+%%
+%%endtext
+%%multicol end
+
+

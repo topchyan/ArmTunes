@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:21
+
+X:47
 T:Օրօր
 T:Lullaby
 C:Գեորգ Արմենյան (Gevorg Armenian)
@@ -24,3 +25,4 @@ G2 (GE) (F3 E)   | (GF) (GE) (F3 E) | F2 (GA) F2 (GE)  | D2   (FE) D4 :|
 %
 %-------------------------------------------------
 %
+

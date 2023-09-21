@@ -1,0 +1,42 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+
+X: 13
+T:Լազ պար
+T:Laz Bar
+O:Սեւ Ծով (Black Sea)
+F: https://www.youtube.com/watch?v=eCff6LFIj-Y
+L:1/8
+M:7/8
+Q:1/4=200
+K:Am
+%%scale .64
+%%MIDI gchord f2f2f3
+%%MIDI beatstring fpppmpp
+[P:A]
+Bcdc~d2c | ~d2cBA2G | Bcdc~d2c | Td2cBA2z | z2dge2c  | ~d2cBA2G  | ABcd BAG | A2A2A3   | 
+BcdGd2G  |  d2cBA2G | BcdGd2G  |  dGcBA2z | z2dge2G  |  dGcBABG  | ABcd B2G | A2A2A3  || 
+[P:B]
+z2cde2e  | e2efedc  | dddedcB  |  ccdBc3  | cBcdeed  | .e2.a2edc | d2de dcB | cBdBc3   |
+d2d2dcB  | c2c2cBA  | ABcdBAG  | A2Bcd3   | d2d2dcB  | c2c2cBA   | B2B2BAG  | A2A2A3  || 
+[P:C]
+G2AB c2G | c2c2c3   | c2d2e2d  | edegd3   | GGAB ccG | cGcGccG   | cGcdeGd  | edegd2G  | 
+A2cdB2G  | A2A2B2A  | c2cdB2G  | A2cea3   | cBcdBAG  | AEAEBEA   | cAcdBAG  | AEAEA3  ||
+[P:D][K:D _B]
+d2c2BAG    | A2B2cde  | d2c2BAG  | A2A2A3   | dcBcBAG   | AEBEcde   | dcBcBAG  | A2BGA3  |
+dec2BAG    | AEGAcde  | dcBcBAG  | ABcde2A  | dcB2BAG   | A2B2cde   | dcB2BAG  | AEBGA3  |
+[P:E]
+z2cdd2d    | dcdedcB  | A2B2c2B  | A2E2A3   | z2cdddc   | dcdedcB   | A2B2c2B  | G2A2A3  |
+z2ABB2A    | B2c2BAG  | A2B2cde  | c2BAA2G  | z2ABBAG   | B2c2BAG   | A2B2cde  | cBBAA3 ||
+[P:F][K:Am _B ^c]
+z2abag^f   | g2a2gfe   | fefgfed  | e2a2e3   | g2g2gfe   | f2f2fed   | dcdedcB | A2a2a3   | 
+a^gaba=g^f | gzgagfe   | fefgfed  | e2a2e3   | g^fgag=fe | fefgfed   | dcdecdB | AeceA3   |:
+[P:G]
+c2B2BAG    | A2B2cde   | c2B2BAG  | AEBGA3  :: dcBcBAG   | AABBcde   | dcBcBAG | A2E2A3  :|]
+

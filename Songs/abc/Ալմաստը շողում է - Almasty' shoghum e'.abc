@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:36
+
+X:1
 T:Ալմաստը շողում է
 T:Almaste Shoghum E
 C:Գուսան Շահեն (Gusan Shahen)
@@ -45,12 +46,10 @@ w: Յար ջան, սա-րի եղ-նիկ ես,            | ինչ-պես հը-պ
 Թուխ մազերդ փըռվել են երեսիդ խալի վըրա,
 Երկու սիրուն աղավնի քո կըրծքի յալի վըրա,
 Թառել են դըրախտ ծոցըդ, բաղ կըրծքիդ շալի վըրա։
-
     Աշխարհը եկել է, 
     կուզե քեզ սեյր անի.
     Յար ջան, սարի եղնիկ ես,
     Ինչպես հըպարտ ջեյրանի։
-
 Իմ յարը նավակով լողում է գյոլի մեջ,
 Մեկ անթառամ ծաղիկ է բուսել սիրուն չոլի մեջ,
 Քո նըմանը չեմ տեսել, աշխարհի գոլի մեջ,
@@ -67,12 +66,10 @@ Almasty' shoghum e' gy'lxid shali vy'ra,
 T'ux mazerd p'y'rrvel en eresid xali vy'ra,
 Yerku sirun aghavni qo ky'rc'qi yali vy'ra,
 T'arrel en dy'raxt c'ocy'd, bagh ky'rc'qid shali vy'ra։
-
     Ashxarhy' ekel e', 
     Kuze qez seyr ani.
     Yar jan, sari eghnik es,
     Inchpes hy'part jeyrani։
-
 Im yary' navakov loghum e' gyoli mej,
 Mek ant'arram c'aghik e' busel sirun choli mej,
 Qo ny'many' chem tesel, ashxarhi goli mej,
@@ -81,3 +78,4 @@ Shaheni sy'rti gyozal, im sy'rti xali vy'ra։
 %%endtext
 %%multicol end
 %
+

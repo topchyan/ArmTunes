@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:38
+
+X:35
 T:Չինար ես
 T:Chinar es
 C:Ըստ Կոմիտասի
@@ -28,3 +29,4 @@ w:    Հե-ռու ես,        | մո - ռա -- նալ *  մի        | յա՛ր
 w:    Յա՜ր  * նա  նա֊ ա՜յ   նայ * նա՜յ  | նա՜յ       նա - նա՜յ  |  նա՜յ *  նա՜յ ** նա՜յ ** նա՜յ  |  նա՜յ
 %
 %
+

@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:1
+
+X:3
 T:Առաքել Մուշեղ
 T:Arakel Mushegh 
 O:Armenia
@@ -73,3 +74,4 @@ w:   Ա- ~    վե -     րակ  ~   ջա ֊     | ղաց ~     հո - գի  ~ �
 %
 %-------------------------------------------------
 %
+

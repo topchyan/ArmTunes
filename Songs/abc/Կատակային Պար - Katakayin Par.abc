@@ -1,0 +1,22 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+
+X:49
+T:Կատակային Պար
+T:Gadagayin Bar (Humoresuqe dance)
+C:ժողովորդական
+F:https://www.youtube.com/watch?v=HrPq4KFGYXQ
+L:1/16
+Q:1/4=100
+M:4/4
+K:A
+ee2e2d c2dcBA | B2cBAG AGABcd | ee2e2d c2dcBA | B2cBAG ABGA3 :|
+FF2FcB BAcB2G | A2GABG FcBABG | FF2FcA BAcB2G | AGBABG ABGF3 :|
+EEE2FG ABcde2 | e2dc2B AGBAGF | EEE2FG ABcde2 | e2dc2B AGBA3 :|
+

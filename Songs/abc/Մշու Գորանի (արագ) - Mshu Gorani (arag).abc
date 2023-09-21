@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:43
+
+X:27
 T:Մշու Գորանի (արագ)
 T:Mshou Gorani (fast)
 C:Ժողովորդական
@@ -31,23 +32,18 @@ w:  Սուրբ Կաս- պեր կիչ - նե * վե-- րա | Մը- շո * գո-ր
 Յարմ գորանի
 Սուրբ Կասպեր կիչնե վերան
 Մշո գորանի
-
 Յարմ գորանի, մշո գորանի
 Յարմ գորանի վայ վայ 
 Մշո գորանի
-
 Ջուխտ անգոգնոց աղջիկներ
 Յարմ գորանի
 Կերթան վեր Սասնա սարին
 Մշո գորանի
-
 Յարմ գորանի...
-
 Քառսուն լուսնակ ուր կերթան
 Յարմ գորանի
 Կերթան կելնին Ծովասար
 Մշո գորանի
-
 Յարմ գորանի...
 %%
 %%endtext
@@ -61,25 +57,21 @@ E'n Msho dasht u duran
 Yarm gorani
 Surb Kasper kichne veran
 Msho gorani
-
 Yarm gorani, msho gorani
 Yarm gorani vay vay 
 Msho gorani
-
 Juxt angognoc aghjikner
 Yarm gorani
 Kert'an ver Sasna sarin
 Msho gorani
-
 Yarm gorani...
-
 Qarrsun lusnak ur kert'an
 Yarm gorani
 Kert'an kelnin C'ovasar
 Msho gorani
-
 Yarm gorani...
 %%
 %%endtext
 %%multicol end
 
+%

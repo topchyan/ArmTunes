@@ -1,0 +1,30 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+
+X:29
+T:Յարիմօ
+T:Yarimo
+L:1/16
+Q:1/4=120
+M:7/8
+P:ABACAB
+I:linebreak $
+K:Gm ^F
+[P:A] |: B2B2B2 B2>d2 cBAG      |[M:9/8] FGAG BcBA B2AG FG A4  |$
+[M:7/8]  G2G2G2 G2>B2 AGFE      |[M:9/8] D2AG AGFE G2FE FE D4 !fine! :|$
+[M:7/8]  G2G2G2 G2>A2 GFG2      |[M:9/8] FGA2 AGFE G2FE FE D4  |$ 
+[M:7/8]  G2G2G2 G2>F2 FED2      |[M:9/8] D2AG AGFE G2FE FE D4  |$
+[M:7/8]  G2G2G2 G2>A2 GFG2      |[M:9/8] FGBA GFE2 GFE2 FE D4  |$
+[M:7/8]  G2G2E2 F2>G2 FED2      |[M:9/8] D2AG AGFE G2FE FE D4 ::$ 
+[P:B]
+[M:8/8]  d2d2d2 d2>e2 c_Bc2 c2  |[M:9/8] ABc_B dcBA B2AG FG A4 !D.C.!:|$
+[P:C]
+[M:8/8] =B2B2B2 B2>c2 B^AB2 B2  |[M:9/8] =Bcdc e2cB c2cB ccB2 B2 |$
+[M:8/8] =B2B2B2 B2>c2 B^AB2 B2- |[M:9/8] =Bcde d2cB c2cB dcB2 B2 !D.C.!|] 
+

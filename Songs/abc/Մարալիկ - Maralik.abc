@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:28
+
+X:25
 T:Մարալիկ
 T:Maralik
 C:Հայ ավանդական եղանակ (Armenian Traditional Melody)
@@ -37,5 +38,4 @@ D8 A4 (G4A4F4) | (F4>E4G4) (F4G4E4) | (E4>D4F4) (E4F4C4) ::
 D8 z4 G4 F8 | G4 E8 (F4D4E4) | F4 D8 D8 C4 ::
 D4E4 F4G4 A8- | A4D4 F4E4 D4C4 | D8 z4 D4 (G8 |1 G4)D4 F4E4 D4C4 :|2 D24 |] 
 %%MIDI droneoff
-
 

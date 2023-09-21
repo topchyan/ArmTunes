@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:33
+
+X:36
 T:Սարերի հովին մեռնեմ
 T:Sareri Hovin Mernem
 C:Armenian Traditional Song
@@ -47,19 +48,16 @@ w:Մի տա-|րի է չեմ տե-|սել, տեսնողի, |յա՛ր, աչքին 
 Հովին մեռնեմ, հովին մեռնեմ,
 Իմ յարի բոյին մեռնեմ,
 Բոյին մեռնեմ, բոյին մեռնեմ։
-
     Կայնել եմ՝ գալ չեմ կարող,
     Գալ չեմ կարող, գալ չեմ կարող,
     Լցվել եմ՝ լալ չեմ կարող,
     Լալ չեմ կարող, լալ չեմ կարող,
     Մի տարի է չեմ տեսել,
     Տեսնողի, յա՛ր, աչքին մեռնեմ։
-
 Գետերը ջուր չեն բերում,
 Քեզանից լուր չեն բերում,
 Չըլնի՞ սերդ սառել է,
 Քո սերը, յա՛ր, զուր չեն բերում։
-
 %%
 %%endtext
 %%multicol new
@@ -72,14 +70,12 @@ Sareri hovin merrnem,
 Hovin merrnem, hovin merrnem,
 Im yari boyin merrnem,
 Boyin merrnem, boyin merrnem։
-
     Kaynel em՝ gal chem karogh,
     Gal chem karogh, gal chem karogh,
     Lcvel em՝ lal chem karogh,
     Lal chem karogh, lal chem karogh,
     Mi tari e' chem tesel,
     Tesnoghi, ya՛r, achqin merrnem։
-
 Getery' jur chen berum,
 Qezanic lur chen berum,
 Chy'lni՞ serd sarrel e',
@@ -88,3 +84,6 @@ Qo sery', ya՛r, zur chen berum։
 %%endtext
 %%multicol end
 %
+
+
+

@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:5
+
+X:7
 T:Գարնան ծաղիկ ես
 T:Garnan Tsagik Es
 C:Gusan Havasi
@@ -80,3 +81,4 @@ c2          c4 Bc (B_A2G)    | (G6       _AGFE) z2              | z2  (dc)(cB) (
 %
 %-------------------------------------------------
 %
+

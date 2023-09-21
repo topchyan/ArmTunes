@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:12
+
+X:33
 T:Նորից Գարուն Եկաւ (Ջէյրանի պէս)
 T:Norits Garoon Yekav (Jeyrani Pes) 
 C:Gusan Sheram [Գուսան Շերամ]
@@ -30,25 +31,46 @@ w: Կար-միր է - իր ~ հա - գել, վար-դի պէս վառ-ման
 w: Ջէյ-րա-նի ~ պէս ~ սա-րե-րով ե-կար ու ~ ան - ցար  
    "D"z2AB     (cB)(AG)  | (^F3G)A4    | "Cm"(AG)(GA)  (^FE)(ED)    | "D"D8               :|
 w: Մէկ բա-րեւ ~ էիր ~ տա - լիս, այն ~ էլ ~ մո - ռա - ցար:
-W:
-W:Verse 1: 
-W:Նորից գարուն եկաւ, գարուն աննման,
-W:Նորից ես քեզ տեսայ, ով իմ սիրուն եար,
-W:Կարմիր էիր հագել, վարդի պէս վառման:
-W:
-W:Chorus: 
-W:Ջէյրանի պէս սարերով եկար ու անցար,
-W:Մէկ բարեւ էիր տալիս, այն էլ մոռացար:
-W:
-W:Verse 2:
-W:Թուխ մազերդ էիր փռել, եար քո թիկունքին,
-W:Ալ ժպիտն էր շողում, եար քո շուրթերին,
-W:Երբեմն զուր տեղ փչում, սէրը շուրթերին:
-W:
-W:Verse 3:
-W:Աշխարհի մէջ դուն սիրուն, ո՞վ է քեզ ժպտում,
-W:Ինձ արել ես դատարկուն, վարմունքով հազար,
-W:Ես լալիս եմ դու խնդում, ու չես նայում եար:
+%
+%%multicol start
+%%begintext
+%%
+%%
+Նորից գարուն եկաւ, գարուն աննման,
+Նորից ես քեզ տեսայ, ով իմ սիրուն եար,
+Կարմիր էիր հագել, վարդի պէս վառման:
+
+| Ջէյրանի պէս սարերով եկար ու անցար,
+| Մէկ բարեւ էիր տալիս, այն էլ մոռացար:
+Թուխ մազերդ էիր փռել, եար քո թիկունքին,
+Ալ ժպիտն էր շողում, եար քո շուրթերին,
+Երբեմն զուր տեղ փչում, սէրը շուրթերին:
+Աշխարհի մէջ դուն սիրուն, ո՞վ է քեզ ժպտում,
+Ինձ արել ես դատարկուն, վարմունքով հազար,
+Ես լալիս եմ դու խնդում, ու չես նայում եար:
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Noric garun ekaw, garun annman,
+Noric es qez tesay, ov im sirun ear,
+Karmir e'ir hagel, vardi pe's varrman:
+| Je'yrani pe's sarerov ekar u ancar,
+| Me'k barev e'ir talis, ayn e'l morracar:
+T'ux mazerd e'ir p'rrel, ear qo t'ikunqin,
+Al zhpitn e'r shoghum, ear qo shurt'erin,
+Yerbemn zur tegh p'chum, se'ry' shurt'erin:
+Ashxarhi me'j dun sirun, o՞v e' qez zhptum,
+Indz arel es datarkun, varmunqov hazar,
+Yes lalis em du xndum, u ches nayum ear:
+%%
+%%endtext
+%%multicol end
+%
 %
 %-------------------------------------------------
 %

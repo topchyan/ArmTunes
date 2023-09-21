@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:45
+
+X:46
 T:Քամանչա
 T:Kamancha
 C:Սայաթ Նովա (Sayat-Nova)
@@ -16,6 +17,7 @@ M:6/8
 K:Ephr =f^g
 %%map color_blue * color=#0000ff 
 %%score ( 1 2 )
+%%scale 0.7
 %
 [P:Նվագ]
 [V:1]
@@ -64,22 +66,22 @@ x12 | x12 | x12 | x10 B,/C/B,/C/  |]
 Նաքազ մարդ քիզ չի կանայ տեսնի` դուն նըրա պասն իս, քամա՛նչա,
 Ղա՛ստ արա` է՛լ լաւ օրիրուն էդիվըն հասնիս, քամա՛նչա,
 Քիզ ինձնից ո՞վ կանայ խըլի` աշուղի բասն իս, քամա՛նչա:
-
+%%
 Անգաճըդ էրծաթէն պիտի, գըլուխըդ` ջավահիր քարած,
 Կութըդ շիրմայէմէն պիտի, փուրըդ` սադափով նաղշ արած,
 Սիմըդ օսկէն քաշած պիտի, էրկաթըդ` փանջարա արած,
 Օչով ղիմէթըդ չի գիդի` լալ ու ալմասն իս, քամա՛նչա:
-
+%%
 Ճիպուտըդ վարաղնած պիտի` թահր ունենայ հազար ռանգով.
 Ձարըդ ռաշի կուդէն պիտի, վուր դուն խօսիս քաղցըր հանգով.
 Շատին զարթուն կու լուսացնիս, շատին կու քընեցնիս բանգով.
 Անուշահամ գինով լիքըն` դուն օսկէ թասն իս, քամա՛նչա:
-
+%%
 Ածողիդ է՛րկու կու շինիս, առաջ չայի, ղափա գ'ուզիս.
 Կու մեձըրվիս այվընումըն, պարապ վախտի ռափա գ'ուզիս.
 Յիփ վիր գուքաս մէջլիսումըն` քաղցըր զօղ ու սափա գ'ուզիս,
 Բոլորքըդ գօզալնիր շարած` մէջլիսի կէսն իս, քամա՛նչա:
-
+%%
 Շատ տըխուր սիրտ կու խընդացնիս, կու կըտրիս հիվընդի դողըն,
 Յիփ քաղցըր ձայնըդ վիր կ'օնիս` բաց կու'լի հիդըդ խաղողըն.
 Խալխին էս իլթիմազն արա` ասին. «Ա՛պրի քու ածողըն»:
@@ -90,28 +92,26 @@ Ame'n sazi me'jy'n govac'` dun t'amam tasn is, qama՛ncha,
 Naqaz mard qiz chi kanay tesni` dun ny'ra pasn is, qama՛ncha,
 Gha՛st ara` e'՛l law orirun e'divy'n hasnis, qama՛ncha,
 Qiz indznic o՞v kanay xy'li` ashughi basn is, qama՛ncha:
-
+%%
 Angatshy'd e'rc'at'e'n piti, gy'luxy'd` javahir qarac',
 Kut'y'd shirmaye'me'n piti, p'ury'd` sadap'ov naghsh arac',
 Simy'd oske'n qashac' piti, e'rkat'y'd` p'anjara arac',
 Ochov ghime't'y'd chi gidi` lal u almasn is, qama՛ncha:
-
+%%
 Tshiputy'd varaghnac' piti` t'ahr unenay hazar rrangov.
 Dzary'd rrashi kude'n piti, vur dun xosis qaghcy'r hangov.
 Shatin zart'un ku lusacnis, shatin ku qy'necnis bangov.
 Anushaham ginov liqy'n` dun oske' t'asn is, qama՛ncha:
-
+%%
 Ac'oghid e'՛rku ku shinis, arraj chayi, ghap'a g'uzis.
 Ku medzy'rvis ayvy'numy'n, parap vaxti rrap'a g'uzis.
 Yip' vir guqas me'jlisumy'n` qaghcy'r zogh u sap'a g'uzis,
 Bolorqy'd gozalnir sharac'` me'jlisi ke'sn is, qama՛ncha:
-
+%%
 Shat ty'xur sirt ku xy'ndacnis, ku ky'tris hivy'ndi doghy'n,
 Yip' qaghcy'r dzayny'd vir k'onis` bac ku'li hidy'd xaghoghy'n.
 Xalxin e's ilt'imazn ara` asin. «A՛pri qu ac'oghy'n»:
 Qani sagh e' Sayat'-Nove'n, shat ban ku tesnis, qama՛ncha:
 %%
 %%endtext
-
-
 

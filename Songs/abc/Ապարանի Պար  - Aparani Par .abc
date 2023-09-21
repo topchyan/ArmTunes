@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:40
+
+X:2
 T:Ապարանի Պար 
 T:Aparani Par
 Z:Ara Dinkjian (transcription)
@@ -25,3 +26,4 @@ BAG2    GB A2>B2      |  GFE2  EA      G2>A2 |  [M:4/8] FGE2 A4     |
 F2G2    A2 A4         |  A_BAG AB^cBAG       |  F2G2    A2   A4     |  ^c_BAB"_D.С. al Fine" AG A4 :|
 %
 %
+

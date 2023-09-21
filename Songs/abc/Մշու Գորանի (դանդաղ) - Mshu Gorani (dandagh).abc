@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:42
+
+X:28
 T:Մշու Գորանի (դանդաղ)
 T:Mshou Gorani (slow)
 C:Ժողովորդական
@@ -30,16 +31,12 @@ w: Յար է-հո,  | յար էհո,        | մշու գո-            |րա-ն
 %%
 Ըդ անդեր Մըշու դաշտ հինգ հարիր գեղ էր,
 Ուր ջուրը կխմեր հիվանդի դեղ էր։
-
     Յար էհո, յար էհո, յարըմ գորանի
     Յար էհո, յար էհո, մշու գորանի
-
 Էս տարվա տարին ցորեն էր գարին,
 Էրթամ ու հասնիմ իմ խորոդ յարին։
-
 Ցորյան իմ ցանիլ իմ առվի պռնկան,
 Էրիլ է, թխիլ է դեպ արեգական։
-
 Ալաշկերտ, Մանազկերտ բարձան ու գացին,
 Մուշ ու Բուլանուխ նստան ու լացին։
 %%
@@ -52,19 +49,17 @@ w: Յար է-հո,  | յար էհո,        | մշու գո-            |րա-ն
 %%
 Ed ander My'shu dasht hing harir gegh e'r,
 Ur jury' kxmer hivandi degh e'r։
-
     Yar e'ho, yar e'ho, yary'm gorani
     Yar e'ho, yar e'ho, mshu gorani
-
 E's tarva tarin coren e'r garin,
 E'rt'am u hasnim im xorod yarin։ | 
-
 Coryan im canil im arrvi prrnkan,
 E'ril e', t'xil e' dep aregakan։
-
 Alashkert, Manazkert bardzan u gacin,
 Mush u Bulanux nstan u lacin։
 %%
 %%endtext
 %%multicol end
+
+
 

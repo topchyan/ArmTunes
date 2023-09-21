@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:26
+
+X:39
 T:Սիրելիս
 T:Sirelis
 C:Գուսան Շահեն (Gusan Shahen)
@@ -26,5 +27,4 @@ B(B/c/) (A>G) A>G | F(F/G/) F2 E2  | (!fermata!F2 G2- G/F/E/D/ | C6) |
 %
 DE (F>E) (F>E) | DE (F>E) F2 | (G/F/)(G/A/) (F>E) (F>E) | (F/E/)(F/G/) (E>D) D2 | 
 DE (F>E) (F>E) | DE (F>E) F2 | (G/F/)(G/A/) (F>E) F2    | (F/E/)(F/G/) (EF/D/) !fermata!D2 |] 
-
 

@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:20
+
+X:17
 T:Կարոտել եմ ես
 T:Karotel Em Es
 C:Գուսան Հավասի (Gusan Havasi)
@@ -90,3 +91,4 @@ w:Ա-նուշ * երգ  * ու   * տա - ղիդ   | կա րո - տել  *  եմ
 %
 %-------------------------------------------------
 %
+

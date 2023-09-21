@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:44
+
+X:31
 T:Նազանի
 T:Nazani 
 C:Սայաթ Նովա (Sayat-Nova)
@@ -32,8 +33,7 @@ w:Չը-կայ քի-զի նը-ման |         չա---փով, նա-զա-նի: | �
 %
 [P:Նվագ]
 z2 (B2A2) (PB2>A2G2) | z2 (c2=B2) (Pc2>_B2A2) |[M:3/8] z (!>!ABcde) |$[M:6/8] (Pd2cB) (Pc2BA) (BAG2) | 
-[M:3/8] (A2 c2 (BA) | BA G2) (A^F | G2) z4 S:|] 
-
+[M:3/8] (A2 c2 (BA) | BA G2) (A^F | G2) z4 S:|]
 %%multicol start
 %%begintext
 %%
@@ -42,22 +42,18 @@ z2 (B2A2) (PB2>A2G2) | z2 (c2=B2) (Pc2>_B2A2) |[M:3/8] z (!>!ABcde) |$[M:6/8] (P
 Չունքի ինձ զաւթեցիր խափով, նազա՛նի,
 Արիվիլք, արիվմուտ, հարաւ ու հիւսիս
 Չըկայ քիզի նըման չափով, նազա՛նի:
-
 Շատ մարդ քու էշխէմէն կու դառնայ յիզիդ,
 Արի մէ ռա՛հմ արա, լա՛ւ կացի միզիդ,
 Գ'ուզիմ, թէ համաշա դամ անիմ քիզիդ`
 Սանթուրով, քամանչով, դափով, նազա՛նի:
-
 Դարդիրըս շատացաւ` ասիլ իմ ուզում.
 Աչքէմէս արտասունք հուսիլ իմ ուզում.
 Համաշա, եա~ր, քիզիդ խօսիլ իմ ուզում,
 Սիրտըս չէ կըշտանում գափով, նազա՛նի:
-
 Հայալու իս, ադաբ ունիս, ար ունիս,
 Ձեռիդ` դաստա կապած սուսանբար ունիս,
 Տո՛ւր, ինձի սըպանէ` իխտիար ունիս.
 Հէնչաք ըլի` կէնաս բափով, նազա՛նի:
-
 Սայաթ-Նովէն ասաց` արզ անիմ Խանին.
 Ղաբուլ ունիմ` քու խաթրու ինձ սըպանին.
 Հէնչաք ըլի, եա~ր, գաս իմ գերեզմանին,
@@ -74,22 +70,18 @@ Dun e'n hurin is, vur ge'mi ku zawt'e',
 Chunqi indz zawt'ecir xap'ov, naza՛ni,
 Arivilq, arivmut, haraw u hiusis
 Chy'kaհ qizi ny'man chap'ov, naza՛ni:
-
 Shat mard qu e'shxe'me'n ku darrnah yizid,
 Ari me' rra՛hm ara, la՛w kaci mizid,
 G'uzim, t'e' hamasha dam anim qizid`
 Sant'urov, qamanchov, dap'ov, naza՛ni:
-
 Dardiry's shatacaw` asil im uzum.
 Achqe'me's artasunq husil im uzum.
 Hamasha, yar, qizid xosil im uzum,
 Sirty's che' ky'shtanum gap'ov, naza՛ni:
-
 Hayalu is, adab unis, ar unis,
 Dzerrid` dasta kapac' susanbar unis,
 Tur, indzi sy'pane'` ixtiar unis.
 He'nchaq y'li` ke'nas bap'ov, naza՛ni:
-
 Sayat'-Nove'n asac` arz anim Xanin.
 Ghabul unim` qu xat'ru indz sy'panin.
 He'nchaq y'li, yar, gas im gerezmanin,
@@ -97,4 +89,5 @@ Ac'is xughy'n vy're's ap'ov, naza՛ni:
 %%
 %%endtext
 %%multicol end
+ 
 

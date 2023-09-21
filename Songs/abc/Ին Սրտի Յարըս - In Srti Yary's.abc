@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:34
+
+X:12
 T:Ին Սրտի Յարըս
 T:Fresno Bar
 O:Fresno, CA, USA and West Armenia
@@ -36,3 +37,4 @@ K:Amin
 "Am" c2d e2 "Am7"d2 (c2e) | "Dm"d2c B2  A2  (cBA)    | "E"      B2c d2     "E7"c2 B3  | "Am"c2B A2  ^G2    A3    :|]
 %
 %
+

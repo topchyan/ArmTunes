@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:30
+
+X:22
 T:Հոյ Նազան
 T:Hoy Nazan
 C:Կոմիտաս (Komitas)
@@ -22,3 +23,4 @@ K:F
 G (G E) | F2 G | (E3/2 F/) D | D (D E)   | 
 F (F D) | (E2 F)             | D3        |1 D A2 :|2 D D2 |]
 %
+

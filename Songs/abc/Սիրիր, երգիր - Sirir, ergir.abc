@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:16
+
+X:40
 T:Սիրիր, երգիր
 T:Sirir, yerkir ("Sirdes","Armenian Misirlou")
 Z:John Chambers <jc@trillian.mit.edu> http://trillian.mit.edu/~jc/music/
@@ -89,3 +90,4 @@ w:~Ինչ որ ա--նես էն կը մը ֊նայ, ~ցը-նորք -նե-րի մ�
 %
 %-------------------------------------------------
 %
+

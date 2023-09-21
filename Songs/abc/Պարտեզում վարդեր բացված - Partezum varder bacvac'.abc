@@ -1,0 +1,99 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+
+X:51
+T:Պարտեզում վարդեր բացված
+T:Partezum varder bats'vats
+C:Աշուղ Շերամ (Ashugh Sheram)
+L:1/8
+Q:1/4=100
+M:6/8
+K:Ephr ^G
+z2 (A/G/) A B2    | B2c AB2            | (A/G/) A B A (d>c)    | (B3 (c/B/) A) z |:
+w:Պար - տե-զում   | վար-դեր բաց-ված    | կը - սպա- սեն սո- խա- | կի
+z2 c B A2         | Pc2 B A  (GF)      |   E>B A G (FE)        |  E3- E  z2     :|
+w:Ա-ռանց սո-      | խակ թա - ռա- մած   | կա-րոտ են պը֊ սա֊     |կի
+A2 A (A/G/) F z   | A2 A (A/G/) F z    | (A/G/) A B A (PcB)    | (B3 (c/B/) A) z |:  
+w:Ար-դյոք ո՞վ *է, | դուռն է թա - կում  | Ա՜խ, * սիր-տս * կը֊դո-|ղա
+z2 c B A2         | Pc2 B A  GF        |   E>B A G (FE)        |  E3- E  z2     :|] 
+w:Իմ սի-րու-      | հիս ո՞ւր է գը-նում | Ա՜խ, սիր-տըս կը- խա-  |ղա
+%%multicol start
+%%begintext
+%%
+%%
+Պարտեզում վարդեր բացված,
+Կսպասեն սոխակի,
+Առանց սոխակ թառամած,
+Կարոտ են պսակի։
+
+|	Արդյոք ո՞վ է, դուռն է թակում,
+|	Ա՜խ, սիրտս կդողա,
+|	Իմ սիրուհիս ո՞ւր է գնում,
+|	Ա՜խ, սիրտս կխաղա։
+
+Գետակի ալիքները
+Գնում են խայտալով,
+Սիրահարի աչքերից
+Արտասուք թափելով։
+
+Սիրուհին տանը նստած՝
+Սպասում է յարին,
+Քնարը ձեռքին բռնած՝
+Նվագում լալագին։
+
+Թիթեռը ճրագի մոտ
+Շրջում է անդադար,
+Մինչ իր վերջ սիրակարոտ
+Չունի նա օր, դադար։
+
+Սիրուհին տանը նստած
+Գրում է նամակներ,
+Խիստ տրտում կանցկացնե
+Իր գեղեցիկ օրեր։
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Partezum varder bacvac',
+Kspasen soxaki,
+Arranc soxak t'arramac',
+Karot en psaki։
+
+|	Ardyoq o՞v e', durrn e' t'akum,
+|	A՜x, sirts kdogha,
+|	Im siruhis o՞wr e' gnum,
+|	A՜x, sirts kxagha։
+
+Getaki aliqnery'
+Gnum en xaytalov,
+Sirahari achqeric
+Artasuq t'ap'elov։
+
+Siruhin tany' nstac'՝
+Spasum e' yarin,
+Qnary' dzerrqin brrnac'՝
+Nvagum lalagin։
+
+T'it'erry' tshragi mot
+Shrjum e' andadar,
+Minch ir verj sirakarot
+Chuni na or, dadar։
+
+Siruhin tany' nstac'
+Grum e' namakner,
+Xist trtum kanckacne
+Ir geghecik orer։
+%%
+%%endtext
+%%multicol end
+%

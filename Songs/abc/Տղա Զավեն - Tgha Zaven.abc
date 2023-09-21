@@ -1,0 +1,39 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+
+X:50
+T:Տղա Զավեն
+T:Dgha Zaven
+C:ժողովորդական
+F:https://www.youtube.com/watch?v=o7gcU1Krm8o
+L:1/16
+Q:1/4=100
+M:4/4
+K:none
+[P:A] "Intro"
+|: g^fgafge2 |  fefgefd2 | dge2 efd2 |1 dcec d2e^f :|2 dcec d4 ||
+ fefgefd2 |  edefdec2 | dec2 cdB2 | BGBc d2de    |
+ fefgefd2 |  edefdec2 | dcdg dedc | dccB B4     ::
+[P:B] "Song"
+c2d2 (ec)d2 (dc)(cB) B4 | d2d2 (ec)d2 (ed)d2 (ec)d2  | d4 (ec)d2 (dc)(cB) B4 ::
+[P:C] "Interlude"
+Gg^fg e=fed d2(ce) d4   | d2(dc) e2(ed) (dc)(cB) B4 ::
+%
+[P:D][M:3/8] "Song 2: women"
+GG2 AB2 | B2B B3 | B2d ^cdB | B2B AB2 | AG2 G2D  | 
+G2B ABD | G2B A3 | d2B BB2  | B2B AB2 | AG2 G2D ::
+%
+[P:E] "Song 2: men"
+BB2 cd2 | d2d d3 | e2e dd2  | d2d de2 | d2c d3   |
+BB2 cd2 | d2c d3 | e2e dec  | d2d d2c | dec B3  ::
+%
+[P:F] "Outro"
+dcd e2d | cBc d2c | BAB c2B |1 AG^F GAB :|2 AG^F G3|]
+  
+  

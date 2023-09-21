@@ -1,0 +1,86 @@
+%%encoding     utf-8
+%%titlefont    Times-Bold 24
+%%subtitlefont Times      20
+%%textfont     Courier    12
+%%wordsfont    Serif      14
+%%vocalfont    Sans       14
+%%footer       $IF
+
+
+X:52
+T:Քելե, քելե
+T:Kele, kele
+C:Կոմիտաս
+C:Gomidas
+L:1/8
+M:4/4
+Q:1/4=80
+K:Am
+CD EE (E/G/D) (D/E/C)         | (E>D) (D2 G4)                | 
+w: Քե-լե՛, քե-լե՛, քել -- քիդ | մեռ - նեմ
+CD EE (E/G/D) (D/E/C)         | (E>D) D4 z2                  |: 
+w:Քո գո-վա-կան   խել -- քիդ   | մեռ - նեմ,
+(E>D) (E/D/)(E/C/) (E>D) D2   | (E>D) (E/D/)(E/C/) (E>D) D2  |
+w:Սի--րա--վոր * լո--րիկ,      | վի--րա--վոր * լո--րիկ
+(E>D) (E/C/D/B,/)  (D>E) C2   | (D>C) (D/B,/C/A,/) (C>D) B,2 |
+w: Լո--------րիկ, | սև--ա--վոր *  լո--րիկ
+(CA,) A,2 A,4 :|]
+w: Լո--րիկ ջան: 
+%%multicol start
+%%begintext
+%%
+%%
+Քելե՛, քելե՛, քելքիդ մեռնեմ,
+Քո գովական խելքիդ մեռնեմ,
+ 
+    Սիրավոր լորիկ,
+    Վիրավոր լորիկ,
+    Լորիկ, 
+    Սևավոր լորիկ,
+    Լորիկ ջան:
+ 
+Քելե՛, քելե՛, քողիդ մեռնեմ,
+Քո լուսընկա շողիդ մեռնեմ:
+ 
+Քելե՛, քելե՛, բերնիդ մեռնեմ,
+Քո սիրունիկ ձենիդ մեռնեմ:
+ 
+Քելե՛, քելե՛, ձենիդ մեռնեմ,
+Քո հուր-կրակ սերիդ մեռնեմ,
+ 
+Քելե՛, քելե՛, աչիդ մեռնեմ,
+Քո անուշիկ պաչիդ մեռնեմ:
+
+%%
+%%endtext
+%%multicol new
+%%leftmargin 12cm
+%%rightmargin 1cm
+%%begintext
+%%
+%%
+Qele՛, qele՛, qelqid merrnem,
+Qo govakan xelqid merrnem,
+ 
+    Siravor lorik,
+    Viravor lorik,
+    Lorik, 
+    Sevavor lorik,
+    Lorik jan:
+ 
+Qele՛, qele՛, qoghid merrnem,
+Qo lusy'nka shoghid merrnem:
+ 
+Qele՛, qele՛, bernid merrnem,
+Qo sirunik dzenid merrnem:
+ 
+Qele՛, qele՛, dzenid merrnem,
+Qo hur-krak serid merrnem,
+ 
+Qele՛, qele՛, achid merrnem,
+Qo anushik pachid merrnem:
+
+%%
+%%endtext
+%%multicol end
+

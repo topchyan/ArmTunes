@@ -1,12 +1,13 @@
 %%encoding     utf-8
 %%titlefont    Times-Bold 24
 %%subtitlefont Times      20
-%%textfont     Serif      12
+%%textfont     Courier    12
 %%wordsfont    Serif      14
 %%vocalfont    Sans       14
 %%footer       $IF
 
-X:15
+
+X:38
 T:Սիրահար եմ
 T:Sirahar Yem
 O:Armenia
@@ -90,3 +91,4 @@ w:Թե որ չը֊      |      տան, յա-րո ջան, | կը-փախ - ցը-  
 %
 %-------------------------------------------------
 %
+
